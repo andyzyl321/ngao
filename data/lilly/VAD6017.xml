@@ -172,6 +172,13 @@
           <unittitle>Alströmer mss.</unittitle>
           <physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">184
               items</extent><extent altrender="carrier">(1 box)</extent></physdesc>
+          <dao audience="internal" xlink:actuate="onRequest"
+                xlink:href="https://pages.dlib.indiana.edu/concern/scanned_resources/dwh247324p/manifest"
+                xlink:show="new" xlink:title="Photograph Album">
+              <daodesc>
+                  <p>Photograph Album</p>
+              </daodesc>
+          </dao>
         </did>
       </c01>
     </dsc>
