@@ -11,6 +11,11 @@ Rails.application.routes.draw do
     concerns :range_searchable
   end
 
+  resource :repositories, as: 'repositories', path: '/catalog', controller: 'arclight/repositories' do
+    concerns :searchable
+    concerns :range_searchable
+  end
+
   devise_for :users, controllers: { sessions: 'users/sessions', omniauth_callbacks: "users/omniauth_callbacks" },
              skip: [:sessions, :passwords, :registration]
   # devise_for :users, :controllers => { :omniauth_callbacks => "users/omniauth_callbacks" }

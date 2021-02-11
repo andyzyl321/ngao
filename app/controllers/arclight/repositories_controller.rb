@@ -1,11 +1,19 @@
 # frozen_string_literal: true
 
 ##### COPIED FROM ARCLIGHT TO ADD CAMPUS LEVEL #####
-
+# Added search suggest config 
 module Arclight
   # Controller for our /repositories index page
   ##### Added group by campus and sorting alphabetically for campus and repository #####
   class RepositoriesController < ApplicationController
+    # Copied L10-15 from Blacklight Catalog Controller v7.11.1 to include search suggest 
+    include Blacklight::Catalog
+    configure_blacklight do |config|
+      # Configuration for autocomplete suggestor
+      config.autocomplete_enabled = true
+      config.autocomplete_path = 'suggest'
+    end
+
     def index
       @repositories = Arclight::Repository.all
       @campuses = @repositories.sort_by{ |repository| repository.name }.group_by{ |campus| campus.campus }.sort
