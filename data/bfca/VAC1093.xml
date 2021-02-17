@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">VAC1093</eadid><filedesc><titlestmt><titleproper>Louis Guida Collection, <date normal="1990/1999" type="inclusive">1990-1999</date> <num>Special Collection LG</num></titleproper><subtitle>A Guide to his Holdings at the Black Film Center/Archive</subtitle><author>Finding aid prepared by Mary Huelsbeck/Hannah Caproon/Gabriel Gardner</author></titlestmt><publicationstmt><publisher>Test - Black Film Center/Archive</publisher><p><date>ÂŠ 2011</date></p><address><addressline>1320 East Tenth Street</addressline><addressline>Herman B Wells Library, Room 044</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>bfca@indiana.edu</addressline><addressline>URL: <extptr xlink:href="https://bfca.sitehost.iu.edu" xlink:show="new" xlink:title="https://bfca.sitehost.iu.edu" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2011">ÂŠ 2011</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-07-02 04:01:44 -0400</date>.</creation><langusage>Description is in English.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Test - Black Film Center/Archive</corpname>
+    </repository>
+    <unittitle>Louis Guida Collection</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">Louis Guida</corpname>
+    </origination>
+    <unitid>Special Collection LG</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">20 items(About)(About)</extent>
+    </physdesc>
+    <unitdate normal="1990/1999" type="inclusive">1990-1999</unitdate>
+    <abstract id="aspace_1061a65a73ba2925e95a5b9f97455ac3">Materials related to the film <emph render="italic">Saturday Night, Sunday Morning</emph>.</abstract>
+    <langmaterial id="aspace_6b05308af8bfa4ad0adb696c242694c7">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_f5f6b4050e867168479127ac2ab68d9c">
+    <head>Access Restrictions</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <bioghist id="aspace_5a5063e71bf74d4766b5a7abb29ffd52">
+    <head>Biographical Note</head>
+<p>Winner of an American Film and Video Festival blue ribbon, the documentary explores the links and tensions of the sacred and secular in African American culture, as well as chronicling Moore's life from band leader to evangelical preacher. Described by King as "one of the greatest blues singers ever," Moore first gained fame singing in Chicago and Memphis during the 1930s and 1940s. Moore was converted to Christianity in a Chicago night club in 1949, causing him to leave the blues behind at the height of his career. He later became the South's first Black religious disc jockey and a pioneering civil rights radio reporter. </p><p> Guida is an award-winning producer and director. His other documentaries include <emph render="italic">When You Make a Good Crop,</emph> a CINE Golden Eagle winner about Italian American farmers, and <emph render="italic">All Day and All Night,</emph> a New Directors/New Films entry about the music of Beale Street.</p>  </bioghist>
+  <scopecontent id="aspace_44f1a69e85394329f1fa41a6b08658a9">
+    <head>Scope and Content Note</head>
+<p>The Louis Guida Collection features the complete film footage and recordings used in the production of the filmmaker's 1992 documentary, <emph render="italic">Saturday Night, Sunday Morning.</emph> The award-winning film presents the life of blues singer and songwriter the Rev. Arnold Dwight "Gatemouth" Moore, best known for his hit, "Did You Ever Love a Woman?" The film includes interviews and performances by the musician and preacher Al Green, former NAACP Director Benjamin Hooks, blues great B.B. King, and rhythm and blues veteran Rufus Thomas.</p><p> Film footage highlights include: </p><p> A spontaneous performance by 78-year-old Moore singing "Did You Ever Love a Woman?" with Rufus Thomas at Club Royale in Memphis. </p><p>Moore preaching at churches in Memphis and Yazoo City and commemorating Martin Luther King Jr. at the Lorraine Motel in Memphis (where the civil rights leader was assassinated). </p><p>Footage of Memphis' Beale Street, the historic Beale Street Church, and the venerable Peabody Hotel.</p>  </scopecontent>
+  <acqinfo id="aspace_bda47a30b5b2c0dbede3095e1d855bcd">
+    <head>Acquisition Information</head>
+<p>The collection was donated in October 1993.</p>  </acqinfo>
+  <userestrict id="aspace_e164c50aa541b90ca70e6c704b40daba">
+    <head>Usage Restrictions</head>
+<p>Photocopying permitted only with permission of the Archivist.</p>  </userestrict>
+  <prefercite id="aspace_0c5140b1c38de7bfcaa7f7c36a426b58">
+    <head>Preferred Citation</head>
+<p>[item], Louis Guida Collection, Special Collection LG, Black Film Center/Archive, Indiana University, Bloomington.</p>  </prefercite>
+  <processinfo id="aspace_4eeaa3b06e18d7b36ea037d54553f8d1">
+    <head>Processing Information</head>
+<p>Processed by BFC/A staff.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcnaf">African American actors.</subject>
+  </controlaccess>
+  <dsc><c01 id="aspace_3daa1a56f9c29918e62e7353f910e7f5" level="series"><did><unittitle><emph render="italic">Saturday Night, Sunday Morning</emph></unittitle><unitdate normal="1992/1992">1992</unitdate></did><c02 id="aspace_1f62ecbdf03f99041d4586a07e4d198b" level="item"><did><unittitle>Videocassette, VHS format, 70 minutes</unittitle></did></c02><c02 id="aspace_c160f5653ffc860188c7b9a680529080" level="item"><did><unittitle>Complete film footage (16mm film reels) used in the making of <emph render="italic">Saturday Night, Sunday Morning</emph></unittitle></did></c02><c02 id="aspace_35ebce797be844e9b86a099ae5fc85ef" level="item"><did><unittitle>Audiocassette copies and printed transcripts of interviews with people appearing in the documentary. Interviews include those with Gatemouth Moore and his wife Walterine Moore, Al Green, Benjamin Hooks, Rufus Thomas, and B.B. King.</unittitle></did></c02></c01></dsc>
+</archdesc>
+</ead>

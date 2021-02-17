@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">VAC1091</eadid><filedesc><titlestmt><titleproper>Burnham Ware Collection, <date normal="1980/1989">1980-1989</date> <num>Special Collection BW</num></titleproper><subtitle>A Guide to his Holdings at the Black Film Center/Archive</subtitle><author>Finding aid prepared by Mary Huelsbeck/Hannah Caproon/Gabriel Gardner</author></titlestmt><publicationstmt><publisher>Test - Black Film Center/Archive</publisher><p><date>ÂŠ 2011</date></p><address><addressline>1320 East Tenth Street</addressline><addressline>Herman B Wells Library, Room 044</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>bfca@indiana.edu</addressline><addressline>URL: <extptr xlink:href="https://bfca.sitehost.iu.edu" xlink:show="new" xlink:title="https://bfca.sitehost.iu.edu" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2011">ÂŠ 2011</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-07-02 04:01:11 -0400</date>.</creation><langusage>Description is in English.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Test - Black Film Center/Archive</corpname>
+    </repository>
+    <unittitle>Burnham Ware Collection</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">Burnham Ware</corpname>
+    </origination>
+    <unitid>Special Collection BW</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">12 Items</extent>
+    </physdesc>
+    <unitdate normal="1980/1989" type="inclusive">1980-1989</unitdate>
+    <abstract id="aspace_3cca964c3d78020a4a69f355e426a3f7">Video and audio prints of lectures filmed by filmmaker and still photographer, Burnham Wareh&gt;.</abstract>
+    <langmaterial id="aspace_6fabfa5bde25598bfbc96386922f32fc">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_a793c57c233805cbd415d998af7da7cb">
+    <head>Access Restrictions</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <bioghist id="aspace_c6ac41f643246cb3c0fc68cde8afe94d">
+    <head>Biographical Note</head>
+<p>Burnham Ware (b. 1949- ), filmmaker and still photographer, donated nine Super 8mm films to the Black Film Center/Archive. Mr. Ware shot the footage while attending lectures in the early 1980s at Georgetown and Kentucky State Universities.</p><p>  Mr. Ware currently lives in Owenton, Kentucky, and is retired from his job as a laborer. He has had photographs published in 20 publications, books and newspapers. He enjoys Blues recordings; plays guitar, harmonica and the washboard. Mr. Ware has made five short films in the 1980s on various topics.</p>  </bioghist>
+  <scopecontent id="aspace_e2e4183d88de36a0319e860d791c0882">
+    <head>Scope and Content Note</head>
+<p>The Burnham Ware Collection contains two 8mm reels on Houston Baker, lecturer at Kentucky State University; four 8mm reels on Alex Haley, lecturer at Georgetown College, Georgetown, Kentucky on October 7, 1982; one 8mm reel on Gloria Naylor, lecturer at the Women's Writer's Conference, University of Lexington, Lexington, Kentucky; and two 8mm reels on Terry McMillan, lecturer at Kentucky State University.</p>  </scopecontent>
+  <acqinfo id="aspace_5ba57efe08804195cd02357f23e9b784">
+    <head>Acquisition Information</head>
+<p>The collection was donated in October 1993.</p>  </acqinfo>
+  <userestrict id="aspace_d398c3da89e639e1679211a444bc7109">
+    <head>Usage Restrictions</head>
+<p>Photocopying permitted only with permission of the Archivist.</p>  </userestrict>
+  <prefercite id="aspace_34625911f6ebd54085d23927e346e0a5">
+    <head>Preferred Citation</head>
+<p>[item], Burnham Ware Collection, Special Collection BW, Black Film Center/Archive, Indiana University, Bloomington.</p>  </prefercite>
+  <processinfo id="aspace_3be8bb628453ebec44a1495a31ede006">
+    <head>Processing Information</head>
+<p>Processed/cataloged by Monique Threatt.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcnaf">African American actors.</subject>
+    <subject source="lcnaf">Amateur films.</subject>
+    <persname audience="internal" source="lcnaf">Baker, Houston A.</persname>
+    <persname audience="internal" source="lcnaf">Haley, Alex.</persname>
+    <persname audience="internal" source="lcnaf">McMillan, Terry.</persname>
+    <persname audience="internal" source="lcnaf">Naylor, Gloria.</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_9258b8b400a8fd8e86c6b801a58bad15" level="series"><did><unittitle>African American Literature Series</unittitle></did><c02 id="aspace_3f0b7d90834b7359cda72a4599609456" level="item"><did><unittitle>RB1809
+
+ Terry McMillan #1
+
+ Kentucky State University; [1980s]; Lecture
+
+ Super 8mm; 3 min.; 50 ft.
+
+ b&amp;w and sound
+
+ visual q: good
+
+ audio q: unk
+
+ no copyright on film</unittitle></did></c02><c02 id="aspace_1b9702a59d4413bc3fd75e8e15e76164" level="item"><did><unittitle>RB1810
+
+ Terry McMillan #2
+
+ Kentucky State University; [1980s]; Lecture
+
+ Super 8mm; 3 min.; 50 ft.
+
+ b&amp;w and sound
+
+ visual q: good
+
+ audio q: unk
+
+ no copyright on film</unittitle></did></c02><c02 id="aspace_0679652c8806b9b5a9b2e101c0f2f2b3" level="item"><did><unittitle>RB1811
+
+ Gloria Naylor
+
+ Women's Writers Conference; [1980s]; Lecture
+
+ University of Kentucky; Lexington, Kentucky
+
+ Super 8mm; 3 min.; 50 ft.
+
+ b&amp;w and sound
+
+ visual q: good
+
+ audio q: unk
+
+ no copyright on film</unittitle></did></c02><c02 id="aspace_28f672de323d0af4ed4a83e546446814" level="item"><did><unittitle>RC1812
+
+ Alex Haley #1
+
+ Georgetown College, Georgetown, Kentucky; 7 October 1982
+
+ Super 8mm, 24 fps; 3 min.; 50 ft.
+
+ color and sound
+
+ visual q: good
+
+ audio q: unk
+
+ no copyright on film</unittitle></did></c02><c02 id="aspace_18ed46a8451ee50e7a74985b6c48c7a0" level="item"><did><unittitle>RC1813
+
+ Alex Haley #2
+
+ Georgetown College, Georgetown, Kentucky; 7 October 1982
+
+ Super 8mm, 24 fps; 3 min.; 50 ft.
+
+ color and sound
+
+ visual q: good
+
+ audio q: unk
+
+ no copyright on film</unittitle></did></c02><c02 id="aspace_f6a81ef182dc553f827189b499b73b47" level="item"><did><unittitle>RC1814
+
+ Alex Haley #3
+
+ Georgetown College, Georgetown, Kentucky; 7 October 1982
+
+ Super 8mm, 24 fps; 3 min.; 50 ft.
+
+ color and sound
+
+ visual q: good
+
+ audio q: unk
+
+ no copyright on film</unittitle></did></c02><c02 id="aspace_9bb10ff677b33e962b01fecc822efb16" level="item"><did><unittitle>RC1815
+
+ Alex Haley #4
+
+ Georgetown College, Georgetown, Kentucky; 7 October 1982
+
+ Super 8mm, 24 fps; 3 min.; 50 ft.
+
+ color and sound
+
+ visual q: good
+
+ audio q: unk
+
+ no copyright on film</unittitle></did></c02><c02 id="aspace_6a4c25cb920d594c680f47d2fbe7ad71" level="item"><did><unittitle>RC1816
+
+ Houston Baker #1
+
+ Kentucky State University, [1980s]; Lecture
+
+ Super 8mm; 3 min.; 50 ft.
+
+ color and sound
+
+ visual q: good
+
+ audio q: unk
+
+ no copyright on film</unittitle></did></c02><c02 id="aspace_d238ba4e3aa47fcc8d23e80c851dce26" level="item"><did><unittitle>RC1817
+
+ Houston Baker #2
+
+ Kentucky State University, [1980s]; Lecture
+
+ Super 8mm; 3 min.; 50 ft.
+
+ color and sound
+
+ visual q: good
+
+ audio q: unk
+
+ no copyright on film</unittitle></did></c02></c01><c01 id="aspace_af9200cea97bcf0f301ab98aea52f82e" level="series"><did><unittitle>Color slides</unittitle></did><c02 id="aspace_ea7b5d92a872b759a69b1ae2ddb3f419" level="item"><did><unittitle>Terry McMillan</unittitle></did></c02><c02 id="aspace_5bbfb9e0c8ec19d0908fcfb8eebc8da1" level="item"><did><unittitle>Alex Haley (2)</unittitle></did></c02></c01></dsc>
+</archdesc>
+</ead>

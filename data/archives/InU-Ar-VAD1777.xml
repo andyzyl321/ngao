@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAD1777</eadid><filedesc><titlestmt><titleproper>Jane Fox papers,<date normal="1926/1969">1926-1969</date> <num>C554</num></titleproper><subtitle>A Guide to her Papers at the Indiana University Archives</subtitle><author>Finding aid prepared by Meg Knapke</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2014</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2014">ÂŠ 2014</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 04:53:15 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change audience="internal"><date>May 9, 2014</date><item>Finding aid created.</item></change><change audience="internal"><date>November 16, 2017</date><item>Batch update to change repository name, subject links, preferred citation, and user restrictions.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Jane Fox papers</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname source="lcnaf">Fox, Jane.</persname>
+    </origination>
+    <unitid>C554</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.6 cubic feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate normal="1926/1969" type="inclusive">1926-1969</unitdate>
+    <abstract id="aspace_5acae89ffd8950ce2b164651788fde34">Jane Fox taught modern dance at IU from 1927-1965. Her papers include correspondence, research notes, papers and course materials and some publications by others on dance.</abstract>
+    <langmaterial id="aspace_1819b239fda275aeda5e29e3b17c9678">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_8642b41cd97d8dc0fb31552cc2345f12">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice required.</p>  </accessrestrict>
+  <bioghist id="aspace_adea7016914ac1cd9d3ebd18e303571d">
+    <head>Biographical Note</head>
+<p>Jane Fox was born on November 30, 1899 in Clay County, Kentucky. She attended school at the University of Missouri, transferred to the American College of Physical Education in Chicago, and finished her undergraduate degree at Columbia University in New York in 1927. In 1934 she earned her Master's degree in education from Indiana University. She was hired as an instructor in the IU Physical Education Department in 1927, and was promoted to an assistant professor in 1933 and as an associate professor in 1951. During her tenure at IU, Fox taught natural and modern dance as well as theory and technique courses for the teacher training program. Fox choreographed the productions of Parsifal and The Book of Ruth for IU's School of Music. She also established a modern dance workshop for the IU campus. Publications included "Let's Go Modern," "Problems in Dance Production," and "Together We Dance." Fox retired in 1965 and passed away on February 16, 1991.</p>  </bioghist>
+  <scopecontent id="aspace_707ff69e62df5bc9a7b76e8dabdfe35d">
+    <head>Scope and Content Note</head>
+<p>The Jane Fox papers are arranged into one series of Subject files. Included in this small series is an article written by Fox ("Together We Dance") as well as several other papers written during the course of her career, some correspondence, two folders of research notes for her class on the history and theory of dance and other research activities, and a few assorted publications by other writers related to dance.</p>  </scopecontent>
+  <relatedmaterial id="aspace_d9af53a20cfb565c03b3fb096c066546">
+    <head>Related Material</head>
+<p>Additional publications and research materials may be accessed in <extref xlink:href="http://scholarworks.iu.edu/">IUScholarworks</extref> </p><p> Related photographs may be available in the <extref xlink:href="http://webapp1.dlib.indiana.edu/archivesphotos/">University Archives Photographs Database</extref></p>  </relatedmaterial>
+  <userestrict id="aspace_0ddb4321aa9a57e8bb62adefdbd3c06b">
+    <head>Usage Restrictions</head>
+<p>The donor(s) of this collection have not transferred their copyrights for the materials to the Trustees of Indiana University. For more information, please contact the Indiana University Archives staff.</p><p> The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archivist.</p>  </userestrict>
+  <acqinfo id="aspace_dabbd14cba9dae519d6988803dd7e880">
+    <head>Acquisition Information</head>
+<p>Accession 1182 and 2013/080</p>  </acqinfo>
+  <prefercite id="aspace_6e336e10125e2e04fcfec7402958de63">
+    <head>Preferred Citation</head>
+<p>[Item], Jane Fox papers, Collection C554, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <custodhist id="aspace_3e70aa14cf055300b15970ff129f37df">
+    <head>Provenance</head>
+<p>Transferred from the School of Public Health to the University Archives, July 2013</p>  </custodhist>
+  <appraisal id="aspace_17eed3cf2aa64009d8668e82646f8ea2">
+    <head>Appraisal</head>
+<p>Some fragmentary notes of unknown origin were destroyed.</p>  </appraisal>
+  <processinfo id="aspace_b69581ec3c5b3cc2054197c9ecc68830">
+    <head>Processing Information</head>
+<p>Processed by Meg Knapke and Phil Bantin.</p><p> Completed in <date normal="2014">2014</date>.</p>  </processinfo>
+  <controlaccess>
+    <subject source="ingest">Fox, Jane --Archives</subject>
+    <subject source="lcnaf">Fox, Jane --Correspondence</subject>
+    <subject source="lcsh">Dance teachers --Indiana --Bloomington --History --Sources</subject>
+    <subject source="lcsh">Modern dance --Study and teaching (Higher) --Indiana --Bloomington --History --Sources</subject>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAD1777-00001" level="series"><did><unittitle>Subject files</unittitle><unitdate normal="1926/1969" type="inclusive">1926-1969, undated</unitdate><container id="aspace_c92e55480c144a6bdfa1e10203ef94f5" label="box" type="box">1</container></did><c02 id="aspace_VAD1777-00005" level="file"><did><unittitle>Clippings and programs</unittitle><unitdate normal="1937/1957" type="inclusive">1937-1957, undated</unitdate><container id="aspace_53a079d4a2dc60f1169d33f27a85ab7a" label="box" type="box">1</container></did></c02><c02 id="aspace_VAD1777-00002" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1943/1965" type="inclusive">1943-1965, undated</unitdate><container id="aspace_6b482e87a551e385776ea9d0d832856c" label="box" type="box">1</container></did></c02><c02 id="aspace_VAD1777-00006" level="file"><did><unittitle>Course materials</unittitle><unitdate normal="1938/1947" type="inclusive">1938-1947, undated</unitdate><container id="aspace_83f0702eb027b3076bbb82ebd423c919" label="box" type="box">1</container></did></c02><c02 id="aspace_VAD1777-00007" level="file"><did><unittitle>Papers by Jane Fox</unittitle><unitdate normal="1935/1962" type="inclusive">1935-1962, undated</unitdate><container id="aspace_43e881a8885c8ffbc61d7e1e3bafa29b" label="box" type="box">1</container></did></c02><c02 id="aspace_VAD1777-00003" level="file"><did><unittitle>Publications by other researchers collected by Jane Fox</unittitle><unitdate normal="1926/1969" type="inclusive">1926-1969</unitdate><unitdate normal="1926/1969" type="inclusive">undated</unitdate><container id="aspace_f8fc2930c10364e17f372254173bd292" label="box" type="box">1</container></did></c02><c02 id="aspace_VAD1777-00004" level="file"><did><unittitle>Research notes for class on history and theory of dance and other research activities (2 folders)</unittitle><unitdate normal="1926/1969" type="inclusive">undated</unitdate><container id="aspace_250504bb4571255eecc2dff4d61c184a" label="box" type="box">1</container></did></c02><c02 id="aspace_VAD1777-00008" level="file"><did><unittitle>"Together We Dance"</unittitle><unitdate normal="1926/1969" type="inclusive">undated</unitdate><container id="aspace_7bd8b03d2aaa74c6785286f4a50eeb86" label="box" type="box">1</container></did></c02></c01></dsc>
+</archdesc>
+</ead>
