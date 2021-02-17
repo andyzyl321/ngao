@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">VAC1092</eadid><filedesc><titlestmt><titleproper>John West Collection, <date normal="1997/2000" type="inclusive">1997-2000</date> <num>Special Collection JW</num></titleproper><subtitle>A Guide to his Holdings at the Black Film Center/Archive</subtitle><author>Finding aid prepared by Mary Huelsbeck/Hannah Caproon/Gabriel Gardner</author></titlestmt><publicationstmt><publisher>Test - Black Film Center/Archive</publisher><p><date>ÂŠ 2011</date></p><address><addressline>1320 East Tenth Street</addressline><addressline>Herman B Wells Library, Room 044</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>bfca@indiana.edu</addressline><addressline>URL: <extptr xlink:href="https://bfca.sitehost.iu.edu" xlink:show="new" xlink:title="https://bfca.sitehost.iu.edu" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2011">ÂŠ 2011</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-07-02 04:03:26 -0400</date>.</creation><langusage>Description is in English.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Test - Black Film Center/Archive</corpname>
+    </repository>
+    <unittitle>John West Collection</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">John West</corpname>
+    </origination>
+    <unitid>Special Collection JW</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">20 items(About)(About)</extent>
+    </physdesc>
+    <unitdate normal="1997/2000" type="inclusive">1997-2000</unitdate>
+    <abstract id="aspace_b92fbc7d00ad2d34225b86689e634d7a">Materials related to the film <emph render="italic">Bar-Be-Q</emph>.</abstract>
+    <langmaterial id="aspace_2978511bf674eee751573c16be8ca763">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_18d526e87785cf6177423b8deffd38e1">
+    <head>Access Restrictions</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <bioghist id="aspace_68a23e6055c1264ee92a98afe9662580">
+    <head>Biographical Note</head>
+<p>John West was born June 21, 1970 in Chicago, Illinois. After graduating from Paul Robeson High School in Chicago, Mr. West attended Alabama A&amp;M University and became a professional football player, playing one year in the NFL with the Los Angeles Raiders, as well as stints in the Canadian Football League with the Ottawa Rough Riders and the Shreveport Pirates. Following his sports career, Mr. West decided to go into show business, landing his first acting job in 1997 as a bailiff on the popular sitcom "Martin." He also had a recurring role on the police drama "New York Undercover." Despite having no formal education in film production, in 2000 Mr. West wrote, directed and starred in the film Bar-Be-Q, which played theatrically in the South and Chicago. Mr. West currently resides in Los Angeles.</p>  </bioghist>
+  <scopecontent id="aspace_d980d09eb2e1ab190f2a4a099b1edccf">
+    <head>Scope and Content Note</head>
+<p>The bulk of this collection contains material related to the 2000 film <emph render="italic">Bar-Be-Q</emph>, written and directed by John West. The collection includes a 35mm print of the film, as well as the screenplay, a VHS cassette of several television interviews with West at the time of the film's release, and an assortment of promotional materials and newspaper clippings pertaining to the film.</p>  </scopecontent>
+  <acqinfo id="aspace_1640486aa195fa042f542ed143c8b267">
+    <head>Acquisition Information</head>
+<p>The collection was donated in January 2005.</p>  </acqinfo>
+  <userestrict id="aspace_b00279c50d9abe2680a471f49c6ef2d6">
+    <head>Usage Restrictions</head>
+<p>Photocopying permitted only with permission of the Archivist.</p>  </userestrict>
+  <prefercite id="aspace_555b0f8e1d4f9902c2ecbdd9b58298f4">
+    <head>Preferred Citation</head>
+<p>[item], John West Collection, Special Collection JW, Black Film Center/Archive, Indiana University, Bloomington.</p>  </prefercite>
+  <controlaccess>
+    <subject source="lcnaf">Advertising--Motion pictures.</subject>
+    <subject source="lcnaf">African American actors.</subject>
+  </controlaccess>
+  <dsc><c01 id="aspace_02bb2af411e0e50eee47d360b747949a" level="series"><did><unittitle><emph render="italic">Bar-Be-Q</emph></unittitle><unitdate normal="2000/2000">(2000)</unitdate></did><c02 id="aspace_cf3d401d438cf8680dc9fa918293aa90" level="subseries"><did><unittitle>35mm film</unittitle></did><c03 id="aspace_6aaac0f9d9e9eef6858b481a15e4bdba" level="item"><did><unittitle>35mm print of film (6 reels)</unittitle></did></c03></c02><c02 id="aspace_c205c79e76a49537aed9afeed432f26f" level="subseries"><did><unittitle>Promotional Material</unittitle></did><c03 id="aspace_73f9d453e4f6e9dd961df75011354d7d" level="item"><did><unittitle>VHS cassette with two local television interviews from time of film's release (app. 30 min)</unittitle></did></c03><c03 id="aspace_814b5f84ae41f88d3276885afe3e1cb8" level="item"><did><unittitle>VHS sleeve for film</unittitle></did></c03><c03 id="aspace_b55f05f168162b0e70da3be309ea041f" level="item"><did><unittitle>Screenplay with cast list and script breakdown</unittitle></did></c03><c03 id="aspace_6247c3025574d7694002b3dc8fbd3d0b" level="item"><did><unittitle>Poster reproduction (from laser printer)</unittitle></did></c03><c03 id="aspace_0b76efc1fe548226a17e0ee491aebd07" level="item"><did><unittitle>Promotional postcard</unittitle></did></c03><c03 id="aspace_7376c1018dfd8edf360d75083d291e5a" level="item"><did><unittitle>Photograph of West standing in front of <emph render="italic">Bar-Be-Q</emph> poster</unittitle></did></c03><c03 id="aspace_9330c27a9ca476f0f548faf491bb55af" level="item"><did><unittitle>Signed poster (11x17) -- laser printer -- "To Indiana U."</unittitle></did></c03><c03 id="aspace_6d9bfa7cf8d848a3ff55a2580ce8ea72" level="item"><did><unittitle>Photograph -- Tupac Shakur's pastor, Akeni (radio personality), Afeni Shakur (Tupac Shakur's mother) and John West at film screening</unittitle></did></c03></c02><c02 id="aspace_043bef192f803b6fe8af7b1d64c295a5" level="subseries"><did><unittitle>Newspaper Clippings</unittitle></did><c03 id="aspace_5d717b9f425fc33fcd4322c88e5f18e2" level="file"><did><unittitle>Various unattributed Xeroxed newspaper clippings</unittitle></did></c03></c02><c02 id="aspace_218b8b76e3ca2157a634f7c841923c93" level="subseries"><did><unittitle>Miscellaneous Material</unittitle></did><c03 id="aspace_9a034b044a8ddcad977d5a6bea8fdd28" level="item"><did><unittitle><emph render="italic">To Have and to Hold</emph> (year unknown) DVD -- 6 copies (1 with general collection)</unittitle></did></c03></c02></c01></dsc>
+</archdesc>
+</ead>

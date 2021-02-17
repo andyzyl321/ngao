@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAC5323</eadid><filedesc><titlestmt><titleproper>Indiana University Students for a Democratic Society newsletters, <date normal="1965/1966">1965-1966</date> <num>C469</num></titleproper><subtitle>A Guide to the Records at the Indiana University Archives</subtitle><author>Finding aid prepared by Alison Reynolds</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2014</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2014">ÂŠ 2014</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 05:08:39 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Indiana University Students for a Democratic Society newsletters</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">Students for a Democratic Society (U.S.). Bloomington Chapter (Bloomington, Ind.)</corpname>
+    </origination>
+    <unitid>C469</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">5 items</extent>
+      <extent altrender="carrier">.1 cubic foot</extent>
+    </physdesc>
+    <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
+    <abstract id="aspace_b5782f7428e7c9530005e72b141d92a4">The Indiana University chapter of Students for a Democratic Society (SDS) was founded in 1964 and remained active until 1969 when the national organization disbanded. The newsletters in this collection were created to be a forum for members of IU and the surrounding community to express their opinions on local problems, goals, and solutions relating to areas of the New Left political movement.</abstract>
+    <langmaterial id="aspace_f4df6cc0c1cdd9a812ae29284f9a54f2">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_e000f7944c6cb5df0bbe59b504582bf3">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice required.</p>  </accessrestrict>
+  <bioghist id="aspace_8d9992a77198af574b7db8e3bd277b02">
+    <head>Administrative History</head>
+<p>The Indiana University chapter of Students for a Democratic Society (SDS) was founded in 1964 and remained active until 1969 when the national organization disbanded. SDS was a nationwide organization primarily composed of, created, and directed by college students. This organization was part of the New Left political movement of the 1960s and its members protested the Vietnam War, were in favor of the Civil Rights Movement, and advocated free speech on university campuses.</p><p> The Indiana University chapter was small, reporting 40 members in 1967, but active and outspoken. They gathered much attention in the <title render="italic">Indiana Daily Student</title> and other local press through their protests and actions against the University Administration. They disliked the power held by the Board of Trustees and thought that the University Administration was too involved in regulating students' daily lives. The organization's primary actions included holding protests, distributing pamphlets and publications encouraging anti-war, anti-government, and anti-establishment sentiments, and working to increase group membership and awareness of these issues. In 1965, the group tried to obstruct the draft process by distributing forms and publishing booklets instructing students on how to apply for conscientious objector status, which was a federal offense at the time.</p><p> Their most public act towards the university was the submission of a document to President Elvis Stahr in 1968 demanding that IU cease its support of the ROTC program, disallow military presence on campus, and cease any funding, training, or research support for the military. They also wanted IU to stop sending police to student protests, clearly label administrators at protest events, and to ban campus police from carrying weapons that may be used against protestors. All of their demands were denied by the President's Office, and their statements also garnered a lengthy response from former President Herman B Wells, which was published in the <title render="italic">Indiana Daily Student.</title></p>  </bioghist>
+  <arrangement id="aspace_309f8a14a7d26f6101bc6a8046f0115b">
+    <head>Arrangement</head>
+<p>Newsletters are arranged chronologically.</p>  </arrangement>
+  <scopecontent id="aspace_c331ae56ccaf59ac33abc16dc946340b">
+    <head>Scope and Content Note</head>
+<p>The newsletters in this collection were created as a forum for people in the IU community to express their opinions, comments, and ideas about the New Left political movement. They were written, published, and distributed by student volunteers.</p><p> The newsletters contain editorials, speeches, requests for volunteers for membership activities, relevant reading lists and bibliographies, and information about upcoming protests, community events, and projects sponsored by SDS. This organization had its own Civil Rights Committee, and newsletter topics covered include writings about the Civil Rights Movement, support for SNCC, the March on Washington, and actions against the KKK. They also include speeches and writings from the national SDS organization, updates about issues surrounding the Vietnam War, opinions on current political events in Washington, D.C., and complaints against government or university policies.</p><p> The newsletters also discuss issues relevant to IU, such as plans to form a community outreach program for low-income areas of Bloomington, a debate over whether or not participation at demonstrations would harm or help SDS's reputation on campus, and an article about the role of women in SDS, an issue which later gained nationwide attention and helped spawn the Women's Liberation Movement of the 1960s.</p><p> The first two newsletters also contain issues of <title render="italic">I.F. Stone's Weekly.</title></p>  </scopecontent>
+  <relatedmaterial id="aspace_11df37df77fd6f2e751b75af838b08aa">
+    <head>Related Material</head>
+<p>Related photographs may be available in the <extref xlink:href="http://webapp1.dlib.indiana.edu/archivesphotos/">University Archives Photographs Database:</extref></p>  </relatedmaterial>
+  <acqinfo id="aspace_4bf19452834cfbf3ee2e39aa2e885d9c">
+    <head>Acquisition Information</head>
+<p>Pulled from 2008/025 and 2013/125</p>  </acqinfo>
+  <userestrict id="aspace_4c945341d6724fa3660931b147588fce">
+    <head>Usage Restrictions</head>
+<p>The donor(s) of this collection have not transferred their copyrights for the materials to the Trustees of Indiana University. For more information, please contact the Indiana University Archives staff.</p><p> The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archivist.</p>  </userestrict>
+  <prefercite id="aspace_4d1fb2c93be41f8c576686f455d4b377">
+    <head>Preferred Citation</head>
+<p>[Item], Indiana University Students for a Democratic Society newsletters, Collection C469, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <custodhist id="aspace_f690a04d899857ef08115b2b32725e25">
+    <head>Provenance</head>
+<p>Pulled from Accession 2008/025 of Henry Remak's papers and materials sent by IU alumnus David H. Kelly, Accession 2013/125.</p>  </custodhist>
+  <processinfo id="aspace_259720b69805c3fccde4a9c5393efc57">
+    <head>Processing Information</head>
+<p>Processed by Alison Reynolds.</p><p> Completed in <date normal="2012">2012</date>.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">College students --Political activity --Indiana --Bloomington --Periodicals.</subject>
+    <subject source="lcsh">Student movements --Indiana --Bloomington --Periodicals.</subject>
+    <corpname audience="internal" source="lcnaf">Students for a Democratic Society (U.S.). Bloomington Chapter (Bloomington, Ind.) --Periodicals.</corpname>
+    <corpname audience="internal" source="lcnaf">SDS (Bloomington, Ind.)</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAC5323-00006" level="file"><did><unittitle>Newsletters</unittitle></did><c02 id="aspace_VAC5323-00007" level="item"><did><unittitle>Vol. 1, No. 1</unittitle><unitdate normal="1965-11-17/1965-11-17">17 November 1965</unitdate><container id="aspace_4986f7c48a7ea2d733cc3c897a021b2d" label="box" type="box">SC6</container></did></c02><c02 id="aspace_VAC5323-00002" level="item"><did><unittitle>Vol. 1, No. 2</unittitle><unitdate normal="1965-12-06/1965-12-06">6 December 1965</unitdate><container id="aspace_9231b68a401f67196e04b6c4ca45a84b" label="box" type="box">SC6</container></did></c02><c02 id="aspace_VAC5323-00003" level="item"><did><unittitle>Vol. 1, No. 3</unittitle><unitdate normal="1965-12-13/1965-12-13">13 December 1965</unitdate><container id="aspace_23a7952986406ce4b274a39ec605cf88" label="box" type="box">SC6</container></did></c02><c02 id="aspace_VAC5323-00004" level="item"><did><unittitle>Vol. 1, No. 4</unittitle><unitdate normal="1966-01-10/1966-01-10">10 January 1966</unitdate><container id="aspace_ad421321888405a21f512d8148f3ab61" label="box" type="box">SC6</container></did></c02><c02 id="aspace_VAC5323-00005" level="item"><did><unittitle>Vol. 2, No. 3</unittitle><unitdate normal="1966-08-01/1966-08-01">1 August 1966</unitdate><container id="aspace_2be514a05ba69a32581a7f90190921c4" label="box" type="box">SC6</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

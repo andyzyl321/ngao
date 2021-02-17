@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAD4123</eadid><filedesc><titlestmt><titleproper>The Date, <date normal="1946/1947">1946-1947</date> <num>C576</num></titleproper><subtitle>A Guide to the Records at the Indiana University Archives</subtitle><author>Finding aid prepared by Jessica Lopez</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2015</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2015">ÂŠ 2015</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 05:02:31 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>The Date</unittitle>
+    <unitid>C576</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.2 cubic feet</extent>
+      <extent altrender="carrier">1 small dc</extent>
+    </physdesc>
+    <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate>
+    <abstract id="aspace_b038944743f889fdb454f3ed35f27908"><emph render="italic">The Date</emph> was an Indiana University student-published editorial circulated in late 1940s that documented campus culture in a light and humorous way. This small collection consists of issues spanning 1946-1947.</abstract>
+    <langmaterial id="aspace_a66f64f87afcc0b62e87d46eb5374a03">Materials are in <language langcode="eng">English</language>.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_e082e067d4c81259a10d2a018abfbf42">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice required.</p>  </accessrestrict>
+  <bioghist id="aspace_3bda27e35956a920f036a7b7e88ede07">
+    <head>Administrative History</head>
+<p>Certainly not the literature parents expected their sons and daughters to read at the university, <emph render="italic">The Date</emph> was filled with all things youth culture on campus. <emph render="italic">The Date</emph> was a student humor magazine first published in March 1946 which was filled with quips between sororities and fraternities on campus, pictures of those recently "pinned," funny cartoons, and short stories. The last known issue was released in November 1947.</p>  </bioghist>
+  <arrangement id="aspace_182b65b33e32067e1cdf7b745b3da9fe">
+    <head>Arrangement</head>
+<p>The collection is organization into a single series of <emph render="italic">The Date</emph> magazine arranged chronologically.</p>  </arrangement>
+  <scopecontent id="aspace_d17755d218a356ff52bb8c1d902534f1">
+    <head>Scope and Content Note</head>
+<p>Included in the collection are fourteen published issues spanning the years 1946 to 1947. The collection is arranged chronologically.</p>  </scopecontent>
+  <relatedmaterial id="aspace_601334413260ff41de2072f7cd4e25e7">
+    <head>Related Material</head>
+<p>Related photographs may be available in the <extref xlink:href="http://webapp1.dlib.indiana.edu/archivesphotos/">University Archives Photographs Database.</extref></p>  </relatedmaterial>
+  <acqinfo id="aspace_7f402cd412ffe1c7375ac392d8fcc685">
+    <head>Acquisition Information</head>
+<p>Pulled from Publications.</p>  </acqinfo>
+  <userestrict id="aspace_78a5e606e419a19ac8510828c80501f9">
+    <head>Usage Restrictions</head>
+<p>The donor(s) of this collection have not transferred their copyrights for the materials to the Trustees of Indiana University. For more information, please contact the Indiana University Archives staff.</p><p> The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archivist.</p>  </userestrict>
+  <prefercite id="aspace_8da8d20abf4d979bded5e9e316b3e788">
+    <head>Preferred Citation</head>
+<p>[Item], The Date, Collection C576, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <processinfo id="aspace_6deae1f3a13771966743256b15bfef5e">
+    <head>Processing Information</head>
+<p>Processed by Jessica Lopez.</p><p> Completed in <date normal="2015">2015</date></p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">College students--Humor.</subject>
+    <subject source="lcsh">College wit and humor--Newspapers.</subject>
+    <subject source="lcsh">College students--Indiana--Bloomington--Periodicals.</subject>
+    <subject source="lcsh">College students' writings, American--Indiana--Bloomington--Periodicals.</subject>
+    <genreform source="lcsh">Humor.</genreform>
+    <corpname audience="internal" source="lcnaf">Indiana University--Students--Periodicals.</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAD4123-00001" level="series"><did><unittitle>The Date</unittitle><unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate><container id="aspace_f719f61d9ed83675f85213d05fc6d26d" label="box" type="Box">1</container></did><c02 id="aspace_VAD4123-00002" level="file"><did><unittitle>Volume 1</unittitle><container id="aspace_cc3120197e6fa3fe270b4373dcdf2fe4" label="box" type="Box">1</container></did><c03 id="aspace_VAD4123-00003" level="file"><did><unittitle>No. 1</unittitle><unitdate normal="1946-03-15/1946-03-15">March 15, 1946</unitdate><container id="aspace_7c7566cfd280c8de7cc3a6d4b9ac68de" label="box" type="Box">1</container></did></c03><c03 id="aspace_VAD4123-00004" level="file"><did><unittitle>No. 2</unittitle><unitdate normal="1946-04-15/1946-04-15">April 15, 1946</unitdate><container id="aspace_2289582f0e7df26d0610e036110f33da" label="box" type="Box">1</container></did></c03><c03 id="aspace_VAD4123-00005" level="file"><did><unittitle>No. 3</unittitle><unitdate normal="1946-05-15/1946-05-15">May 15, 1946</unitdate><container id="aspace_eddfc764828d8f068f386b2ad78c55e4" label="box" type="Box">1</container></did></c03><c03 id="aspace_VAD4123-00006" level="file"><did><unittitle>No. 4</unittitle><unitdate normal="1946-06-15/1946-06-15">June 15, 1946</unitdate><container id="aspace_9a3286d1874608e9568882d53be8ee43" label="box" type="Box">1</container></did></c03></c02><c02 id="aspace_VAD4123-00007" level="file"><did><unittitle>Volume 2</unittitle><container id="aspace_c034ba70b73dcd396f2e670d675de3ad" label="box" type="Box">1</container></did><c03 id="aspace_VAD4123-00008" level="file"><did><unittitle>No. 1</unittitle><unitdate normal="1946-11-15/1946-11-15">November 15, 1946</unitdate><container id="aspace_d8945d0cf23348d9623e9e3881217508" label="box" type="Box">1</container></did></c03><c03 id="aspace_VAD4123-00009" level="file"><did><unittitle>No. 2, Snow Issue</unittitle><unitdate normal="1946/1946">1946</unitdate><container id="aspace_dd40236855e7945b37adac574cc7dcd4" label="box" type="Box">1</container></did></c03><c03 id="aspace_VAD4123-00010" level="file"><did><unittitle>No. 3</unittitle><unitdate normal="1947-01/1947-01">January 1947</unitdate><container id="aspace_a4a1f423785fd2b7928f2ad9e6a3aeb6" label="box" type="Box">1</container></did></c03><c03 id="aspace_VAD4123-00011" level="file"><did><unittitle>No. 4</unittitle><unitdate normal="1947-02/1947-02">February 1947</unitdate><container id="aspace_fee3c1508084a21e1a883aea7fa62479" label="box" type="Box">1</container></did></c03><c03 id="aspace_VAD4123-00012" level="file"><did><unittitle>No. 5</unittitle><unitdate normal="1947-03/1947-03">March 1947</unitdate><container id="aspace_0b556c934cf80ac94df407e7ea38eed3" label="box" type="Box">1</container></did></c03><c03 id="aspace_VAD4123-00013" level="file"><did><unittitle>No. 6</unittitle><unitdate normal="1947-04/1947-04">April 1947</unitdate><container id="aspace_9f3545a5b60444aa29da355bcaf2e733" label="box" type="Box">1</container></did></c03><c03 id="aspace_VAD4123-00014" level="file"><did><unittitle>No. 7</unittitle><unitdate normal="1947-05/1947-05">May 1947</unitdate><container id="aspace_a379921f3bfc49bc8320ca4ab4832586" label="box" type="Box">1</container></did></c03><c03 id="aspace_VAD4123-00015" level="file"><did><unittitle>No. 8</unittitle><unitdate normal="1947-06/1947-06">June 1947</unitdate><container id="aspace_01562ad7a6bf082cc767360cb1c96c41" label="box" type="Box">1</container></did></c03></c02><c02 id="aspace_VAD4123-00016" level="file"><did><unitdate normal="1947-10/1947-10">October 1947</unitdate><container id="aspace_7812a25c127bf3c9765f0f23e1bd281a" label="box" type="Box">1</container></did></c02><c02 id="aspace_VAD4123-00017" level="file"><did><unitdate normal="1947-11/1947-11">November 1947</unitdate><container id="aspace_8fc3638021cae5285b367f685dbc458b" label="box" type="Box">1</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

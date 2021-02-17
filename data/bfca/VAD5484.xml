@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">VAD5484</eadid><filedesc><titlestmt><titleproper>Josef Gugler African and Middle Eastern Film Collection, <date normal="1947/2013">1947-2013</date> <num>COL 12</num></titleproper><subtitle>A Guide to His Holdings at the Indiana University Black Film Center/Archive</subtitle><author>Finding aid prepared by BFC/A Staff</author></titlestmt><publicationstmt><publisher>Test - Black Film Center/Archive</publisher><p><date>© 2016</date></p><address><addressline>1320 East Tenth Street</addressline><addressline>Herman B Wells Library, Room 044</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>bfca@indiana.edu</addressline><addressline>URL: <extptr xlink:href="https://bfca.sitehost.iu.edu" xlink:show="new" xlink:title="https://bfca.sitehost.iu.edu" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2016">© 2016</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-07-02 04:01:11 -0400</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change audience="internal"><date>April 20, 2016</date><item>Initial encoding</item></change><change audience="internal"><date>December 1, 2017</date><item>Batch update to change subject links.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Test - Black Film Center/Archive</corpname>
+    </repository>
+    <unittitle>Josef Gugler African and Middle Eastern Film Collection</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname authfilenumber="n82036349" source="lcnaf">Gugler, Josef</persname>
+    </origination>
+    <unitid>COL 12</unitid>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">12 Boxes</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1149 Posters</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">416 audiovisual recordings</extent>
+    </physdesc>
+    <unitdate normal="1947/2013" type="inclusive">1947-2013</unitdate>
+    <abstract id="aspace_9c9dd1c0e91f49967a9365c4986e21d7">The Josef Gugler collection consists of promotional materials for films produced in or directed by filmmakers from Africa and the Middle East. Over 500 unique films by approximately 350 film directors are represented. Formats include film posters, pressbooks, chirashi flyers, lobby and storefront cards, handbills, photographs, slides, and audiovisual recordings.</abstract>
+    <langmaterial id="aspace_34fbe7a495433e1f6a9a5148ba2325c8">Materials are in <language langcode="mul">multiple languages</language>, predominantly <language langcode="fre">French</language>, <language langcode="eng">English</language>, and <language langcode="ger">German</language>, but also <language langcode="ara">Arabic</language>, <language langcode="heb">Hebrew</language>, <language langcode="jpn">Japanese</language>, and various other European and Asian languages.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_34a430b1fe231ba6419db282e6666d00">
+    <head>Access Restrictions</head>
+<p>The materials in this collection are open to the public.</p>  </accessrestrict>
+  <bioghist id="aspace_3fdfb2839bc95cba95d4ba604ff88100">
+    <head>Biographical History</head>
+<p>In summer 2015 University of Connecticut Professor Emeritus Josef Gugler donated his collection of research materials related to African and Middle Eastern film to the BFC/A. Much of Gugler's research and the resulting publications have focused on issues arising from the urbanization of developing countries, particularly in Sub-Saharan Africa. Since 1961 he has performed research or served as a visiting lecturer/professor in Nigeria, Tanzania, the Congo, Uganda, Kenya, and Senegal.</p><p> In 1991 Gugler began teaching a course called "Modern Africa: Re-Imaging Africa through Films and Novels" at the University of Connecticut. The posters, films, videos, and other promotional materials donated to the BFC/A served to support his research and coursework on African film and led to the publication of his African Film: Re-Imaging a Continent (Indiana University Press 1993, reprinted 2003). Later, Gugler's research interests in international film expanded to North Africa and the Middle East. Additional publications related to Gugler's work on African film and his more recent exploration of Middle Eastern film are listed below. </p><p> Gugler's awards and honors include and a senior fellowship from the American Institute of Indian Studies (1980-1981), a Choice Outstanding Academic Book award for <title render="italic">The Urban Transformation of the Developing World</title> (1997), a National Science Foundation Dissertation Grant for Monibo A. Sam (1997), and grants from Cologne University and the French Government (1957-1958), the German Research Association (1961-1963, 1987-1991), the University of Connecticut Research Foundation (1969-2001), and the Bureau of Educational and Cultural Affairs of the State Deparment (2001-2004).</p>    <chronlist>
+      <head><emph render="bold">Josef Gugler Partial Curriculum Vitae</emph></head>
+      <chronitem>
+        <date>2010</date>
+        <eventgrp>
+          <event>Member of the jury for fiction films at PanAfrica International, Montreal</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>2001--2004</date>
+        <eventgrp>
+          <event>Grant for linkage between the University of Connecticut and the Ecole Nationale d'Economie Appliquée, Senegal, from the Bureau of Educational and Cutlural Affairs of the State Department</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1989</date>
+        <eventgrp>
+          <event>Research on urbanization in Kenya</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1987</date>
+        <eventgrp>
+          <event>Research on urbanization in Nigeria</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1964--1970</date>
+        <eventgrp>
+          <event>Lecturer, then Director of Sociological Research (Makerere Institute of Social Research) at Makerere University College (Uganda); Research on ubanization in Uganda, Kenya, and Tanzania</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1968</date>
+        <eventgrp>
+          <event>Visiting Professor at Lovanium University Kinshasa (Congo); Visiting Senior Lecturer at the University College, Dar es Salaam (Tanzania)</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1961--1963</date>
+        <eventgrp>
+          <event>Research in Nigeria, Cologne, and Lond on urbanization in Nigeria</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1959</date>
+        <eventgrp>
+          <event>Dr. rer. pol. (Ph.D. in Socology), University of Cologne, Germany</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1955</date>
+        <eventgrp>
+          <event>Diplomvolkswirt (M.A. in Economics), LMU Munich University, Germany</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+  </bioghist>
+  <arrangement id="aspace_98bf3316bd9175ee4fb1b60304ed016d">
+    <head>Arrangement</head>
+<p>This collection is arranged into the following three series:</p>    <list type="ordered">
+      <item>* Subseries 3.1. Pressbooks, approximately 1954-2012</item>
+      <item>* Subseries 3.2. Chirashi flyers, approximately 1960s-2010</item>
+      <item>* Subseries 3.3. Handbills, 1950-2010, bulk 1982-2011</item>
+      <item>* Subseries 3.4. Press kits, 1962-2006</item>
+      <item>* Subseries 3.5. Lobby cards, store front cards, and oversized publicity photos, 1966-2010</item>
+      <item>* Subseries 3.6. Photographic materials, 1958-2004</item>
+      <item>* Subbseries 3.7. Miscellaneous</item>
+    </list>
+  </arrangement>
+  <scopecontent id="aspace_e6ed28ef35c1211f83b0db53b5eee4a9">
+    <head>Scope and Content Note</head>
+<p>The Josef Gugler collection consists of promotional materials for films produced in or directed by filmmakers from Africa and the Middle East. Over 500 unique films by approximately 350 film directors are represented. Formats include film posters, pressbooks, chirashi flyers, lobby and storefront cards, handbills, photographs, slides, and audiovisual recordings. Also represented in the collection are promotional materials for films treating Middle Eastern and African diasporic communities in Europe and films by American and Western European directors depicting the Middle East and Africa such as <emph render="italic">Lawrence of Arabia</emph> and <emph render="italic">Out of Africa.</emph> </p><p> The posters in the collection range from 14 x 10 inches to a 78 x 54.75-inch poster of <emph render="italic">Campo Thiaroye</emph> by Sembène Ousmane. The majority, however, are a mix of sizes ranging from approximately 21 x 16 inches to approximately 62 x 47 inches. The posters were printed and distributed throughout Europe, the Middle East, Africa, and North America. Approximately half of the posters have text in French. Most of the other half consists of posters in English and German. The remaining 55 items are in Arabic, Bambara, Croatian, Czech, Hebrew, Italian, Japanese, Polish, Romanian, Spanish, Thai, and Turkish. The original release dates of the posters go back as early as 1947 (Ibrahim Emaras's <emph render="italic">Akhaam al-Arab,</emph> aka <emph render="italic">The Wisest Arab</emph>), but the majority were released between 1962 and 2010. The most commonly represented countries of production include France, Algeria, South Africa, Burkina Faso, Egypt, Iran, Israel/Palestine, Lebanon, Mali, Morocco, Senegal, Tunisia, and Turkey, but over three dozen additional countries are also represented.</p><p> A similar distribution of countries, languages, and dates exists for the pressbooks, chirashi flyers, handbills, press kits, lobby cards, and photographic materials, although the variety is somewhat less due to the smaller number of items for each format.</p><p> The photographic materials include 41 prints of African filmmakers Moussa Sene Absa, Flora Gomes, Dani Koyaté, Sarah Maldoror, Isrissa Ouédraogo, Ousmane Sembène, Ingrid Sinclair, and Cheik Oumar Sissoko. These mostly appear to be candid shots and include photos of Sissoko and Ouédraogo receiving awards for their films at FESPACO. The remaining items are prints and slides of film and production stills for approximately sixty different films. </p><p> Most notable among the audiovisual materials are 16 mm prints of three of Ousmane Sembène's films: <emph render="italic">Mandabi,</emph> <emph render="italic">Tauw,</emph> and <emph render="italic">Xala,</emph> as well as Sara Maldoror's <emph render="italic">Sambizanga</emph> and an episode of the BBC television show <emph render="italic">Woza Albert!</emph> Also included in this series are over 200 commercial DVDs and VHS tapes, two dozen soundtracks on LP and CD, a dozen electronic press kits, and 142 VHS and DVD-R/CD-Rs that appear to be duplicates of other items or preview and screening copies from various filmmakers and production companies.</p>  </scopecontent>
+  <acqinfo id="aspace_5b62d21dae1136e249f294102fa59b76">
+    <head>Acquisition Information</head>
+<p>The material in this collection was donated by <persname normal="Gugler, Josef">Josef Gugler</persname> to the Indiana University Black Film Center Archives in summer 2015.</p>  </acqinfo>
+  <userestrict id="aspace_3e1c9a7ead1499529516151af690ff96">
+    <head>Usage Restrictions</head>
+<p>Materials may be used in-house at the BFC/A; duplication permitted only with permission of the Archivist. Use of audiovisual materials may require the creation of a reference copy. If you wish to preview a VHS recording in this collection, please contact the BFC/A staff well in advance of your visit.</p>  </userestrict>
+  <prefercite id="aspace_23b2ce3b1937383678c946da0d485884">
+    <head>Preferred Citation</head>
+<p>[item], Josef Gugler African and Middle Eastern Film Collection, Special Collection COL 12, Black Film Center/Archive, Indiana University, Bloomington.</p>  </prefercite>
+  <processinfo id="aspace_f02a40881240f703f355e51728c1cb7f">
+    <head>Processing Information</head>
+<p>Processed by Ronda L. Sewald.</p><p> Completed in <date normal="2016">2016</date>.</p>  </processinfo>
+  <bibliography id="aspace_82354a96f0d4e22b591cc907ec7a1941">
+    <head>Josef Gugler's Publications on Film</head>
+    <bibref><emph render="italic">Ten Arab Filmmakers: Political Dissent and Social Critique,</emph> edited by Josef Gugler. Bloomington: University of Indiana Press. 2015.</bibref>
+    <bibref><emph render="italic">Film in the Middle East and North Africa: Creative Dissidence,</emph> edited by Josef Gugler. Bloomington: Indiana University Press, Cairo: American University in Cairo Press. 2011.</bibref>
+    <bibref>"African Films in the Classroom" <emph render="italic">African Studies Review</emph> 53 (3): 1-17, 2010.</bibref>
+    <bibref><emph render="italic">"Ali Zaoua</emph>: The Harsh Life of Street Children and the Poetics of Childhood" <emph render="italic">Journal of North African Studies</emph> 12 (3): 369-379, 2007. Reprinted pages 93-103 in North African Cinema in a Global Context: Through the Lens of Diaspora, edited by Andrea Khalil, London / New York: Routledge, 2008.</bibref>
+    <bibref>"Cinema of Revolution," pages 139-153 in <emph render="italic">Revolutionary Movements in World History: From 1750 to the Present,</emph> edited by James V. Defronzo, Santa Barbara / Denver / Oxford: ABC-CLIO, 2006.</bibref>
+    <bibref>"Fiction, Fact, and the Responsibility of the Critic: <emph render="italic">Camp de Thiaroye, Yaaba, and The Gods Must Be Crazy,"</emph> pages 69-85 in <emph render="italic">Focus on African Film,</emph> edited by Françoise Pfaff, Bloomington: Indiana University Press, 2004.</bibref>
+    <bibref><emph render="italic">African Film: Re-Imagining a Continent,</emph> Bloomington: Indiana University Press, Cape Town: David Philip, Oxford: James Currey, 2003.</bibref>
+    <bibref>"Images of Villages in Four Recent African Films" pages 501-525 in <emph render="italic">African Writers and Their Readers: Essays in Honor of Bernth Lindfors,</emph> volume 2, edited by Toyin Falola and Barbara Harlow, Trenton, NJ / Asmara: Africa World Press, 2002.</bibref>
+    <bibref>"The Blue Eyes of Yonta," "Kongi's Harvest," and "Yaaba" in <emph render="italic">International Dictionary of Films and Filmmakers 1: Films,</emph> edited by Tom Pendergast and Sara Pendergast, fourth edition, Detroit: St. James Press, 2000.</bibref>
+    <bibref>"African Writing Projected onto the Screen: <emph render="italic">Sambizanga, Xala, and Kongi's Harvest"</emph> <emph render="italic">African Studies Review</emph> 42(1): 79-104, 1999.</bibref>
+    <bibref>"Ousmane Sembène's <emph render="italic">Xala</emph>: The Novel, the Film, and Their Audiences" (with Oumar Cherif Diop) <emph render="italic">Research in African Literatures</emph> 29(2): 147-158, 1998.</bibref>
+    <bibref>"Wole Soyinka's <emph render="italic">Kongi's Harvest</emph> from Stage to Screen: Four Endings to Tyranny" <emph render="italic">Canadian Journal of African Studies</emph> 31: 32-49, 1997.</bibref>
+  </bibliography>
+  <controlaccess>
+    <subject source="lcsh">Motion pictures, African</subject>
+    <subject source="lcsh">Motion pictures, Arab</subject>
+    <subject source="lcsh">Africans in Motion pictures</subject>
+    <subject source="lcsh">Arabs in Motion pictures</subject>
+    <subject source="lcsh">Jews in Motion pictures</subject>
+    <genreform source="lcgft">Posters</genreform>
+    <genreform source="lcgft">Ephemra</genreform>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAD5484-00001" level="series"><did><unittitle>1. Posters</unittitle><unitdate normal="1954/2012" type="inclusive">approximately 1954-2012</unitdate></did><otherfindaid id="aspace_0008e36ca194b44455942d6758f1f639"><head>Other Finding Aids</head><p><extref xlink:href=" http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD7503" xlink:type="simple"> http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD7503</extref></p></otherfindaid></c01><c01 id="aspace_VAD5484-00002" level="series"><did><unittitle>2. Audiovisual recordings</unittitle><unitdate normal="1968/2013" type="inclusive">approximately 1968-2013</unitdate></did><otherfindaid id="aspace_c33650f3986f1dba75ca671c84087ef6"><head>Other Finding Aids</head><p><extref xlink:href=" http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD7505" xlink:type="simple"> http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD7505</extref></p></otherfindaid></c01><c01 id="aspace_VAD5484-00003" level="series"><did><unittitle>3. Small format publicity materials</unittitle><unitdate normal="1950/2012" type="inclusive">1950-2012</unitdate></did><otherfindaid id="aspace_4a39f2281912ce274308a0bf04be6b0d"><head>Other Finding Aids</head><p><extref xlink:href=" http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD7504" xlink:type="simple"> http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD7504</extref></p></otherfindaid></c01></dsc>
+</archdesc>
+</ead>
