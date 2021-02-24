@@ -1,0 +1,71 @@
+version: '2.1'
+services:
+
+  base:
+    image: "${REGISTRY_HOST}${REGISTRY_URI}/base:latest"
+    build:
+      context: .
+      dockerfile: Dockerfile.base
+
+  main:
+    build:
+      context: ..
+      dockerfile: stack_car/Dockerfile
+    image: "${REGISTRY_HOST}${REGISTRY_URI}:${TAG:-master}"
+    env_file:
+      - .env.development
+      - .env
+    stdin_open: true
+    tty: true
+    volumes:
+      - .:/home/app/webapp:delegated
+
+  web:
+    extends: main
+    environment:
+      VIRTUAL_HOST: ngao.docker
+      VIRTUAL_PORT: 3000
+    depends_on:
+      - dj
+      - solr
+      - db
+
+  dj:
+    extends: main
+    command: bash -l -c "yarn install && bin/rails jobs:work"
+    depends_on:
+      - solr
+      - db
+
+  db:
+    image: mysql:5.7
+    ports:
+      - '3306'
+    volumes:
+      - mysql:/var/lib/mysql
+    env_file:
+      - .env
+      - .env.development
+
+  solr:
+    image: "${REGISTRY_HOST}${REGISTRY_URI_SOLR}:${TAG:-master}"
+    build:
+      context: ..
+      dockerfile: stack_car/Dockerfile.solr
+    ports:
+      - "8983"
+    volumes:
+      - './solr/conf:/opt/config:delegated'
+      - solr:/opt/solr/server/solr/mycores
+    env_file:
+      - .env.development
+      - .env
+    entrypoint:
+      - docker-entrypoint.sh
+      - solr-precreate
+      - "${SOLR_CORE}"
+      - /opt/config
+
+volumes:
+  mysql:
+  solr:
