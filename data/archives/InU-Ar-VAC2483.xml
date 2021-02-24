@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAC2483</eadid><filedesc><titlestmt><titleproper>Phi Beta Kappa, Gamma of Indiana Chapter (Indiana University) records, <date normal="1911/1985">1911-1985</date> <num>C466</num></titleproper><subtitle>A Guide to the Records at the Indiana University Archives</subtitle><author>Finding aid prepared by Whitney Olthoff</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2012</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2012">ÂŠ 2012</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 04:48:26 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change audience="internal"><date>February 28, 2012</date><item>Date the finding aid was started.</item></change><change audience="internal"><date>November 16, 2017</date><item>Batch update to change repository name, subject links, preferred citation, and user restrictions.</item></change><change audience="internal"><date>August 1, 2018</date><item>Corrected collection number and fixed broken IUCAT links. MRM</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Phi Beta Kappa, Gamma of Indiana Chapter (Indiana University) records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname rules="AACR2R" source="lcnaf">Phi Beta Kappa. Gamma of Indiana (Indiana University, Bloomington).</corpname>
+    </origination>
+    <unitid>C466</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.4 cubic feet</extent>
+      <extent altrender="carrier">2 boxes</extent>
+    </physdesc>
+    <unitdate normal="1911/1985" type="inclusive">1911-1985</unitdate>
+    <unitdate normal="1911/1962" type="bulk">1911-1962</unitdate>
+    <abstract id="aspace_e69da5d3d9d2bc6a5365e0d1d65f7ba4">The prestigious Phi Beta Kappa established a Gamma Chapter at Indiana University in 1911. The collection consists of meeting minutes, handbooks, memos, annual dinner programs, and reports and proposals.</abstract>
+    <langmaterial id="aspace_02f32b2f69531a91b17506654ae05b52">Materials are in <language langcode="eng">English</language>.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_dd6b4302029346f693091a83aded0fd5">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice is required.</p>  </accessrestrict>
+  <bioghist id="aspace_60729a9f6e179983f8eca4dcafe1bfdb">
+    <head>Administrative History</head>
+<p>Phi Beta Kappa was first organized in 1776 at the College of William and Mary in Williamsburg, Virginia. It is the oldest Greek letter organization in the United States. Phi Beta Kappa primarily elects the top students of each graduating class to become members of the society. The goal of the society is to promote scholarship and friendship among students and those who have graduated from colleges in the United States. The idea to establish a chapter at Indiana University was first introduced in the fall of 1907. A charter was granted on September 14, 1910 at the Council in New York, and the Gamma Chapter was officially established in 1911.</p>  </bioghist>
+  <arrangement id="aspace_c7b5bf0121aef0c432cc4af6456eaa51">
+    <head>Arrangement</head>
+<p>Collection is organized into three series: Minutes, Booklets and pamphlets, and Administrative files.</p>  </arrangement>
+  <scopecontent id="aspace_11b0ed4ae5df3a24529e26cae857642c">
+    <head>Scope and Content Note</head>
+<p>This collection is organized into three series. The first series, Minutes, is in its own box and consists of one book containing the full run of minutes from 1911 to 1951. Also included are addendums to the minutes in an envelope. The second series, Booklets and pamphlets, contains early handbooks and the 1911 chapter constitution, as well as many of the programs and tickets from the organization's annual initiation dinners dating from 1911 to 1985. The third series, Administrative files, consists of memos, proposals, reports, and election lists, the bulk of which are from the 1950s and 1960s.</p>  </scopecontent>
+  <acqinfo id="aspace_a94201b226ef452c338ced44860a0365">
+    <head>Acquisition Information</head>
+<p>Accession 1199</p>  </acqinfo>
+  <userestrict id="aspace_f6d2e263108aa02fe6e180ceb96318d3">
+    <head>Usage Restrictions</head>
+<p>The donor(s) of this collection have not transferred their copyrights for the materials to the Trustees of Indiana University. For more information, please contact the Indiana University Archives staff.</p><p> The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archivist.</p>  </userestrict>
+  <prefercite id="aspace_2dbcf0a713e811680b3573143a63d8dd">
+    <head>Preferred Citation</head>
+<p>[Item], Phi Beta Kappa, Gamma of Indiana Chapter (Indiana University) records, Collection C466, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <custodhist id="aspace_10c8609aaa4dad89e9dfe56a27df3191">
+    <head>Provenance</head>
+<p>The bulk of the materials were pulled from the Archives reference files, but other records were separated from the Collection C413, the Cecilia Hennel Hendricks family papers. Dr. Hendricks had served as an advisor for the group during her tenure at IU and as a result, had collected some of its records.</p>  </custodhist>
+  <appraisal id="aspace_d087df68dec35a1c7a11b70ffc6cf55a">
+    <head>Appraisal</head>
+<p>Duplicate items were removed.</p>  </appraisal>
+  <processinfo id="aspace_d604713ca02a3c7d6aee5603bb485f76">
+    <head>Processing Information</head>
+<p>Processed by Whitney Olthoff.</p><p> Completed in <date normal="2012">2012</date>.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Greek letter societies -- Indiana -- History.</subject>
+    <geogname source="lcsh">Bloomington (Ind.) -- Intellectual life.</geogname>
+    <corpname audience="internal" rules="aacr2r" source="lcnaf">Phi Beta Kappa. Gamma of Indiana (Indiana University) -- Archives.</corpname>
+    <corpname audience="internal" rules="aacr2r" source="lcnaf">Phi Beta Kappa. Gamma of Indiana (Indiana University) -- Records and correspondence.</corpname>
+    <corpname audience="internal" rules="aacr2r" source="lcnaf">Phi Beta Kappa. Gamma of Indiana (Indiana University) -- History -- Sources.</corpname>
+    <corpname audience="internal" rules="aacr2r" source="lcnaf">Phi Beta Kappa. Gamma of Indiana (Indiana University, Bloomington) -- Archives.</corpname>
+    <corpname audience="internal" rules="aacr2r" source="lcnaf">Phi Beta Kappa. -- Gamma of Indiana (Indiana University, Bloomington) -- Records and correspondence.</corpname>
+    <corpname audience="internal" rules="aacr2r" source="lcnaf">Phi Beta Kappa. Gamma of Indiana (Indiana University, Bloomington) -- History -- Sources.</corpname>
+    <corpname audience="internal" rules="aacr2r" source="lcnaf">Indiana University -- Societies, etc.</corpname>
+    <corpname audience="internal" rules="aacr2r" source="lcnaf">Indiana University, Bloomington -- Societies, etc.</corpname>
+    <persname audience="internal" rules="aacr2r" source="lcnaf">Hendricks, Cecilia Hennel, 1883-1969.</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAC2483-00001" level="series"><did><unittitle>Minutes</unittitle><unitdate normal="1911/1951" type="inclusive">1911-1951</unitdate><container id="aspace_2594d39049ac37da850d56eb7335b64f" label="box" type="Box">1</container></did><c02 id="aspace_VAC283-00002" level="file"><did><unittitle>Meeting minutes book</unittitle><unitdate normal="1911/1951" type="inclusive">1911-1951</unitdate><container id="aspace_2088002c437dbfd158e99d36b95abd42" label="box" type="Box">1</container></did></c02><c02 id="aspace_VAC283-00003" level="file"><did><unittitle>Addendums</unittitle><unitdate normal="1940/1940" type="inclusive">1940</unitdate><container id="aspace_72b1331feb7c4d799b5fa5002bef5617" label="box" type="Box">1</container></did></c02></c01><c01 id="aspace_VAC2483-00004" level="series"><did><unittitle>Booklets and pamphlets</unittitle><unitdate normal="1911/1985" type="inclusive">1911-1985</unitdate><container id="aspace_53b646fa7af34c853b2a52350f6b7d73" label="box" type="Box">2</container></did><c02 id="aspace_VAC283-00005" level="file"><did><unittitle>Booklets</unittitle><unitdate normal="1911/1943" type="inclusive">1911-1943</unitdate><container id="aspace_a0774d891c75065df54494453b5bac1b" label="box" type="Box">2</container></did></c02><c02 id="aspace_VAC283-00006" level="file"><did><unittitle>Annual Dinners</unittitle><unitdate normal="1911/1985" type="inclusive">1911-1985</unitdate><container id="aspace_c76bded752701237615c2e6be8d5e3d9" label="box" type="Box">2</container></did></c02></c01><c01 id="aspace_VAC2483-00007" level="series"><did><unittitle>Administrate files</unittitle><unitdate normal="1916/1964" type="inclusive">1916-1964</unitdate><unitdate normal="1916/1964" type="inclusive">undated</unitdate><container id="aspace_745477a35f5f47ac528761b827aa90b7" label="box" type="Box">2</container></did><c02 id="aspace_VAC283-00008" level="file"><did><unittitle>Memos</unittitle><unitdate normal="1920/1964" type="inclusive">1920-1964</unitdate><container id="aspace_2ecbf7b36c4f3a3882e3956dec626c4d" label="box" type="Box">2</container></did></c02><c02 id="aspace_VAC283-00009" level="file"><did><unittitle>Proposals &amp; Reports</unittitle><unitdate normal="1916/1964" type="inclusive">undated</unitdate><container id="aspace_6f5a6d1d40e9659d4ea3d810caa3560f" label="box" type="Box">2</container></did></c02><c02 id="aspace_VAC283-00010" level="file"><did><unittitle>Election Lists</unittitle><unitdate normal="1916/1964" type="inclusive">1916-1964</unitdate><container id="aspace_b61ad74859a6934819d7ccb5f45aacfa" label="box" type="Box">2</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

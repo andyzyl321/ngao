@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAD9206</eadid><filedesc><titlestmt><titleproper>Indiana University literary society student ledger, <date normal="1864/1875">1864-1875</date> <num>C663</num></titleproper><subtitle>A Guide to the Collection at the Indiana University Archives</subtitle><author>Finding aid prepared by Madison Herschberger</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2017</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2017">ÂŠ 2017</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 05:01:48 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change audience="internal"><date>November 30, 2017</date><item>Finding aid created.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Indiana University literary society student ledger</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">Indiana University</corpname>
+    </origination>
+    <unitid>C663</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.1 cubic feet</extent>
+      <extent altrender="carrier">1 volume</extent>
+    </physdesc>
+    <unitdate normal="1864/1875" type="inclusive">1864-1875</unitdate>
+    <abstract id="aspace_7b9054845ad60c70b90fde64e67de4b3">Literary societies cropped up early on American college and university campuses, and were one of the few social outlets available to students. This collection consists entirely of a ledger signed by students vowing to follow the rules and regulations of the Indiana University Trustees and their respective literary societies.</abstract>
+    <langmaterial id="aspace_7df32be83cd76cb00c5d123def17cd01">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_a6a360ec5354bdc94ea3b0c17bf3c873">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice required.</p>  </accessrestrict>
+  <bioghist id="aspace_0b03f519f59743f32da2d071f0d6fc8b">
+    <head>Administrative History</head>
+<p>Literary societies cropped up early on American college and university campuses, and were one of the few social outlets available to students. At Indiana University, the two main literaries were the Athenian and Philomathean, established in 1830 and 1831, respectively.</p>  </bioghist>
+  <arrangement id="aspace_86fbff2e00b32f99c4f970d6add7e680">
+    <head>Arrangement</head>
+<p>Collection consists of a single ledger.</p>  </arrangement>
+  <scopecontent id="aspace_fa9e5d299e46797bd8d78a708a12f247">
+    <head>Scope and Content Note</head>
+<p>This collection consists entirely of a single ledger with signatures from campus literary society members spanning 1864-1875. On the top of each page is written: "We whose names are hereunto subscribed, pledge ourselves to submit, both as students and as members of the literary societies, to all the rules and regulations of the board of trustees, as long as we remain members of the Institution." Each entry includes the student's name, hometown, and name of their parent or guardian.</p>  </scopecontent>
+  <relatedmaterial id="aspace_5d3a32127d3c73d4163dec7a76b1cb95">
+    <head>Related Material</head>
+<p>The Archives holds records from most of the literary societies that existed on campus during the years this ledger was in use. Finding aids for those records are available on Archives Online.</p>  </relatedmaterial>
+  <acqinfo id="aspace_272ffdcb63bcf527b4d8fddc7134cf58">
+    <head>Acquisition Information</head>
+<p>Accession: 0013</p>  </acqinfo>
+  <userestrict id="aspace_53e6d4af14c6a274caeb0221816231b8">
+    <head>Usage Restrictions</head>
+<p>Collection is in the public domain. For more information, please contact the Indiana University Archives staff.</p>  </userestrict>
+  <prefercite id="aspace_fd460e7469a81bccf375c8356b884b8e">
+    <head>Preferred Citation</head>
+<p>[Item], Indiana University literary society student ledger, Collection C663, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <custodhist id="aspace_418447dec0120c0cf8b2b2636a1b6a86">
+    <head>Provenance</head>
+<p>Transferred to the Indiana University Archives at a unknown date.</p>  </custodhist>
+  <processinfo id="aspace_4a6479da98b729db8ae3c29dd7ed98a0">
+    <head>Processing Information</head>
+<p>Processed by Madison Herschberger.</p><p> Completed in <date normal="2017">2017</date></p>  </processinfo>
+  <dsc><c01 id="aspace_4e9782e37bdbc95aeef7e89c5e79e5d9" level="file"><did><unittitle>Indiana University literary society student ledger</unittitle><unitdate normal="1864/1875" type="inclusive">1864-1875</unitdate><container id="aspace_31f12db87a6b4e51e110e317a168d0ec" label="box" type="box">SC4</container></did></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAD5586</eadid><filedesc><titlestmt><titleproper>Indiana University Folklore Institute Beliefs collection, <date normal="1967/1970">1967-1970</date> <num>C606</num></titleproper><subtitle>A Guide to the Records at the Indiana University Archives</subtitle><author>Finding aid prepared by Jesse Fivecoate.</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2016</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2016">ÂŠ 2016</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 05:04:15 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change audience="internal"><date>May 4, 2016</date><item>Finding aid started.</item></change><change audience="internal"><date>November 16, 2017</date><item>Batch update to change repository name, subject links, preferred citation, and user restrictions.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Indiana University Folklore Institute Beliefs collection</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">Indiana University. Folklore Institute.</corpname>
+    </origination>
+    <unitid>C606</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.4 cubic feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate normal="1967/1970" type="inclusive">1967-1970</unitdate>
+    <abstract id="aspace_21a99b26cbb7480d48692dec55f97aed">The Indiana University Folklore Institute has a long history of collecting oral verbal literature and arts. This collection consists of folk beliefs, ranging from superstitions, folk beliefs regarding sports and wedding ceremonies, collected by students taking courses in the Folklore Institute.</abstract>
+    <langmaterial id="aspace_0f5b66168447a684f6fcd8c3e3824563">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_55149b27a2d8d95e6f80536edf033840">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice required.</p>  </accessrestrict>
+  <bioghist id="aspace_c23623a5d8c354a2d9e90e994f95441f">
+    <head>Biographical Note/Administrative History</head>
+<p>The Folklore Institute at Indiana University began as an eight-week program in the <date normal="1942-06-29/1942-08-22">summer of 1942</date> under the directorship of Professor Stith Thompson. From June 29 to August 22 of that year residential and visiting faculty taught courses, which carried university credit, on a number of topics. Course topics ranged from an introductory course on folklore to field collecting and recording to the folk tale and similar forms. Others covered folk song and folk music as well as Native American folklore.</p><p> The Folklore Institute grew into a stable research branch of Indiana University's College of Arts and Sciences in <date normal="1949">1949</date> and received departmental status with an independent faculty in <date normal="1963">1963</date>, however the Graduate School first listed M.A. and Ph.D. degrees in Folklore for the academic year of <date normal="1949/1950">1949-1950</date>. Since the academic year of <date normal="1971/1972">1971-1972</date> the Institute has offered an undergraduate degree in folklore as well. The Institute has also had a long history with research and teaching interests in ethnomusicology. In <date normal="2000">2000</date> the Ethnomusicology Institute was created and merged with the Folklore Institute to become the Department of Folklore and Ethnomusicology, which now offers undergraduate and graduate degrees in both fields.</p>  </bioghist>
+  <arrangement id="aspace_16cea03bb923afc563b5e279b67e8c2e">
+    <head>Arrangement</head>
+<p>This collection is arranged into one series of Beliefs.</p>  </arrangement>
+  <scopecontent id="aspace_58e57330491d9f9190f8801c9f06160d">
+    <head>Scope and Content Note</head>
+<p>This collection consists of a number of folk belief items collected by students at the Folklore Institute at Indiana University, Bloomington. A number of the individual items include notation corresponding to Wayland Hand's categorization of folk belief. This appears in the papers as "Hand" along with a number in red ink, which corresponds to his collections of North Carolina folk beliefs and superstitions in the <title render="italic">Frank C. Brown Collection of North Carolina Folklore</title> (1964) and <title render="italic">American folk beliefs in his Popular Beliefs and Superstitions: A Compendium of American Folklore</title> (1981).</p><p> Folk beliefs represented here include beliefs regarding sports, test-taking, wedding ceremonies, black cats, good luck, bad luck, cures for maladies, folk remedies, health and illness, folk religious beliefs, bingo, witchcraft, occultism, plants, salt, ghosts, hauntings, Stepp Cemetery, fever worm, dreams, prognostication, charms, cigarettes, dinner, dress and adornment, clothing, umbrellas. The beliefs are organized by the accession number originally assigned by the folklore archives.</p>  </scopecontent>
+  <relatedmaterial id="aspace_f56796d1f33f18ec298d6d7d2d48c02e">
+    <head>Related Material</head>
+<p>Additional records such as newsletters, annual reports, bulletins, and publications may be accessed in the <extref xlink:href="http://institutionalmemory.iu.edu/aim/">Archives of Institutional Memory</extref>.</p><p> Archived web sites for the Institute may be included in <extref xlink:href="http://www.archive-it.org/collections/219">Archive-It</extref>.</p><p> Related photographs may be available in the <extref xlink:href="http://webapp1.dlib.indiana.edu/archivesphotos/">University Archives Photographs Database</extref>.</p>  </relatedmaterial>
+  <acqinfo id="aspace_bcd2a048f949f9124bf2e6c2720f543a">
+    <head>Acquisition Information</head>
+<p>Accession 2003/055</p>  </acqinfo>
+  <userestrict id="aspace_65c732294e01c9015bbf2f8fec6e3038">
+    <head>Usage Restrictions</head>
+<p>The donor(s) of this collection have not transferred their copyrights for the materials to the Trustees of Indiana University. For more information, please contact the Indiana University Archives staff.</p><p> The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archivist.</p>  </userestrict>
+  <prefercite id="aspace_143b74cb556396619aacf28e5ce173d2">
+    <head>Preferred Citation</head>
+<p>[Item], Indiana University Folklore Institute Beliefs collection, Collection C606, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <custodhist id="aspace_1da6250953a2e99aa3c159ce3de95772">
+    <head>Provenance</head>
+<p>Transferred to the IU Archives in 2003 by John McDowell, Chair of the Folklore Department.</p>  </custodhist>
+  <processinfo id="aspace_b9b0e4a9cd6a3c6152ab6a3a64d37029">
+    <head>Processing Information</head>
+<p>Processed by Jesse Fivecoate.</p><p> Completed in <date normal="2016">2016</date></p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Folklore --Study and teaching (Higher) --Indiana --Bloomington --History --20th century --Sources.</subject>
+    <subject source="lcsh">Folklore --Indiana --Bloomington --History --Sources.</subject>
+    <corpname audience="internal" source="lcnaf">Indiana University. Folklore Institute --Archives.</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAD5586-00001" level="series"><did><unittitle>Beliefs</unittitle><unitdate normal="1967/1970" type="inclusive">1967-1970</unitdate><container id="aspace_d44a019796eb9a8a484ce939be85fcba" label="box" type="box">1</container></did><c02 id="aspace_VAD5586-00002" level="file"><did><unittitle>Beliefs 70:1-260</unittitle><physdesc id="aspace_b275ff192d620b16a902258be36a736a">26 folders</physdesc><container id="aspace_9e0c599e713b5feb05b97f6c14915e51" label="box" type="box">1</container></did></c02><c02 id="aspace_VAD5586-00003" level="file"><did><unittitle>Beliefs 71:1-90</unittitle><physdesc id="aspace_9e9c436eb1ae6296f674a376d4e3f3ec">9 folders</physdesc><container id="aspace_0546e955fad7bba06005cd7091719771" label="box" type="box">1</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

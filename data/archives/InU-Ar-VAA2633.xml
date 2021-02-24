@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAA2633</eadid><filedesc><titlestmt><titleproper>Lemuel Moss papers, <date normal="1860/1876" era="ce" calendar="gregorian">1860-1876</date> <num>C78</num></titleproper><subtitle>A Guide to his Papers at the Indiana University Archives</subtitle><author>Finding aid prepared by Dina M. Kellams</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2002</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 04:48:48 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change><date>December 22, 2003</date><item>Finding aid edited to be consistent with other finding aids.</item></change><change><date>November 6, 2003</date><item>Finding aid revised by Linda Cantara to bring into conformance with v.2002 DTD.</item></change><change><date>December 19, 2002</date><item>Added title and author, deleted superfluous extent tag.</item></change><change><date>October 22, 2007</date><item>Updated finding aid to schema. ML.</item></change><change><date>17 August 2011</date><item>Finding aid updated in preparation for digitization.</item></change><change audience="internal"><date>November 16, 2017</date><item>Batch update to change repository name, subject links, preferred citation, and user restrictions.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Lemuel Moss papers</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname source="lcnaf">Moss, Lemuel, 1829-1904.</persname>
+    </origination>
+    <unitid>C78</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3 folders</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" era="ce" normal="1860/1876" type="inclusive">1860-1876</unitdate>
+    <abstract id="aspace_82101151c14886ab3a0efce727500ea5">Lemuel Moss was Indiana University President 1875-1884. He left amidst a scandal involving himself and a female professor at the university. This small collection consists of correspondence with Rev. and Mrs. J. R. Scott and a poem Moss wrote for his wife in celebration of their 25th wedding anniversary.</abstract>
+    <langmaterial id="aspace_405359c75af83ccce09a8d36c77441f8">Materials are in <language langcode="eng">English</language> unless otherwise indicated.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_40030a1000f9d4884a6dc3b08b76ded6">
+    <head>Access Restrictions</head>
+<p>Advance notice required.</p>  </accessrestrict>
+  <bioghist id="aspace_9271dcbd568037212b7ac7c37c49a75d">
+    <head>Biographical Note</head>
+<p>Lemuel Moss was born in Boone County Kentucky, December 27, 1829, to Rev. Demas and Esther Moss. He received his higher education from the University of Rochester, receiving his AB in 1858, an honorary DD in 1868, an honorary LLD in 1883. He also received a degree from the Rochester Theological Seminary in 1860. </p><p> Dr. Moss was a printer by trade but served as Pastor of the First Baptist Church of Worcester, Massachusetts from 1860 to 64 and the same position in Woodbury, New Jersey from 1864 to 66. Also, from 1864 to 65 he served as Secretary of the U.S. Christian Committee. In 1865, Moss began his career in formal education as he became Professor of Theology at the University of Lewisburg (now Bucknell), where he remained until 1868. In 1874, Dr. Moss accepted the post of President of the University of Chicago, which he left the following year to become President of Indiana University. He maintained this position until 1884 when he resigned amidst a scandal involving himself and a female professor at the university. He later resurrected his career as Lecturer of Christian Sociology at Bucknell University from 1898 until his death in 1904.</p><p>  Dr. Moss was involved in a number of organizations, including the American Baptist Historical Society, serving as its president from 1895-1900 and vice president from 1900-02; the American Baptist Missionary Union of which he served as vice president from 1883-84; the National Council on Education, 1880- 84; served as president of the Department of Higher Education from 1883-84. </p><p> Moss married Harriet Bingham of Cincinnati, Ohio on December 24, 1851. They had three children: Charles Henry, Harriet Payne, and Mary Helen.</p>  </bioghist>
+  <scopecontent id="aspace_9e6455065e590ab9e0a221682c1dbca3">
+    <head>Scope and Content Note</head>
+<p>The Lemuel Moss papers is a small collection consisting of two series, Correspondence and Writings, in three folders. </p><p> The Correspondence series, 1860-1861, consists of two folders. It includes outgoing correspondence with Rev. and Mrs. J. R. Scott and transcriptions of the correspondence. </p><p> The Writings series, 1876, consists of one item, a poem written by Moss for his wife on the occasion of their 25th wedding anniversary.</p>  </scopecontent>
+  <acqinfo id="aspace_13c50cc3228e044c3e175950f6be3caa">
+    <head>Acquisition Information</head>
+<p>Accession 0735</p>  </acqinfo>
+  <userestrict id="aspace_3e18fea2ac150b5d0842ed2fc0f0f80c">
+    <head>Usage Restrictions</head>
+<p>Collection is in the public domain. For more information, please contact the Indiana University Archives staff.</p>  </userestrict>
+  <prefercite id="aspace_ca221efa5d933dafaec494ce1bf5ec96">
+    <head>Preferred Citation</head>
+<p>[Item], Lemuel Moss papers, Collection C78, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <processinfo id="aspace_41f0ac3681946b9a80924600c52c535e">
+    <head>Processing information</head>
+<p>Processed by Dina M. Kellams</p><p> Completed in <date era="ce" calendar="gregorian">2001</date> </p><p> Updated in 2011 in preparation for digitization.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">College presidents --Indiana --Bloomington --Archives</subject>
+    <subject source="lcsh">College presidents --Indiana --Bloomington --Correspondence</subject>
+    <persname audience="internal" source="lcnaf">Moss, Lemuel, 1829-1904 --Archives</persname>
+    <persname audience="internal" source="lcnaf">Moss, Lemuel, 1829-1904 --Correspondence</persname>
+    <persname audience="internal" source="lcnaf">Scott, J. R., Mrs. --Correspondence</persname>
+    <persname audience="internal" source="lcnaf">Scott, J. R., d. 1861 --Correspondence</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAA2633-00001" level="series"><did><unittitle>Correspondence</unittitle><unitdate calendar="gregorian" era="ce" normal="1860/1861" type="inclusive">1860-1861</unitdate></did><c02 id="aspace_VAA2633-00002" level="item"><did><unittitle>Scott, Mrs. J. R.</unittitle><unitdate calendar="gregorian" era="ce" normal="1861-12-12/1861-12-12">1861 Dec 12</unitdate></did></c02><c02 id="aspace_VAA2633-00003" level="file"><did><unittitle>Scott, Reverend J. R.</unittitle></did><c03 id="aspace_VAA2633-00004" level="item"><did><unitdate normal="1860-06-13/1860-06-13">13 June 1860</unitdate></did></c03><c03 id="aspace_VAA2633-00005" level="item"><did><unitdate normal="1860-07-16/1860-07-16">16 July 1860</unitdate></did></c03><c03 id="aspace_VAA2633-00006" level="item"><did><unitdate normal="1861-02-11/1861-02-11">11 February 1861</unitdate></did></c03><c03 id="aspace_VAA2633-00007" level="item"><did><unitdate normal="1861-05-01/1861-05-01">1 May 1861</unitdate></did></c03></c02></c01><c01 id="aspace_VAA2633-00008" level="series"><did><unittitle>Writings</unittitle><unitdate calendar="gregorian" era="ce" normal="1876/1876">1876</unitdate></did><c02 id="aspace_VAA2633-00009" level="item"><did><unittitle>Poem: "To My Wife on the 25th anniversary of our marriage."</unittitle><unitdate calendar="gregorian" era="ce" normal="1876-12-24/1876-12-24">[1876 Dec. 24]</unitdate></did></c02></c01></dsc>
+</archdesc>
+</ead>
