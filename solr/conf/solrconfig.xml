@@ -297,6 +297,8 @@
       <str name="suggestAnalyzerFieldType">text</str>
       <str name="buildOnOptimize">true</str>
       <str name="field">suggest</str>
+      <str name="dictionaryImpl">DocumentDictionaryFactory</str>
+      <str name="contextField">collection_ssi</str>
     </lst>
   </searchComponent>
 
