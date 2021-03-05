@@ -44,7 +44,8 @@ Blacklight.onLoad(function () {
 
   $('[data-autocomplete-enabled="true"]').each(function () {
     var $el = $(this);
-
+    var collection = $('#within_collection').find(":selected").text();
+    console.log(collection);
     if ($el.hasClass('tt-hint')) {
       return;
     }
@@ -56,7 +57,7 @@ Blacklight.onLoad(function () {
       datumTokenizer: Bloodhound.tokenizers.obj.whitespace('value'),
       queryTokenizer: Bloodhound.tokenizers.whitespace,
       remote: {
-        url: suggestUrl + '?q=%QUERY&fq=collection_sim&suggest.cfq=Test+Change+-+Alan+Stanley+Horowitz+Media+Materials%2C+1940-1999',
+        url: suggestUrl + `?q=%QUERY&suggest=true&suggest.build=true&suggest.dictionary=mySuggester&suggest.cfq=${collection}`,
         wildcard: '%QUERY'
       }
     });
