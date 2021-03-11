@@ -206,9 +206,6 @@ to_field 'digital_objects_ssm', extract_xpath('/ead/archdesc/did/dao|/ead/archde
   end
 end
 
-to_field 'physdesc_ssm', extract_xpath('/ead/archdesc/did/physdesc')
-to_field 'physdesc_sim', extract_xpath('/ead/archdesc/did/physdesc')
-
 to_field 'extent_ssm', extract_xpath('/ead/archdesc/did/physdesc', to_text: false) do |_record, accumulator|
   accumulator.map! do |element|
     extent_array = []
@@ -428,9 +425,6 @@ compose 'components', ->(record, accumulator, _context) { accumulator.concat rec
   to_field 'collection_ssi' do |_record, accumulator, context|
     accumulator.concat context.clipboard[:parent].output_hash['normalized_title_ssm']
   end
-
-  to_field 'physdesc_ssm', extract_xpath('./did/physdesc')
-  to_field 'physdesc_sim', extract_xpath('./did/physdesc')
 
   to_field 'extent_ssm', extract_xpath('./did/physdesc', to_text: false) do |_record, accumulator|
     accumulator.map! do |element|
