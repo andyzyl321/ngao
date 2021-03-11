@@ -359,9 +359,12 @@
    <copyField source="note_teim" dest="text" />
    <copyField source="odd_teim" dest="text" />
    <copyField source="originalsloc_teim" dest="text" />
+   <copyField source="origination_teim" dest="text" />
+   <copyField source="otherfindaid_teim" dest="text" />
    <copyField source="physdesc_teim" dest="text" />
    <copyField source="physloc_teim" dest="text" />
    <copyField source="phystech_teim" dest="text" />
+   <copyField source="prefercite_teim" dest="text" />
    <copyField source="processinfo_teim" dest="text" />
    <copyField source="relatedmaterial_teim" dest="text" />
    <copyField source="scopecontent_teim" dest="text" />
