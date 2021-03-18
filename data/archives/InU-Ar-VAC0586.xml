@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAC0586</eadid><filedesc><titlestmt><titleproper>Irvin K. Owen papers, <date normal="1974/1976">1974-1976</date> <num>C428</num></titleproper><subtitle>A Guide to his papers at the Indiana University Archives</subtitle><author>Finding aid prepared by Sara Szakaly.</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2010</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2010">ÂŠ 2010</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 04:56:56 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Irvin K. Owen papers</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname source="lcnaf">Owen, Irvin K. (Irvin Kyle), 1920-</persname>
+    </origination>
+    <unitid>C428</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.4 cubic feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate normal="1974/1976" type="inclusive">1974-1976</unitdate>
+    <abstract id="aspace_2f1f0abab6f3d49f9cda81ddd7c906d2">After a long career with the Federal Bureau of Investigation, Irvin K. Owen joined the staff of Indiana University in 1970, where he served as Special Assistant to the President of Indiana University for Safety Affairs before becoming Director of University Safety, a position he held from 1971 until his retirement 1977. This small collection contains material pertaining to an article he authored entitled <title render="doublequote">What about Dumdums?</title> Included are research and lecture material, correspondence, and copies of the article.</abstract>
+    <langmaterial id="aspace_c7319ff8024fcbeb3f1a2cbaa97392c9">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_649e30bbf65d5e2fb3a43b77b1c6d233">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice required.</p>  </accessrestrict>
+  <bioghist id="aspace_84af02cbaf6f6e71e0b67bee37046026">
+    <head>Biographical Note</head>
+<p>Irvin Kyle Owen was born September 24, 1920, in Petersburg, Virginia, and received a B.S. degree in Business Administration from the University of Richmond (Virginia) in 1947. He served as a pilot and navigator in the Royal Canadian Air Force and the United States Army Air Force during World War II. Owen was a Special Agent of the FBI for more than 23 years before retiring in September 1970. His last assignment with the FBI was as Senior Resident Agent in Bloomington, Indiana. In September 1970, he was appointed Special Assistant to the President of Indiana University for Safety Affairs. After overseeing the reorganization of university safety operations on a state-wide basis, Owen was named Director of University Safety in April 1971, a position he held until his retirement on June 30, 1977.</p>  </bioghist>
+  <arrangement id="aspace_f00cef24c9cda462827f7bca86fb8849">
+    <head>Arrangement</head>
+<p>Collection is organized into one series: Publication and lecture files.</p>  </arrangement>
+  <scopecontent id="aspace_52d76ecfb57adb43b80b4e8ebcc16595">
+    <head>Scope and Content Note</head>
+<p>The papers of Irvin K. Owen span the years 1974-1976 and are organized into one series: Publication and lecture files. All of the material in this collection pertains to Owen's article, <title render="doublequote">What about Dumdums?</title> which discusses law enforcement's use of dumdums, a type of hollowed-point expanding bullet. The article was first published in the <title render="italic">FBI Law Enforcement Bulletin</title> in April 1975, and later in the book <title render="underline">Ballistic Science for the Law Enforcement Officer</title>. In addition to copies of the article, the collection includes correspondence, lecture material, and research material pertaining to it.</p>  </scopecontent>
+  <acqinfo id="aspace_1e261de72ee9125fb0f45cdb7439bb4d">
+    <head>Acquisition Information</head>
+<p>Accession Information: 3036</p>  </acqinfo>
+  <userestrict id="aspace_fb41d94ece298398d4d4b223b49f6e33">
+    <head>Usage Restrictions</head>
+<p>The donor(s) of this collection have not transferred their copyrights for the materials to the Trustees of Indiana University. For more information, please contact the Indiana University Archives staff.</p><p> The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archivist.</p>  </userestrict>
+  <prefercite id="aspace_d60d2ca01bba4f90e1353d7cd4766ec5">
+    <head>Preferred Citation</head>
+<p>[Item], Irvin K. Owen papers, Collection C428, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <custodhist id="aspace_7114e6843cf3b942e2de1c6d3469fecc">
+    <head>Provenance</head>
+<p>The papers were transferred to the University Archives in 1977 as part of the Office of University Safety records.</p>  </custodhist>
+  <processinfo id="aspace_a29b6dbfad8d394aedb0fdf9c4b2b4ba">
+    <head>Processing Information</head>
+<p>Processed by Sara Szakaly.</p><p> Completed in <date normal="2010">2010</date></p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Bullets --Research.</subject>
+    <persname audience="internal" source="lcnaf">Owen, Irvin K. (Irvin Kyle), 1920- --Archives.</persname>
+    <persname audience="internal" source="lcnaf">Owen, Irvin K. (Irvin Kyle), 1920- --Correspondence.</persname>
+    <corpname audience="internal" source="lcnaf">Indiana University. Office of University Safety --Professional staff --Archives.</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAC0586-00001" level="series"><did><unittitle>Publication and lecture files</unittitle><unitdate normal="1974/1976" type="inclusive">1974-1976</unitdate><unitdate normal="1974/1976" type="inclusive">undated</unitdate><container id="aspace_a6f81180e0465d7c813b263923189b7a" label="box" type="box">1</container></did><c02 id="aspace_VAC0586-00002" level="file"><did><unittitle><title render="doublequote">What about Dumdums?</title></unittitle><unitdate normal="1974/1976" type="inclusive">1974-1976</unitdate><container id="aspace_69bba4b85200ce9ad9f0b7087f78dba3" label="box" type="box">1</container></did><c03 id="aspace_VAC0586-00003" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate><container id="aspace_0dc565392551ba49e7ba7c6384a4bacf" label="box" type="box">1</container></did></c03><c03 id="aspace_VAC0586-00004" level="file"><did><unittitle>Lecture material</unittitle><unitdate normal="1974/1976" type="inclusive">1974-1976</unitdate><container id="aspace_b97e48fab6b1f66b93b6890f87292128" label="box" type="box">1</container></did></c03><c03 id="aspace_VAC0586-00005" level="file"><did><unittitle>Research</unittitle><unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate><container id="aspace_81975d339b44dcfe64d9a055415388f4" label="box" type="box">1</container></did></c03><c03 id="aspace_VAC0586-00006" level="file"><did><unittitle><title render="doublequote">What about the Dumdums?</title> (copies)</unittitle><unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate><unitdate normal="1974/1976" type="inclusive">undated</unitdate><container id="aspace_440c37ebc015b671235527ef8e5da70c" label="box" type="box">1</container></did></c03></c02></c01></dsc>
+</archdesc>
+</ead>

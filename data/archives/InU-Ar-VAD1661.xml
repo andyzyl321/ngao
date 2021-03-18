@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAD1661</eadid><filedesc><titlestmt><titleproper>Jan Jaworowski papers, <date normal="1965/2000">1965-2000</date> <num>C526</num></titleproper><subtitle>A Guide to his Papers at the Indiana University Archives</subtitle><author>Finding aid prepared by Rachel Santose; Updated by Allison Haack</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2014</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2014">ÂŠ 2014</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 05:02:03 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Jan Jaworowski papers</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">Jaworowski, Jan.</corpname>
+    </origination>
+    <unitid>C526</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.4 cubic feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate normal="1959/2012" type="inclusive">1965-2000</unitdate>
+    <abstract id="aspace_62f39a3f8d6d388c6a6a80b4b5993e81">Jan W. Jaworowski was a Professor of Mathematics at Indiana University beginning in 1965. His papers consist primarily of research material, correspondence, and conference presentations.</abstract>
+    <langmaterial id="aspace_5f51f0f367694b8eb4546f8a2694d362">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_2761a06744817bbbbb0e1efe4c64c61f">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice is required.</p>  </accessrestrict>
+  <bioghist id="aspace_f9ee06bb5d5cf0c4938bd345d331e380">
+    <head>Biographical Note</head>
+<p>Dr. Jan W. Jaworowski was born March 2, 1928 in Augustow, Poland. He attended Warsaw University and then completed his Ph.D. at the Polish Academy of Sciences, studying under Karol Borsuk. He received his Ph.D. in 1955. He would go on to assume teaching roles at both institutions. He also taught at the University of Saarburcken and Oxford University before coming to the United States. Once in America, Dr. Jaworowski became a visiting associate professor of mathematics at Cornell University and in 1965 joined the Indiana University faculty as a professor in the Mathematics Department.</p><p> Dr. Jaworowski is recognized as one of the outstanding mathematicians from post-war Poland and has an international reputation for contributions to the theory of topology. During the course of his career, he published sixty-four scholarly papers, twelve of them after his official retirement. Dr. Jaworowski became Professor Emeritus in 1995. Jaworowski passed away on April 10, 2013 at the age of 85.</p>  </bioghist>
+  <arrangement id="aspace_b203f7ae4f7d66de79b2778386f53cb7">
+    <head>Arrangement</head>
+<p>The collection is arranged into only one series of professional files.</p>  </arrangement>
+  <scopecontent id="aspace_ef0eaa8f9ad343fc4b8ff33de07d0b94">
+    <head>Scope and Content Note</head>
+<p>The Jan W. Jaworowski papers are organized into one series of Professional files spanning 1965-2000. Included are files relating to the numerous national and international mathematics conferences at which Dr. Jaworowski was a presenter, professional correspondence between Dr. Jaworowski and his colleagues at Indiana University and other academic institutions in both America and Europe, and research notes which consist primarily of mathematical formulas. The collection includes only one of his publications, the article "Theorems of Kakutani and Dyson revisited," published in 2000.</p><p> Each folder in the collection is arranged in alphabetical order by folder title and is then further organized chronologically by year. The items within each folder are in a rough chronological order, also by year.</p>  </scopecontent>
+  <relatedmaterial id="aspace_94349288617ac25bbbf352bed9acc4c0">
+    <head>Related Material</head>
+<p>Additional publications and research materials may be accessed in <extref xlink:href="http://scholarworks.iu.edu/">IUScholarworks</extref></p>  </relatedmaterial>
+  <acqinfo id="aspace_579c1d2f5399921380dd2f40a6a4f0da">
+    <head>Acquisition Information</head>
+<p>Accession 2013/035</p>  </acqinfo>
+  <userestrict id="aspace_03a7acfb8d00d1b8c3db7f0fbfb2df9e">
+    <head>Usage Restrictions</head>
+<p>The donor(s) of this collection have not transferred their copyrights for the materials to the Trustees of Indiana University. For more information, please contact the Indiana University Archives staff.</p><p> The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archivist.</p>  </userestrict>
+  <prefercite id="aspace_b15429e4ce317ff33042d2e98943d0bf">
+    <head>Preferred Citation</head>
+<p>[Item], Jan Jaworowski papers, Collection C526, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <processinfo id="aspace_6f07416de6b16db11ebcf9abff3d6bee">
+    <head>Processing Information</head>
+<p>Processed by Rachel Santose; Updated by Allison Haack.</p><p> Completed in <date normal="2014">2014</date>.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Mathematics --Indiana --Bloomington --History --Sources.</subject>
+    <subject source="lcsh">Mathematics --Study and teaching (Higher) -- Indiana --Bloomington --History --Sources.</subject>
+    <persname audience="internal" source="lcnaf">Jaworowski, Jan --Archives.</persname>
+    <persname audience="internal" source="lcnaf">Jaworowski, Jan --Correspondence</persname>
+    <corpname audience="internal" source="lcnaf">Indiana University, Bloomington. Department of Mathematics --Faculty --Archives.</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_561f52cd67287b3c50be658a5a4b9f12" level="series"><did><unittitle>Professional files</unittitle><unitdate normal="1965/2000" type="inclusive">1965-2000</unitdate><unitdate normal="1959/2012" type="inclusive">undated</unitdate><container id="aspace_5eb024519a78a47eb29e4b108b22889d" label="box" type="Box">1</container></did><c02 id="aspace_f4a1a33d4b7ed011c0fb5ae27149ab83" level="otherlevel"><did><unittitle>Conference Presentations</unittitle><container id="aspace_f0b8a96c807d4fed7c7df73d03b055c3" label="box" type="Box">1</container></did><c03 id="aspace_a8a060cfaed74b7ea2867a3d5b31161c" level="file"><did><unitdate normal="1965/1979" type="inclusive">1965-1979</unitdate><container id="aspace_52cef78a2b47d588073909a306bb7faf" label="box" type="Box">1</container></did></c03><c03 id="aspace_87f1a32fe9fe910e2d8f19469a73bd3b" level="file"><did><unitdate normal="1980/1983" type="inclusive">1980-1983</unitdate><container id="aspace_1b9b3159f2fddd5152320e9fc811507b" label="box" type="Box">1</container></did></c03><c03 id="aspace_81892e6facdde633ab58881099f987a8" level="file"><did><unitdate normal="1984/1993" type="inclusive">1984-1993</unitdate><container id="aspace_6559dcd8fc99a99221da758b6f18cc75" label="box" type="Box">1</container></did></c03></c02><c02 id="aspace_47ac1231e0d1f223e65d65ae19e85883" level="otherlevel"><did><unittitle>Correspondence</unittitle><unitdate normal="1974/1994" type="inclusive">1974-1994</unitdate><container id="aspace_0306a23a97836d121f78148b7252ea9a" label="box" type="Box">1</container></did></c02><c02 id="aspace_ca6901dcb1131d3820581ae56c905c36" level="otherlevel"><did><unittitle>Publications</unittitle><unitdate normal="2000/2000" type="inclusive">2000</unitdate><container id="aspace_8741a6461c613b900369eb4f27be3e64" label="box" type="Box">1</container></did></c02><c02 id="aspace_280d6daf9b93547224314d3bb621f102" level="otherlevel"><did><unittitle>Research Material</unittitle><container id="aspace_e3b69452324d495183d2b519c3b56ce4" label="box" type="Box">1</container></did><c03 id="aspace_814f56b6db9f789381b1fc28cc345590" level="file"><did><unitdate normal="1967/1978" type="inclusive">1967-1978</unitdate><container id="aspace_99a9e96acced945aaf6347d9522b90b0" label="box" type="Box">1</container></did></c03><c03 id="aspace_9fb120dd856c20710897e84d5fc61f0a" level="file"><did><unitdate normal="1979/1981" type="inclusive">1979-1981</unitdate><container id="aspace_1c2d8448a82bc1006924489d045b3a89" label="box" type="Box">1</container></did></c03><c03 id="aspace_ef62df46b8cca1e6a9f4ae3abb119eb4" level="file"><did><unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate><unitdate>undated</unitdate><container id="aspace_aa25b1c1df7f3bf95ef2e312c13ce975" label="box" type="Box">1</container></did></c03></c02></c01></dsc>
+</archdesc>
+</ead>

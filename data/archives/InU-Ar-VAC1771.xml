@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAC1771</eadid><filedesc><titlestmt><titleproper>The Kelley MBA Prospectus, <date normal="1984/2004">1984-2004</date> <num>C447</num></titleproper><subtitle>A Guide to the collection at the Indiana University Archives</subtitle><author>Finding aid prepared by Dina M. Kellams</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>© 2011</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2011">© 2011</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 05:04:23 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change audience="internal"><date>December 8, 2011.</date><item>Date the finding aid was started.</item></change><change audience="internal"><date>November 16, 2017</date><item>Batch update to change repository name, subject links, preferred citation, and user restrictions.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>The Kelley MBA Prospectus</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">Masters of Business Administration Association.</corpname>
+    </origination>
+    <unitid>C447</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.2 cubic feet</extent>
+      <extent altrender="carrier">2 boxes</extent>
+    </physdesc>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.2 cubic feet</extent>
+      <extent altrender="carrier">2 boxes</extent>
+    </physdesc>
+    <unitdate normal="1984/2004" type="inclusive">1984-2004</unitdate>
+    <unitdate normal="1984/2004" type="inclusive">1984-2004</unitdate>
+    <abstract id="aspace_68912842e700e7a941e94c31df4aed92">The Masters of Business Administration Association (MBAA) is the student-managed not-for-profit umbrella organization chartered to enrich the quality of student life and to build relationships between students, faculty, administration, alumni, prospective students, and the business community. This collection consists of the newspaper of the MBAA spanning 1984-2004.</abstract>
+    <langmaterial id="aspace_05d4900909adfbe7fd17d1833f532066">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_d725778b178f57a27b29e26674dd2683">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice is required.</p>  </accessrestrict>
+  <bioghist id="aspace_21ac7d00b7bc173f1fbf36bea49a1b4e">
+    <head>Administrative History</head>
+<p>From the <extref xlink:href="http://kelley.iu.edu/mba/kelleylife/mbaa.cfm">Kelley MBA web site</extref>:</p><p> The Masters of Business Administration Association is the student-managed not-for-profit umbrella organization chartered to enrich the quality of student life and building relationships between students, faculty, administration, alumni, prospective students, and the business community. Through a network that includes 8 professional clubs, 5 networking clubs, 3 support clubs, and 25 committees, the MBAA provides an essential infrastructure that organizes, coordinates, and funds many non-academic student activities including educational, cultural, and social programs that enhance the Kelley MBA experience. Over 99% of the student population volunatarily joins the MBA Association through a one-time membership fee.</p>  </bioghist>
+  <arrangement id="aspace_5b505653740474badb42e2740bc4b229">
+    <head>Arrangement</head>
+<p>Arranged chronologically.</p>  </arrangement>
+  <scopecontent id="aspace_9c5d0d2090cf828acb65b53620f894cd">
+    <head>Scope and Content Note</head>
+<p>The earliest archival holdings of the MBAA newspaper the Kelley MBA Prospectus date from 1984 and at that time, was called the Indiana MBA. Over the years, it went through several name changes, including the Indiana MBA Journal, the CollegIUM, the MBA Prospectus, and finally, the Kelley MBA Prospectus. It is not clear if the February/March 1984 is the first edition of the periodical. Publication frequency varied over the years – bimonthly, monthly, weekly. The last holding in our collection dates to May 2004, though it is not known if that was the final issue of the publication. Within the 20 years of newspapers housed in the Archives, the holdings are complete.</p><p> Topics discussed in the newspaper varied, but obviously focused on the MBA program and life as a MBA candidate – discussion of internships, success stories from alums, chatty articles about happenings within the school, etc.</p>  </scopecontent>
+  <relatedmaterial id="aspace_ef68be5aecdc65889220f31fccff0274">
+    <head>Related Material</head>
+<p>Archived web sites for this group may be included in <extref xlink:href="http://www.archive-it.org/collections/219">Archive-It</extref>.</p><p> Related photographs may be available in the <extref xlink:href="http://webapp1.dlib.indiana.edu/archivesphotos/">University Archives Photographs Database</extref>.</p>  </relatedmaterial>
+  <acqinfo id="aspace_bfbeb16ce5f967f4eb24e35d127f73bd">
+    <head>Acquisition Information</head>
+<p>Accession numbers: 2011/068</p>  </acqinfo>
+  <userestrict id="aspace_886f3a8e03ce7ab0fc3e964fded69527">
+    <head>Usage Restrictions</head>
+<p>The donor(s) of this collection have not transferred their copyrights for the materials to the Trustees of Indiana University. For more information, please contact the Indiana University Archives staff.</p><p> The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archivist.</p>  </userestrict>
+  <prefercite id="aspace_3bc07ca6d8f3126e1906acf43c70cc4d">
+    <head>Preferred Citation</head>
+<p>[Item], The Kelley MBA Prospectus, Collection C447, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <custodhist id="aspace_7c6deb741872acb08b2ab0bee130368d">
+    <head>Provenance</head>
+<p>Newspapers sent to the Archives by the MBA Office, July 2011.</p>  </custodhist>
+  <processinfo id="aspace_03d32fc8bedbde8966d02b09240e4b00">
+    <head>Processing Information</head>
+<p>Processed by Dina M. Kellams</p><p> Completed in <date normal="2005">2005</date></p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Business students --Indiana --Bloomington --Newspapers.</subject>
+    <subject source="lcsh">Business education --Indiana --Bloomington --History --Sources.</subject>
+    <corpname audience="internal" source="lcnaf">Masters of Business Administration Association --Archives.</corpname>
+    <corpname audience="internal" source="lcnaf">Kelley School of Business --Graduate students --Periodicals.</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAC1771-00001" level="otherlevel"><did><unittitle>The Indiana MBA / The Indiana MBA Journal</unittitle><unitdate normal="1984-02/1991-09" type="inclusive">February/March 1984 – September 1991</unitdate><container id="aspace_8c47fa5d164217484412ec6067f77973" label="box" type="Box">1</container></did></c01><c01 id="aspace_VAC1771-00002" level="otherlevel"><did><unittitle>The CollegIUM</unittitle><unitdate normal="1992-02/1999" type="inclusive">February 1992 – Summer issue, 1999</unitdate><container id="aspace_99dca36049b7789f5415554a28eb0b96" label="box" type="Box">2</container></did></c01><c01 id="aspace_VAC1771-00003" level="otherlevel"><did><unittitle>The MBA Prospectus</unittitle><unitdate normal="1999-09/1999-12" type="inclusive">September 1999 – December 1999</unitdate><container id="aspace_0299d6336a03e99761c3b1390b92c694" label="box" type="Box">2</container></did></c01><c01 id="aspace_VAC1771-00004" level="otherlevel"><did><unittitle>The Kelley MBA Prospectus</unittitle><unitdate normal="2000-01/2004-05" type="inclusive">January 2000 – May 2004</unitdate><container id="aspace_c40cfa13f93b61c0decb1eef72ddff0d" label="box" type="Box">1</container></did></c01></dsc>
+</archdesc>
+</ead>

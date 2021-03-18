@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAD8197</eadid><filedesc><titlestmt><titleproper>Indiana University chapel roll book, <date normal="1883/1891">1883-1891</date> <num>C638</num></titleproper><subtitle>A Guide to the Records at the Indiana University Archives</subtitle><author>Finding aid prepared by Laura Bell</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2016</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2016">ÂŠ 2016</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 04:49:12 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change audience="internal"><date>November 4, 2016</date><item>Finding aid created.</item></change><change audience="internal"><date>September 7, 2017</date><item>Indexing terms added.</item></change><change audience="internal"><date>November 16, 2017</date><item>Batch update to change repository name, subject links, preferred citation, and user restrictions.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Indiana University chapel roll book</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">Indiana University.</corpname>
+    </origination>
+    <unitid>C638</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.3 cubic feet</extent>
+      <extent altrender="carrier">1 oversize flat box</extent>
+    </physdesc>
+    <unitdate normal="1883/1891" type="inclusive">1883-1891</unitdate>
+    <abstract id="aspace_51ac075a06e9d1e0042634bcab2a2f7f">Throughout most of the nineteenth century, students at Indiana University were required to attend chapel services every morning before class. Though attendance was no longer mandatory after the 1889-1890 school year, the university chapel continued to host lectures, song services, and religious services. This collection consists of the chapel roll book, which documented attendance of students between 1883 and 1891.</abstract>
+    <langmaterial id="aspace_beda5b20f6dc71399c80d1cd50e914ae">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_e4bf99ef87984d0a4082a32564336657">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice required.</p>  </accessrestrict>
+  <bioghist id="aspace_fa50371f74d912f3b88a289e2e294aa8">
+    <head>Administrative History</head>
+<p>While there was no standalone chapel building on the campus until 1956, various college buildings provided space for services over time. The first chapel on campus was located inside the Seminary building, completed in 1824. The chapel subsequently relocated to the first College Building (destroyed by fire in 1854), and then to the first University Building (later known as the "Old College Building"). Weekday religious services for students were held in Maxwell Hall (renamed Mitchell Hall in 1894) beginning in 1885.</p><p> Students at Indiana University were required to attend morning chapel services throughout much of the 1800s, with the exception of students who were "specially excused." The IU annual reports from the era listed religious services under "class work": student attendance was "required" through the 1885-1886 school year and "expected" through 1889-1890. By 1891, chapel attendance requirements were no longer stipulated, and by 1907 chapel services were held only occasionally in the Student Building.</p><p> To learn more about the chapel and student mandatory attendance see <extref xlink:href="https://scholarworks.iu.edu/journals/index.php/jiuspa/article/view/4638">Camille B. Kandiko's,"Pray! Or Not to Pray: The History of Chapel at Indiana University an Illumination of Institutional Practice and Policy," Journal of the Indiana University Student Personnel Association (2005), pp.25-37.</extref></p>  </bioghist>
+  <arrangement id="aspace_b3a52056e76599b1ee7a62f7481a0c91">
+    <head>Arrangement</head>
+<p>The collection consists of a single volume in which student attendance at Chapel was recorded. Entries are chronological.</p>  </arrangement>
+  <scopecontent id="aspace_5091056554d0e85e3d946a4b1a8045a2">
+    <head>Scope and Content Note</head>
+<p>This collection consists of the chapel roll book for the years 1883-1891. The volume details student names, class standing, date, and a tally of the students' attendances and absences from chapel services. The roll book shows the progression of the chapel's role on campus from a mandatory part of student life to an expected and then voluntary activity.</p>  </scopecontent>
+  <relatedmaterial id="aspace_355e379e50b096f9dc49ec3d4d6b6fc0">
+    <head>Related Material</head>
+<p>Related photographs may be available in the <extref xlink:href="http://webapp1.dlib.indiana.edu/archivesphotos/">University Archives Photographs Database</extref>.</p>  </relatedmaterial>
+  <acqinfo id="aspace_96a0e07b6a040efa3e18bedff2e57706">
+    <head>Acquisition Information</head>
+<p>Accession 0548</p>  </acqinfo>
+  <userestrict id="aspace_c6fd6738e6490d1c727ded856c1c5bc3">
+    <head>Usage Restrictions</head>
+<p>Copyright interests for this collection have been transferred to the Trustees of Indiana University. For more information, contact the Indiana University Archivist.</p>  </userestrict>
+  <prefercite id="aspace_60ee128d23f3a3e7bc33e5c72346c876">
+    <head>Preferred Citation</head>
+<p>[item], Indiana University chapel roll book, Collection C638, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <processinfo id="aspace_fc3549e3a175fa837b48a5b2c424b03a">
+    <head>Processing Information</head>
+<p>Processed by Laura Bell.</p><p> Completed in <date normal="2016-08-24">24 August 2016</date></p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">College students--Indiana--Bloomington--Registers.</subject>
+    <subject source="lcsh">College students--Religious life--Indiana--Bloomington--History--19th century--Sources.</subject>
+    <subject source="lcsh">Religious education--Indiana--Bloomington--History--19th century--Sources.</subject>
+    <genreform source="lcsh">Registers (Lists)</genreform>
+    <corpname audience="internal" source="lcnaf">Indiana University--Archives.</corpname>
+    <corpname audience="internal" source="lcnaf">Indiana University--Students--Registers.</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAD8197-00001" level="item"><did><unittitle>Chapel roll book</unittitle><unitdate normal="1883/1891" type="inclusive">1883-1891</unitdate><container id="aspace_2d8b70e8f0b999ed9edeb591b1a37147" label="box" type="box">1</container></did></c01></dsc>
+</archdesc>
+</ead>

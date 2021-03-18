@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAD8551</eadid><filedesc><titlestmt><titleproper>Catherine Ruby Force's Indiana University scrapbook, <date normal="1915/1920">1915-1920</date> <num>C659</num></titleproper><subtitle>A Guide to her Papers at the Indiana University Archives</subtitle><author>Finding aid prepared by Andrea Barbour</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2017</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2017">ÂŠ 2017</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 04:55:49 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change audience="internal"><date>February 14, 2017</date><item>Finding aid created.</item></change><change audience="internal"><date>November 16, 2017</date><item>Batch update to change repository name, subject links, preferred citation, and user restrictions.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Catherine Ruby Force's Indiana University scrapbook</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname source="lcnaf">Force, Catherine Ruby, 1897-1973.</persname>
+    </origination>
+    <unitid>C659</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 cubic foot</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate normal="1915/1920" type="inclusive">1915-1920</unitdate>
+    <abstract id="aspace_52f42bd952ccc679eedf995e10ace0b3">Catherine Ruby Force was an undergraduate student at Indiana University (A.B. Botany, 1919) from 1915-1919, during which time she was a member of Delta Gamma sorority and the Botany Club. This scrapbook documents her time at Indiana University and includes photos of Force's friends and family, as well as booklets, pamphlets, cards, and other memorabilia from sorority events and gatherings.</abstract>
+    <langmaterial id="aspace_c39a38ec6c573a4bbd1e10c30a2e4c6e">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_c34129fc00ba6d80eb53c66b621ece8b">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice required.</p>  </accessrestrict>
+  <bioghist id="aspace_5045847f38d50606ce2267932c7a3116">
+    <head>Biographical Note</head>
+<p>Catherine Ruby Force was originally from Loogootee, Indiana. Her parents were Seth and Mollie Force. She graduated from Indiana University in 1919 with an A.B. in Botany. During her time at IU, she served as the president of the Botany Club and became a member of the Delta Gamma sorority in 1918. After graduation, she married Lloyd Lang. Force died in 1973 in Washington, Indiana.</p>  </bioghist>
+  <arrangement id="aspace_8fed905bc05e5d21264b0a2ffed68fc0">
+    <head>Arrangement</head>
+<p>The collection includes one scrapbook.</p>  </arrangement>
+  <scopecontent id="aspace_e64b05c0bddf215b44e2846c1fae22ab">
+    <head>Scope and Content Note</head>
+<p>The collection consists of one scrapbook with contents dating from 1915-1920. The scrapbook documents Catherine Ruby Force's time at Indiana University and includes photos of her friends and family, as well as booklets, pamphlets, cards, and other memorabilia from sorority events and gatherings.</p>  </scopecontent>
+  <relatedmaterial id="aspace_298213f279b4f8cf54b68b93c140fd17">
+    <head>Related Material</head>
+<p>Related photographs may be available in the <extref xlink:href="http://webapp1.dlib.indiana.edu/archivesphotos/">University Archives Photographs Database.</extref></p>  </relatedmaterial>
+  <acqinfo id="aspace_d144ea772bdfed9da74809eb1fde0ab5">
+    <head>Acquisition Information</head>
+<p>Accession: 2016/133</p>  </acqinfo>
+  <userestrict id="aspace_999b78e8d85d9fa6156d31c86f116ca5">
+    <head>Usage Restrictions</head>
+<p>The donor(s) of this collection have not transferred their copyrights for the materials to the Trustees of Indiana University. For more information, please contact the Indiana University Archives staff.</p><p> The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archivist.</p>  </userestrict>
+  <prefercite id="aspace_658100130be7657fcd10b4af052c5aff">
+    <head>Preferred Citation</head>
+<p>[Item], Catherine Ruby Force's Indiana University scrapbook, Collection C659, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <custodhist id="aspace_3c3f68aa24fff5e2c64a6acd586fa0eb">
+    <head>Provenance</head>
+<p>Donor Jim Craig purchased this scrapbook at an estate sale circa 1986. He donated it to the University Archives in November 2016.</p>  </custodhist>
+  <processinfo id="aspace_1c82ad43b7b852789eb613377b0ee3e5">
+    <head>Processing Information</head>
+<p>Processed by Andrea Barbour.</p><p> Completed on <date normal="2017-01-10">January 10, 2017</date></p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">College students --Indiana --Bloomington --Social life and customs --History --20th century --Sources.</subject>
+    <subject source="lcsh">Greek letter societies --Indiana --Bloomington --History --Sources.</subject>
+    <persname audience="internal" source="lcnaf">Force, Catherine Ruby, 1897-1973 --Archives.</persname>
+    <corpname audience="internal" source="lcnaf">Indiana University--Students--History--Sources.</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAD8551-00001" level="item"><did><unittitle>Scrapbook</unittitle><unitdate normal="1915/1920" type="inclusive">1915-1920</unitdate><unitdate normal="1916/1919" type="inclusive">1916-1919, undated</unitdate><unitdate normal="1916/1919" type="inclusive">1916-1919, undated</unitdate><unitdate normal="1915/1920" type="inclusive">undated</unitdate><unitdate normal="1915/1920" type="inclusive">undated</unitdate><unitdate normal="1915/1920" type="inclusive">undated</unitdate><unitdate normal="1915/1920" type="inclusive">undated</unitdate><unitdate normal="1915/1920" type="inclusive">1915-1920, undated</unitdate><container id="aspace_015b55e5dde7167489c5a3dbe1efce75" label="box" type="box">1</container></did><scopecontent id="aspace_f57b206e58282b109812ae8be4541f66"><head>Scope and Contents</head><p>Items in the scrapbook include:</p><list type="ordered"><item>Photographs of Force, family and friends, <unitdate normal="1916/1919" type="inclusive">1916-1919, undated</unitdate></item><item>Photographs of Force and friends in Bloomington, <unitdate normal="1916/1919" type="inclusive">1916-1919, undated</unitdate></item><item>Photographs of Delta Gamma, <unitdate normal="1915/1920" type="inclusive">undated</unitdate></item><item>Photographs of Sigma Chi, <unitdate normal="1915/1920" type="inclusive">undated</unitdate></item><item>Photographs of Phi Kappa Psi, <unitdate normal="1915/1920" type="inclusive">undated</unitdate></item><item>Photographs of the "Kid Carty of Sullivan Faculty" (?), <unitdate normal="1915/1920" type="inclusive">undated</unitdate></item><item>Delta Gamma pamphlets, booklets, cards, and memorabilia, <unitdate normal="1915/1920" type="inclusive">1915-1920, undated</unitdate></item></list></scopecontent></c01></dsc>
+</archdesc>
+</ead>

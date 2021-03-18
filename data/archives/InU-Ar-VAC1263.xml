@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAC1263</eadid><filedesc><titlestmt><titleproper>Indiana University Forest Quadrangle orientation materials, <date normal="1972/1994">1972-1994</date> <num>C382</num></titleproper><subtitle>A Guide to the Records at the Indiana University Archives</subtitle><author>Finding aid prepared by Greg Bailey.</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>© 2011</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2011">© 2011</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 05:04:28 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change audience="internal"><date>October 27, 2011.</date><item>Date the finding aid was started.</item></change><change audience="internal"><date>November 16, 2017</date><item>Batch update to change repository name, subject links, preferred citation, and user restrictions.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Indiana University Forest Quadrangle orientation materials</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">Forest Quadrangle (Indiana University, Bloomington).</corpname>
+    </origination>
+    <unitid>C382</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.4 cubic feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate normal="1972/1994" type="inclusive">1972-1994</unitdate>
+    <unitdate normal="1973/1974" type="bulk">1973-1974</unitdate>
+    <abstract id="aspace_0b1b968d4c201b4c8da28633d6795625">Construction of Indiana University's Forest Quadrangle was completed in 1965. Original plans included a dining hall, an 11-story men's unit and an 11-story women's unit, but after the 1966 school year, the university decided to use Forest for women's housing. It remained as such until 1996, when the dormitory went co-ed. Each year the dormitories would rely heavily upon Orientation Advisors (OA) to help during the new student orientation process. These OAs would work with Residence Assistants (RA) on planning events such as ice cream socials, dances, games, lemonade stands and information tables. The OAs also assisted in providing general campus information for the new students. This small collection consists of one cassette with music for a slide show and eight folders containing material from Freshman Orientation for Forest Quad. Nearly 300 photographic slides depicting student life in Forest Quad were transferred to the Archives photographs collection.</abstract>
+    <langmaterial id="aspace_f4087edd7343248b7ac7f58f626a82cc">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_74cb201dab1b725f6d37ebc5b376115a">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice required.</p>  </accessrestrict>
+  <bioghist id="aspace_979a8f44a4d778a8f96a95da4df66f14">
+    <head>Administrative History</head>
+<p>Construction of Indiana University's Forest Quadrangle was completed in 1965. Original plans for the dormitory were to include a dining hall, an 11-story men's unit and an 11-story women's unit, but after the 1966 school year, the university decided to use Forest for women's housing. It remained as such until 1996, when the dormitory went co-ed.</p><p> Each year the dormitories would rely heavily upon Orientation Advisors (OA) to help during the new student orientation process. These OAs would work with Residence Assistants (RA) on planning events such as ice cream socials, dances, games, lemonade stands and information tables. The OAs also assisted in providing general campus information for the new students.</p>  </bioghist>
+  <arrangement id="aspace_98b2e4f8582f1b7347b4b3358e906dfd">
+    <head>Arrangement</head>
+<p>The collection is arranged alphabetically by folder title in a single series of Orientation materials.</p>  </arrangement>
+  <scopecontent id="aspace_afa8aea42378f1a0f37ef2a88b84324e">
+    <head>Scope and Content Note</head>
+<p>This small collection consists of one cassette with music for a slide show and eight folders containing material from Freshman Orientation for Forest Quad. One folder consists of photographs and biographies of prominent women in Indiana University's history that were hung on dorm bulletin boards. The folders are arranged alphabetically by folder title.</p><p> Nearly 300 photographic slides depicting student life in Forest Quad were transferred to the Archives photographs collection. Consult the Archives Photograph Curator for further information.</p>  </scopecontent>
+  <separatedmaterial id="aspace_4d15fc47b114f938aa278ede05724f81">
+    <head>Separated Material</head>
+<p>A total of 294 photographic slides were pulled from the collection. The bulk of the images are of student life in Forest Quad, but also included were campus buildings and a few of Kirkwood Ave. and 3rd Street. The slides are housed with the Archives Photograph collection. For more information contact the Archives Photograph Curator.</p>  </separatedmaterial>
+  <relatedmaterial id="aspace_ebd49929b023b523757ebdb70b3b6aaf">
+    <head>Related Material</head>
+<p>Archived web sites for this unit may be included in <extref xlink:href="http://www.archive-it.org/collections/219">Archive-It</extref>. </p><p> Additional records such as newsletters, annual reports, bulletins, and publications may be accessed in the <extref xlink:href="http://institutionalmemory.iu.edu/aim/">Archives of Instutitional Memory.</extref> </p><p> Related photographs may be available in the University Archives<extref xlink:href="http://webapp1.dlib.indiana.edu/archivesphotos/">Photographs Database</extref>.</p>  </relatedmaterial>
+  <acqinfo id="aspace_28dc17b14f1402295c55bb2ee7df8f19">
+    <head>Acquisition Information</head>
+<p>Accession numbers 2010/031</p>  </acqinfo>
+  <userestrict id="aspace_42fae7cb8678620440cca1c43f00c819">
+    <head>Usage Restrictions</head>
+<p>Copyrights for records originating with Indiana University administrative units, departments, and other offices are held by the Trustees of Indiana University. For more information, please contact the Indiana University Archives staff.</p><p> The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archivist.</p>  </userestrict>
+  <prefercite id="aspace_093f12cd32a446b44456d7ce5ed56370">
+    <head>Preferred Citation</head>
+<p>[Item], Indiana University Forest Quadrangle orientation materials, Collection C382, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <custodhist id="aspace_56469fea6087ed9f2458330e9aa05345">
+    <head>Provenance</head>
+<p>Transferred from Forest Quad to the Archives in 2010.</p>  </custodhist>
+  <appraisal id="aspace_52869274c49737e6d4a6c188dd1c6a95">
+    <head>Appraisal</head>
+<p>Some duplicate materials were removed from the collection and recycled.</p>  </appraisal>
+  <processinfo id="aspace_543e521e60272101686d72baf83d64ec">
+    <head>Processing Information</head>
+<p>Processed by Greg Bailey.</p><p> Completed in <date normal="2010">2010</date>.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">College student orientation --Indiana --Bloomington --Sources.</subject>
+    <subject source="lcsh">College freshmen --Indiana --Bloomington --Sources.</subject>
+    <subject source="lcsh">Dormitories --Indiana --Bloomington --Sources.</subject>
+    <corpname audience="internal" source="lcnaf">Forest Quadrangle (Indiana University, Bloomington) --Archives.</corpname>
+    <corpname audience="internal" source="lcnaf">Forest Quadrangle (Indiana University, Bloomington) --Records and correspondence.</corpname>
+    <corpname audience="internal" source="lcnaf">Forest Quadrangle (Indiana University, Bloomington) --Sources.</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAC1263-00001" level="series"><did><unittitle>Orientation materials</unittitle><unitdate normal="1972/1994" type="inclusive">1972-1994</unitdate><container id="aspace_7666f57c35688840f2ef053e56a6aacb" label="box" type="Box">1</container></did><c02 id="aspace_VAC1263-00002" level="file"><did><unittitle>Cassette – Orientation Slide Music</unittitle><unitdate normal="1994/1994">1994</unitdate><container id="aspace_8212257190b9caf18bcc9b10106275f1" label="box" type="Box">1</container></did></c02><c02 id="aspace_VAC1263-00003" level="file"><did><unittitle>Orientation</unittitle><unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate><container id="aspace_5645b16fc4276c4775cd84406b4b58a3" label="box" type="Box">1</container></did></c02><c02 id="aspace_VAC1263-00004" level="file"><did><unittitle>Orientation Advisor Information</unittitle><unitdate normal="1973/1973">1973</unitdate><container id="aspace_64b471342393f9e3808d27391347c50e" label="box" type="Box">1</container></did></c02><c02 id="aspace_VAC1263-00005" level="file"><did><unittitle>Orientation Fall</unittitle><unitdate normal="1973/1973">1973</unitdate><container id="aspace_28056b6cf84d9b71e0742dd8b9f89527" label="box" type="Box">1</container></did></c02><c02 id="aspace_VAC1263-00006" level="file"><did><unittitle>Orientation Forest</unittitle><unitdate normal="1973/1973">1973</unitdate><container id="aspace_85fbe1da606f8320e2e5c919f0829257" label="box" type="Box">1</container></did></c02><c02 id="aspace_VAC1263-00007" level="file"><did><unittitle>Orientation Handbooks</unittitle><container id="aspace_a795d83812422e2544990f466e915a8f" label="box" type="Box">1</container></did><c03 id="aspace_VAC1263-00008" level="file"><did><unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate><physdesc id="aspace_9127f07a34874975effe8addb97d638e">(2 folders)</physdesc><container id="aspace_c892158bfc28d1487241d73512ffda0b" label="box" type="Box">1</container></did></c03><c03 id="aspace_VAC1263-00009" level="file"><did><unitdate normal="1991/1994" type="inclusive">1991-1994</unitdate><container id="aspace_c62d6f6a50fedd3341c1dce1c6b73e95" label="box" type="Box">1</container></did></c03></c02><c02 id="aspace_VAC1263-00010" level="file"><did><unittitle>Orientation Photos Bulletin Board</unittitle><unitdate normal="1972/1994" type="inclusive">undated</unitdate><container id="aspace_522f5a5912dba8468220393ff9a4c0a6" label="box" type="Box">1</container></did></c02><c02 id="aspace_VAC1263-00011" level="file"><did><unittitle>Orientation Social Event</unittitle><unitdate normal="1975/1975">1975</unitdate><container id="aspace_a7e271a32fd2e911a4aa89681a793fd0" label="box" type="Box">1</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

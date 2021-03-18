@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAE0787</eadid><filedesc><titlestmt><titleproper>Pauline Day scrapbook and planners, <date normal="1911/1916" type="inclusive">1911-1916</date> <num>C708</num></titleproper><subtitle>A Guide to her Papers at the Indiana University Archives</subtitle><author>Finding aid prepared by Casey Burgess</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2019</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2019">ÂŠ 2019</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 04:49:01 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Pauline Day scrapbook and planners</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname source="ingest">Day, Pauline, 1894-1981.</persname>
+    </origination>
+    <unitid>C708</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.5 cubic feet</extent>
+    </physdesc>
+    <unitdate normal="1911/1916" type="inclusive">1911-1916</unitdate>
+    <abstract id="aspace_1e1850b7cf6d79e450cfd90704ce9bf3">Pauline Day (1894-1981) attended Indiana University as an undergraduate from 1912-1916. This collection contains one scrapbook and two annotated planners that document student life at IU through materials such as dance cards from social events, personal notes, newspaper clippings, theater programs, and commencement programs. A small amount of scrapbook material also pertains to Purdue University, which Day also visited to attend student social events.</abstract>
+    <langmaterial id="aspace_109f81b3931c91b724d405c2f6f24ad0">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_735cc20ea60117bda384322539110512">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice is required.</p>  </accessrestrict>
+  <bioghist id="aspace_eee6c62cf0575f6c00a9850175b96d34">
+    <head>Biographical Note</head>
+<p>Pauline Edger Day (1894-1981) was born in Dunkirk, Indiana to Joseph and Eliza Day. Her family moved to Winchester, Indiana before Pauline enrolled at Indiana University in 1912. She attended IU from September 1912 to June 1916, when she graduated with a Bachelor of Arts degree in English. Pauline lived in Alpha Hall for her last two years at IU. Her cousin, Vivian Day, also attended IU from 1915-1919. After graduating from IU, Pauline taught English and ran the domestic sciences program at Anderson High School in Anderson, Indinana. She retired in 1950 and died in her home in January 1981. She is buried with her parents in Maplewood Cemetery in Madison County, Indiana.</p>  </bioghist>
+  <arrangement id="aspace_82aaa56dafd6aaeb476c8ef598176caf">
+    <head>Arrangement</head>
+<p>Collection consists of a single scrapbook and two <title render="italic">Red Book</title> planners, all contained in a single box.</p>  </arrangement>
+  <scopecontent id="aspace_b0f6f521133b0f9fbd94af9f0bb8d30d">
+    <head>Scope and Content Note</head>
+<p>This collection consists of three items. The first is a scrapbook, which dates from 1911 to 1916 and documents Pauline Day's experiences as an undergraduate student at Indiana University and visitor to Purdue University. The scrapbook contains dance cards from official school events as well as fraternity and sorority events, personal notes, newspaper articles, theater programs, and commencement programs. There are also two IU YMCA <title render="italic">Red Book</title> planners, which contains class and school events, student directories, organizations on campus, and Pauline's schedule and daily activities.</p>  </scopecontent>
+  <relatedmaterial id="aspace_747c4da3cda41d9913979696461fadac">
+    <head>Related Material</head>
+<p>Related photographs may be available in the <extref xlink:href="http://webapp1.dlib.indiana.edu/archivesphotos/">University Archives Photographs Database</extref>.</p>  </relatedmaterial>
+  <acqinfo id="aspace_00ffa25637c9cad8e720e1943abec151">
+    <head>Acquisition Information</head>
+<p>Accession: 1224</p>  </acqinfo>
+  <userestrict id="aspace_769a9342fec769dd19c202cf864a1968">
+    <head>Usage Restrictions</head>
+<p>The donor(s) of this collection have not transferred their copyrights for the materials to the Trustees of Indiana University. For more information, please contact the Indiana University Archives staff.</p><p> The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archives staff.</p>  </userestrict>
+  <prefercite id="aspace_37859106d97df2857f856382fd830b8d">
+    <head>Preferred Citation</head>
+<p>[Item], Pauline Day scrapbook and planners, Collection C708, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <custodhist id="aspace_8090d254d6f9943cba0c6e6cef789743">
+    <head>Provenance</head>
+<p>These items were given to the University Archives in December 1981 by Dan Brinduse.</p>  </custodhist>
+  <processinfo id="aspace_d81e78197961676a5c3a3987c4849aa6">
+    <head>Processing Information</head>
+<p>Processed by Casey Burgess.</p><p> Completed in <date normal="2019-02">February 2019</date></p>  </processinfo>
+  <dsc><c01 id="aspace_bcc435e0a018077abeb55d60e913f14f" level="series"><did><unittitle>Pauline Day scrapbook and planners</unittitle><unitdate normal="1911/1916" type="inclusive">1911-1916</unitdate><container id="aspace_92ab25fef834d33ac828cbef9d5654bd" label="box" type="box">1</container></did><c02 id="aspace_55bb4128b87168dbe14026991f7cf3e1" level="item"><did><unittitle>Scrapbook</unittitle><unitdate normal="1911/1916" type="inclusive">1911-1916</unitdate><container id="aspace_21aa9d633a259ab118c25096f1ce7a61" label="box" type="box">1</container></did></c02><c02 id="aspace_efb81113d245d477625ab1d7acd4498b" level="file"><did><unittitle><title render="italic">Red Book</title> planners</unittitle><container id="aspace_de0b14a8b279e99420eab39573b73b38" label="box" type="box">1</container></did><c03 id="aspace_bc6e628c7f57b4481ea65596b0e4a134" level="item"><did><unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate><container id="aspace_8f24f86aa801902da9513475cf9ab39e" label="box" type="box">1</container></did></c03><c03 id="aspace_0ba96ccd55147acad08bd2caae95e60c" level="item"><did><unitdate normal="1915/1916" type="inclusive">1915-1916</unitdate><container id="aspace_67a030c8f7335a8f7cd360e18c617de6" label="box" type="box">1</container></did></c03></c02></c01></dsc>
+</archdesc>
+</ead>
