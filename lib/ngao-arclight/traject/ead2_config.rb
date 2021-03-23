@@ -204,6 +204,12 @@ to_field 'digital_objects_ssm', extract_xpath('/ead/archdesc/did/dao|/ead/archde
   end
 end
 
+to_field 'purl_ssi' do |_record, accumulator, context|
+  repo_name = settings['repository']
+  ead_number = context.output_hash['ead_ssi'].first.split('-').last
+  accumulator << "http://purl.dlib.indiana.edu/iudl/findingaids/#{repo_name}/#{ead_number}"
+end
+
 to_field 'extent_ssm', extract_xpath('/ead/archdesc/did/physdesc', to_text: false) do |_record, accumulator|
   accumulator.map! do |element|
     extent_array = []
