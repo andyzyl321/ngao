@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAB7478</eadid><filedesc><titlestmt><titleproper>Ralph J. Garriott diary, <date normal="1923/1924">1923-1924</date> <num>C361</num></titleproper><subtitle>A Guide to the Diary at the Indiana University Archives</subtitle><author>Finding aid prepared by Dina M. Kellams</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2009</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2007">ÂŠ 2009</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 05:08:48 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change audience="internal"><date>August 4, 2009</date><item>Finding aid encoded.</item></change><change audience="internal"><date>November 16, 2017</date><item>Batch update to change repository name, subject links, preferred citation, and user restrictions.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Ralph J. Garriott diary</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname source="lcnaf">Garriott, Ralph J., 1905-1997.</persname>
+    </origination>
+    <unitid>C361</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 folder</extent>
+    </physdesc>
+    <unitdate normal="1923/1924" type="inclusive">1923-1924</unitdate>
+    <abstract id="aspace_b1a27d096b3749d549a109c46807b29e">Ralph J. Garriott graduated from Indiana University in 1927. This collection consists solely of Garriott's diary maintained during his freshman year at Indiana University, 1923-1924.</abstract>
+    <langmaterial id="aspace_2efb7993764bb495bec6b63065457c42">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_503c80b0b3a98c1121a837606e525eea">
+    <head>Access Restrictions</head>
+<p>Diary is open for research. Advance notice required for access.</p>  </accessrestrict>
+  <bioghist id="aspace_e7cff7c389f638658e3f6a37d7fc096c">
+    <head>Biographical Note</head>
+<p>From his hometown of Knightstown, Indiana, Ralph James Garriott came to Indiana University in 1923 where he would ultimately earn his BS in Commerce in 1927. From Bloomington, Ralph went to Anderson, Indiana, where he secured an accounting position with the Delco-Remy Corporation, a division of General Motors. He remained there his entire professional career.</p><p>  Having no children themselves, Ralph and his wife Lova Conn left much of their estate to benefit children and young adults. At Indiana University, the Garriotts are memorialized through the Lova C. Garriott Scholarship at the Kelley School of Business.</p>  </bioghist>
+  <arrangement id="aspace_c8f142929f121ef329a24a7622beea1f">
+    <head>Arrangement</head>
+<p>Collection consists of 1 item, the 1923-1924 diary.</p>  </arrangement>
+  <scopecontent id="aspace_fd35189659f2840247c0357c07d62b18">
+    <head>Scope and Content Note</head>
+<p>The 1923-1924 diary of Ralph Garriott chronicles his freshman year at Indiana University. Devoted to his journal, Ralph wrote daily with entries detailing his classes, friends, happenings outside of class, as well as news from home and elsewhere. Ralph seemed to be interested in many of the popular happenings on campus, so in addition to talk about his classes, there are entries about athletic events (IU-Purdue football and burial of Jawn Purdue), dances ("Blanket Hop"), freshman-sophomore scraps, serenades, and popular movies ("My Wild Irish Rose").</p>  </scopecontent>
+  <acqinfo id="aspace_705c263dc76856ecf553f2aaa8ce5bb7">
+    <head>Acquisition Information</head>
+<p>Gifted to the University Archives by Ralph Garriott's attorney, Daniel S. Davisson, July 2009.</p>  </acqinfo>
+  <userestrict id="aspace_cf6300f122b9c99758ee5e44c3c3779d">
+    <head>Usage Restrictions</head>
+<p>The donor(s) of this collection have transferred their copyrights for the materials to the Trustees of Indiana University through a Deed of Gift. For more information, please contact the Indiana University Archives staff.</p><p> The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archivist.</p>  </userestrict>
+  <prefercite id="aspace_81f2f5be4fbe18c35af19dadd0019441">
+    <head>Preferred Citation</head>
+<p>[Item], Ralph J. Garriott diary, Collection C361, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <processinfo id="aspace_9ac09ec1c352e5133be065ecd3f2e23b">
+    <head>Processing Information</head>
+<p>Processed by Dina M. Kellams.</p><p> Completed in <date normal="2009">2009</date></p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">College students --Indiana --Bloomington --Diaries.</subject>
+    <persname audience="internal" source="lcnaf">Garriott, Ralph J., 1905-1997 --Diaries.</persname>
+    <corpname audience="internal" source="lcnaf">Indiana University --Students --Diaries.</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAB7478-00001" level="item"><did><unittitle>Diary</unittitle><unitdate normal="1923/1924" type="inclusive">1923-1924</unitdate></did></c01></dsc>
+</archdesc>
+</ead>

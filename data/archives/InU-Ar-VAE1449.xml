@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAE1449</eadid><filedesc><titlestmt><titleproper>University School Jordannus yearbooks, <date normal="1939/1979">1939-1972, 1979</date> <num>C674</num></titleproper><subtitle>A Guide to the Collection at the Indiana University Archives</subtitle><author>Finding aid prepared by Jessica Ballard and Katie Morrison</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2019</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2019">ÂŠ 2019</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 04:49:35 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change audience="internal"><date>September 23, 2019</date><item>Finding aid created.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>University School <title render="italic">Jordannus</title> yearbooks</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">University High School (Bloomington, Indiana)</corpname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">University Middle School (Bloomington, Indiana)</corpname>
+    </origination>
+    <unitid>C674</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.2 cubic feet</extent>
+      <extent altrender="carrier">3 boxes</extent>
+    </physdesc>
+    <unitdate normal="1939/1979" type="inclusive">1939-1972, 1979</unitdate>
+    <abstract id="aspace_811b8984e8346b3a0c0265f40835bf37">The University School was a K-12 laboratory school that was founded in 1938 by Indiana University and the School City of Bloomington (later Monroe County Community School Corporation). This collection contains volumes of the <title render="italic">Jordannus</title>, a yearbook produced by the middle and high schools, dating from 1939-1979.</abstract>
+    <langmaterial id="aspace_3c4918bcb52d913794076b07d140f033">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_d4237845d6a644117d1b82dd5ed53599">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice required.</p>  </accessrestrict>
+  <bioghist id="aspace_1eedfc6599ddbfd1636d1b742e754d76">
+    <head>Administrative History</head>
+<p>The University School was founded by the Indiana University Board of Trustees and Monroe County Community School Corporation (then the School City of Bloomington) in 1938. The school provided the I.U. School of Education a supervised environment for training teachers, and K-12 education for local students. The University School was originally located at Third and Jordan Avenues, and later moved to a site at 10th Street and the Highway 46 Bypass. The University School provided a core curriculum and a range of elective subjects in the arts, physical education, and foreign languages. Extracurricular activities included theatre, athletics, and public service programs. University High School closed in 1973, and the University Middle School closed in 1984. University Elementary School operates today as part of the Monroe County Community School Corporation.</p>  </bioghist>
+  <arrangement id="aspace_2ca6dfd57f4c42beaf315dbdb590bea6">
+    <head>Arrangement</head>
+<p>This collection consists of a single series of yearbooks, arranged chronologically.</p>  </arrangement>
+  <scopecontent id="aspace_6477aca60667176393f5ebc4acee35a2">
+    <head>Scope and Content Note</head>
+<p>This collection consists of 34 volumes of the <title render="italic">Jordannus</title> yearbook dating from 1939-1954 and 1956-1972. The yearbooks document mostly high school student life; however, yearbooks from 1946-onward also include portraits and group photographs of elementary and middle school students. The collection also includes the 1979 volume of the <title render="italic">Univee</title>, a separate yearbook published by University Middle School.</p><p> The yearbooks document various aspects of student life, including student organizations, sports, convocations, and school leadership. Content includes student, faculty, and staff portraits; class and student group photographs; event photographs, including sports and performing arts productions; and advertisements from an array of Bloomington-based businesses. The collection also covers curriculum highlights, including the introduction of a Black History course in 1970.</p>  </scopecontent>
+  <relatedmaterial id="aspace_b821540de8342b56704065706515a4e9">
+    <head>Related Material</head>
+<p>Related photographs may be available in the <extref xlink:href="http://webapp1.dlib.indiana.edu/archivesphotos/">University Archives Photographs Database</extref>.</p>  </relatedmaterial>
+  <acqinfo id="aspace_7d565757ee190a1686a8ed9e797fe7e0">
+    <head>Acquisition Information</head>
+<p>Accession: 2369</p>  </acqinfo>
+  <userestrict id="aspace_12f8ea6181e9200b17a5159f34217ed9">
+    <head>Usage Restrictions</head>
+<p>Copyright interests for this collection have not been transferred to the Trustees of Indiana University. For more information, contact the University Archives staff. </p><p>  The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archives staff.</p>  </userestrict>
+  <prefercite id="aspace_4036fae5300ad80654582c1e63f59c11">
+    <head>Preferred Citation</head>
+<p>[item], University School <title render="italic">Jordannus</title> yearbooks, Collection C674, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <custodhist id="aspace_ec6fb18570b5fb8d1da2cdd63ec03691">
+    <head>Provenance</head>
+<p>Yearbooks were transferred from the University Archives publications collection and various other sources.</p>  </custodhist>
+  <processinfo id="aspace_755298016c8aeeb9324290c23d7f77db">
+    <head>Processing Information</head>
+<p>Processed by Jessica Ballard and Katie Morrison.</p><p> Completed in <date normal="2019-09">September 2019</date>.</p>  </processinfo>
+  <dsc><c01 id="aspace_8380f2b472b88973e0435ad941599ff3" level="series"><did><unittitle>Yearbooks</unittitle><unitdate normal="1939/1979" type="inclusive">1939-1972, 1979</unitdate></did><c02 id="aspace_e0eaeb9cd48c9a6acd05f704975233ce" level="file"><did><unittitle>The <title render="italic">Jordannus</title></unittitle><unitdate normal="1939/1952" type="inclusive">1939-1952</unitdate><container id="aspace_a3c12801d75fee315b03974d2f4e0a20" label="box" type="box">1</container></did></c02><c02 id="aspace_5da7c5cbb2f88f8ff99fd4ee0a8df62b" level="file"><did><unittitle>The <title render="italic">Jordannus</title></unittitle><unitdate normal="1953/1961" type="inclusive">1953-1954, 1956-1961</unitdate><container id="aspace_bb9168dccdd9b64667f7af121379d37e" label="box" type="box">2</container></did></c02><c02 id="aspace_d78b90066fc1fc075ec962c73682efb1" level="file"><did><unittitle>The <title render="italic">Jordannus</title></unittitle><unitdate normal="1962/1972" type="inclusive">1962-1972</unitdate><container id="aspace_3a9a8403ab70272b87def1a927adac7c" label="box" type="box">3</container></did></c02><c02 id="aspace_a3b915e3f917e5c959f75d19d0204e1f" level="file"><did><unittitle>The <title render="italic">Univee</title></unittitle><unitdate normal="1979/1979">1979</unitdate><container id="aspace_93818668a6c23bd58a575e9aa530d597" label="box" type="box">3</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

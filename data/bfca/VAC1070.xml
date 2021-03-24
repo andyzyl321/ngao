@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">VAC1070</eadid><filedesc><titlestmt><titleproper>S. Torriano Berry Collection <date normal="1982/2008">1982-2008</date> <num>Special Collection STB</num></titleproper><subtitle>A Guide to his records at the Black Film Center/Archive</subtitle><author>Finding aid prepared by Mary Huelsbeck/Hannah Caproon/Gabriel Gardner</author></titlestmt><publicationstmt><publisher>Test - Black Film Center/Archive</publisher><p><date>© 2011</date></p><address><addressline>1320 East Tenth Street</addressline><addressline>Herman B Wells Library, Room 044</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>bfca@indiana.edu</addressline><addressline>URL: <extptr xlink:href="https://bfca.sitehost.iu.edu" xlink:show="new" xlink:title="https://bfca.sitehost.iu.edu" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2011">© 2011</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-07-02 04:01:56 -0400</date>.</creation><langusage>Description is in English.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Test - Black Film Center/Archive</corpname>
+    </repository>
+    <unittitle>S. Torriano Berry Collection</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">S. Torriano Berry</corpname>
+    </origination>
+    <unitid>Special Collection STB</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">34 Items</extent>
+      <physfacet>Materials are in 16mm, Betacam, and VHS format. Collection also includes one book.</physfacet>
+    </physdesc>
+    <unitdate normal="1982/2008" type="inclusive">1982-2008</unitdate>
+    <abstract id="aspace_f30fbbdc46c718356315d5240ba8650d">Films and books created or written by Steven Torriano Berry.</abstract>
+    <langmaterial id="aspace_ecd0e0351fbbc1bc6b13403e8b3f79c5">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_06cf758242c1344e861059a29850e7b9">
+    <head>Access Restrictions</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <bioghist id="aspace_ee46df9dcead353bf3a1044427507f36">
+    <head>Biographical Note</head>
+<p>Named after the character played by Jack Palance in Arrowhead (1953), Steven Torriano Berry was born on January 3, 1958 in Kansas City, KS.</p><p> An accomplished scholar and an award-winning filmmaker, Berry graduated with an M.F.A. from UCLA film school in 1985 and currently is an associate professor at Howard University's Department of Radio, Television and Film. He has directed a number of film and video shorts, including <emph render="italic">Monologue</emph> (1984), <emph render="italic">Deathly Realities</emph> (1985), <emph render="italic">Money'll Eat You Up</emph> (1992), and <emph render="italic">Euphrates Sun</emph> (1993). Berry's first feature-length film, <emph render="italic">Embalmer</emph> (1996), which he also edited as a short film, was a finalist in Showtime's Black Filmmaker's Showcase. Berry created and executive produced the <emph render="italic">Black Independent Showcase</emph>, a television series that featured independent and student film projects; <emph render="italic">The Black Beyond</emph>, an anthology series of horror shorts; <emph render="italic">Black Visions Silver Screen</emph>, a showcase for Howard University student filmmakers; <emph render="italic">Noh Matta Wat!</emph>, the first dramatic television series of Belize; and the half hour television movies <emph render="italic">The Light</emph> and <emph render="italic">When It's Your Turn.</emph></p><p> <emph render="italic">Black Visions Silver Screen</emph> is produced for WHUT - TV 32, in Washington, D.C., Howard University's licensed Public Broadcasting Service (PBS) television station. This series served as a showcase for the students of Howard University's Department of Radio, Television, and Film. Individual episodes all run approximately one hour and have various hosts; short films are grouped into episodes by genre.</p><p> <emph render="italic">Noh Matta Wat!</emph> was the first dramatic television series of Belize, first airing in 2005. Berry was extensively involved with the series, serving as director and videographer of the first three seasons, a total of 22 episodes.</p><p> Berry is co-author of the cinema book <emph render="italic">The 50 Most Influential Black Films: A Celebration of African American Talent</emph> (2001), and he has written two novels, <emph render="italic">Tears</emph> (1991) and <emph render="italic">The Honeyman's Son</emph> (2002).</p>  </bioghist>
+  <scopecontent id="aspace_5505bc7f747c5bdb4f1685a0d2898e9c">
+    <head>Scope and Content Note</head>
+<p>The collection is arranged into two series: Films and Books. The Films series contains films made by S. Torriano Berry in 16mm, Betacam, VHS, and DVD format. The Books series contains one book co-written by Mr. Berry with his sister, Venise T. Berry.</p><p>  <emph render="bold">RT = Running Time; TRT = Total Running Time.</emph></p>  </scopecontent>
+  <acqinfo id="aspace_29c3c0d16330861c182f2b58bad12006">
+    <head>Acquisition Information</head>
+<p>The collection was donated on June 06, 2005.</p>  </acqinfo>
+  <userestrict id="aspace_8eefb44cb46c143c97f2629f449daa2d">
+    <head>Usage Restrictions</head>
+<p>No copies of films may be made without written permission from S. Torriano Berry.</p>  </userestrict>
+  <prefercite id="aspace_7a5cf01715a869f2f51a46fa4482bc69">
+    <head>Preferred Citation</head>
+<p>[item], S. Torriano Berry Collection, Special Collection STB, Black Film Center/Archive, Indiana University, Bloomington.</p>  </prefercite>
+  <processinfo id="aspace_97c0c8602664dfafbf353e10df846974">
+    <head>Processing Information</head>
+<p>Processed by BFC/A staff and Gabriel Gardner.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcnaf">African American actors.</subject>
+    <subject source="lcnaf">Howard University. Department of Radio, Television and Film.</subject>
+    <subject source="lcnaf">Motion pictures--United States.</subject>
+    <persname audience="internal" source="lcnaf">Berry, Torriano.</persname>
+    <persname audience="internal" source="lcnaf">Berry, Venise T.</persname>
+    <persname audience="internal" source="lcnaf">Dixon, Ivan, 1931-2008.</persname>
+    <persname audience="internal" source="lcnaf">Simone, Nina, 1933-2003.</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_e4708228909c2df44f0ec68f22921971" level="series"><did><unittitle>Films</unittitle></did><c02 id="aspace_ea4c35da4be85fe3ddacf53fce0c0fff" level="file"><did><unittitle>Rich - 16mm, b/w, RT 20:00</unittitle><unitid>STB01-SMDR1982.9</unitid><unitdate normal="1982/1982">1982</unitdate></did></c02><c02 id="aspace_9abb819591b37837014b400abb9dfce6" level="file"><did><unittitle>Film &amp; Video Works of S. Torriano Berry - BetacamSP, TRT 1:12:00
+
+
+
+ 1. "Euphrates Awakening", RT 2:00 
+
+ 2. "Euphrates Sun", RT 4:30 
+
+ 3. "Can't Let Love" Music Video, RT 5:00 
+
+ 4. "Money'll Eat You Up", RT 23:40 
+
+ 5. "Know Cologne", RT :30 
+
+ 6. "Day of the Crow's Call", RT 5:00 
+
+ 7. "Cab Calloway [?]", RT :50 
+
+ 8. "Africa in the Holy Land", RT 28:20 
+
+ 9. "The Proverbial Angel", RT 7:00 
+
+ 10. "Sucre Amer", RT 4:00 
+
+ 11. "I'm Sorry" AIDS Public Service Announcement, RT :30 
+
+ 12. "Bugged Trailer", RT 1:30 
+
+ 13. "Embalmer Trailer", RT 5:00</unittitle><unitid>STB02-BTVA19ND.1</unitid></did></c02><c02 id="aspace_6f0f97e99e408444df149b6d570b7d28" level="file"><did><unittitle>The Black Beyond Trilogy - BetacamSP, TRT 1:12:55
+
+
+
+ 1. "Deathly Realities" 
+
+ 2. "The Coming of the Saturnites" 
+
+ 3. "The Connection" 
+
+ 4. "Money'll Eat You Up!!!"</unittitle><unitid>STB03-BTVA19ND.2</unitid></did></c02><c02 id="aspace_88f69b37d243a44eafdfabb07beb6904" level="file"><did><unittitle>Selected Film &amp; Video Works of S. Torriano Berry - BetacamSP, TRT 1:01:45
+
+
+
+ 1. "Africa in the Holy Land", RT 25:00 
+
+ 2. "The Light", RT 22:45 
+
+ 3. "Day of the Crow's Call", RT 5:00 
+
+ 4. "Sucre Amer" (editor), RT 4:00 
+
+ 5. "Embalmer Promo", RT 5:00</unittitle><unitid>STB04-BTVA19ND.3</unitid></did></c02><c02 id="aspace_99d387b33570b7a74456773dfe136b46" level="file"><did><unittitle>Four Women of Genesis - BetacamSP, b/w, RT 5:00
+
+
+
+A music video by S. Torriano Berry. This is a visual interpretation inspired by the Nina Simone song "Four Women." Dance, B/W still photography, and dramatic reenactments reconstruct contemporary versions of four women from the Book of Genesis in the Bible.</unittitle><unitid>STB05-BTMV19ND.1</unitid></did></c02><c02 id="aspace_92a9db8332facb1939a3031d34bca11d" level="file"><did><unittitle>This Is My Beloved: A photo essay on man's inhumanity to man - BetacamSP, RT 2:45</unittitle><unitid>STB06-BTDY2003.1</unitid></did></c02><c02 id="aspace_05e2e0689ac68a902d31f5e55e681d67" level="file"><did><unittitle>The Light (b/w dub) - BetacamSP, b/w, RT 24:30</unittitle><unitid>STB07-BTDR1988.1</unitid></did></c02><c02 id="aspace_75581383487b712671767f8ac0f84459" level="file"><did><unittitle>James and Eloyce Gist's "Hellbound Train!" (Resurrected) - VHS, RT: 50:00 / Edit &amp; original music by S. Torriano Berry.</unittitle><unitid>STB08-VHDR2002.1</unitid></did></c02><c02 id="aspace_819db7f29a784fdef40f3f8cf21e97e4" level="file"><did><unittitle>This is My Beloved: A photo essay on man's inhumanity to man - VHS, RT 2:45
+
+
+
+Also includes: Triangulations, RT: 6:10; 
+
+4 Women of Genesis, RT: 5:00 (TRT 14:00).</unittitle><unitid>STB09-VHVA19ND.1</unitid></did></c02><c02 id="aspace_132c96d08b78efa12ad98d66b54114eb" level="file"><did><unittitle>Women, Weight, &amp; Wellness: Challenging the Myths - VHS, RT 30:00
+
+
+
+A presentation based on "All of Me: A Voluptuous Tale," a novel by Venise Berry.</unittitle><unitid>STB10-VHMS2000.1</unitid></did></c02><c02 id="aspace_cca818397002e2420ef0e002da0a70e2" level="file"><did><unittitle>Berger &amp; Fry's - VHS, RT 29:30
+
+
+
+ Sit-com pilot; re-cut master, 1/31/90; producer/director: S. Torriano Berry; Torriano Film Productions.</unittitle><unitid>STB11-VHTS1989.2</unitid></did></c02><c02 id="aspace_05d23aca30cadb42f86d84a743ae50aa" level="file"><did><unittitle>Embalmer (short version) - VHS, RT 29:30</unittitle><unitid>STB12-VHHR1996.1</unitid></did></c02><c02 id="aspace_474a573ff38bd8d8dc94734668faa8c6" level="file"><did><unittitle>Embalmer - VHS, RT 87:30</unittitle><unitid>STB13-VHHR1996.2</unitid></did></c02><c02 id="aspace_14fa5c3c592dcea3ccc028b069ad6027" level="file"><did><unittitle>Black Independent Showcase (Show #6) - VHS, RT 29:00
+
+Includes: "Rich", RT 20:00, "Day of the Crow's Call", RT 5:00</unittitle><unitid>STB14-VHTS1991.1</unitid></did></c02><c02 id="aspace_79e79c349009636fd3f3688e963f703e" level="file"><did><unittitle>Black Visions / Silver Screen: HU Student Film Showcase: Show #1 Relationships – DVD, TRT 58:30
+
+
+
+ 1."Raw Intensity", RT 7:30 
+
+ 2."Inner Conflict", RT 4:00 
+
+ 3."School Daze", RT 5:00 
+
+ 4."Sibling Rivalry", RT 8:00 
+
+ 5."Starting Over", RT 2:00 
+
+ 6."On the Pillow", RT 10:00 
+
+ 7."Tumbling Down", RT 10:00 
+
+ 8."On the Beach", RT 2:00</unittitle><unitid>STB15-DVDRNDND.1</unitid></did></c02><c02 id="aspace_08bd4fc83c98761435abd12e7469aec0" level="file"><did><unittitle>Black Visions / Silver Screen: HU Student Film Showcase: Show #2 The MFA's – DVD, TRT 58:30
+
+
+
+ 1."A Boxer's Blues", RT 7:00 
+
+ 2."Woman &amp; Man", RT 11:00 
+
+ 3."There's No Place Like Home", RT 15:00 
+
+ 4."Mm-Meg!", RT 23:00</unittitle><unitid>STB16-DVVA19ND.1</unitid></did></c02><c02 id="aspace_e7c7ab9d0123cc0f3464b826d07e2e1a" level="file"><did><unittitle>Black Visions / Silver Screen: HU Student Film Showcase: Show #3 Music Videos – DVD, TRT 59:30
+
+
+
+ 1."Capers", RT 4:00 
+
+ 2."Waterdance", RT 5:00 
+
+ 3."Boodie Wop", RT 4:00 
+
+ 4."When We Get Together", RT 4:00 
+
+ 5."Sucre Amer", RT 4:00 
+
+ 6."I Know That's Right", RT 5:00 
+
+ 7."Can't Let Love", RT 5:00 
+
+ 8."Brainchild", RT 5:00 
+
+ 9."Broad-A-Broad Video Magazine", RT 8:00 
+
+ 10."Let's Unwind", RT 4:00 
+
+ 11."This Is My Beloved", RT 2:45</unittitle><unitid>STB17-DVMV19ND.1</unitid></did></c02><c02 id="aspace_9b8b91e532e7b64d51e90afdd715b8a2" level="file"><did><unittitle>Black Visions / Silver Screen: HU Student Film Showcase: Show #4 Avant-garde – DVD, TRT 59:30
+
+
+
+ 1."Bhava Tanha", RT 3:00 
+
+ 2."Stages of Life", RT 6:30 
+
+ 3."In the Flesh", RT 14:00 
+
+ 4."In Remembrance of Me", RT 12:00 
+
+ 5."BaDreaM", RT 5:30 
+
+ 6."Sabrina", RT 13:00</unittitle><unitid>STB18-DVVA19ND.2</unitid></did></c02><c02 id="aspace_517865ad2df3f50a559c9831558df7c6" level="file"><did><unittitle>Black Visions / Silver Screen: HU Student Film Showcase: Show #5 A Woman's Touch – DVD, TRT 59:30
+
+
+
+ 1."Flush", RT 6:30 
+
+ 2."What Beauty Beholds", RT 12:00 
+
+ 3."Their Eyes Were Watching God", RT 11:30 
+
+ 4."Thirst", RT 10:00 
+
+ 5."Premonition", RT 16:00</unittitle><unitid>STB19-DVDRNDND.2</unitid></did></c02><c02 id="aspace_cbb88a349d4f92a40da2687de1c0f910" level="file"><did><unittitle>Black Visions / Silver Screen: HU Student Film Showcase: Show #6 Sci-Fi/Horror – DVD, TRT 59:30
+
+
+
+ 1."The Collector", RT 5:00 
+
+ 2."Apple Crumb Panic", RT 23:30 
+
+ 3."Deathly Realities", RT 24:30 
+
+ 4."The Connection", RT 7:00 
+
+ 5."Embalmer Promo", RT 2:00 
+
+ 6."Bugged Promo', RT 1:30</unittitle><unitid>STB20-DVHR19ND.1</unitid></did></c02><c02 id="aspace_ee10369b94955aae21ffc607a759e6dc" level="file"><did><unittitle>Black Visions / Silver Screen: HU Student Film Showcase: Show #7 Documentaries – DVD, TRT 57:30
+
+
+
+ 1."Nappy", RT 20:00 
+
+ 2."Videoscan: J. Berry", RT 7:30 
+
+ 3."Africa In The Holyland", RT 25:30</unittitle><unitid>STB21-DVDY19ND.1</unitid></did></c02><c02 id="aspace_ed1ef1926544843ae8158b5cc47381e3" level="file"><did><unittitle>Black Visions / Silver Screen: HU Student Film Showcase: Show #8 B&amp;W – DVD, b/w, TRT 59:30
+
+
+
+ 1."Mourning Alex", RT 8:30 
+
+ 2."BADDY", RT 10:00 
+
+ 3."In Remembrance of Me", RT 12:00 
+
+ 4."My Dear Frederick", RT 5:00 
+
+ 5."Euphrates Awakening", RT 4:00 
+
+ 6."Inside/Out Trailer", RT 4:00 
+
+ 7."Inner Conflict", RT 4:00 
+
+ 8."Stages of Life", RT 6:30</unittitle><unitid>STB22-DVDRNDND.3</unitid></did></c02><c02 id="aspace_c5fe00fcee2c15ff3ecfc21c5ff90ca0" level="file"><did><unittitle>Black Visions / Silver Screen: HU Student Film Showcase: Show #9 Kids – DVD, TRT 59:30
+
+
+
+ 1."Ghana Folktale Jamm", RT 10:00 
+
+ 2."There's No Place Like Home", RT 15:00 
+
+ 3."Proverbial Angel", RT 7:00 
+
+ 4."Ruby's Legacy", RT 23:00</unittitle><unitid>STB23-DVCH19ND.1</unitid></did></c02><c02 id="aspace_5440800445946de320f4a48bb8dbf0af" level="file"><did><unittitle>Black Visions / Silver Screen: HU Student Film Showcase: Show #10 Smorgasbord – DVD, TRT 59:30
+
+
+
+ 1."The Mechanic", RT 3:30 
+
+ 2."Blackline", RT 4:00 
+
+ 3."Conscious", RT 5:00 
+
+ 4."The Eulogy of Butterbean", RT 10:00 
+
+ 5."Adonise Four", RT 5:00 
+
+ 6."Knight Shadow", RT 9:00 
+
+ 7."My Dear Frederick", RT 5:00 
+
+ 8."Masks", RT 12:00</unittitle><unitid>STB24-DVVA19ND.3</unitid></did></c02><c02 id="aspace_803d2470f9f4ce60ab7a6c165b9b0718" level="file"><did><unittitle>Black Captains of the Chesapeake – DVD, RT 56:30
+
+Documentary on a group of African American boat captains sailing out of Kent Narrows, Maryland that have been taking anglers fishing on the Chesapeake Bay for the past 40 years.</unittitle><unitid>STB25-DVDY20ND.1</unitid></did></c02><c02 id="aspace_96ed3f3883aff5498b29b8bfa23fd337" level="file"><did><unittitle>Retrospective: Lincoln Academy - 1948 to 1950 – DVD, 51:00
+
+ Documentary and testimonials by former students of a black boarding school in North Carolina that was also attended by actor Ivan Dixon.</unittitle><unitid>STB26 - DVDY2006.24</unitid></did></c02><c02 id="aspace_27ebabae84230e577b379178a4b725e9" level="file"><did><unittitle>Loose Change Meets Zeitgist / 9/11 HAS NO CLOTHES – DVD, RT 56:00
+
+ Questions and controversies surrounding the tragic events and aftermath of Sept. 11, 2001.</unittitle><unitid>STB27-DVD2007.20</unitid></did></c02><c02 id="aspace_d38798ebc1286dc50db80e06f95760f7" level="file"><did><unittitle>Iowa Black Historymaker's Salute 2007 – DVD, RT 28:35
+
+ Video testimonials of four history making women who have made a difference in Iowa.</unittitle><unitid>STB28-DVDY2007.21</unitid></did></c02><c02 id="aspace_c3629387ff59da96b1544f2d7642b8b6" level="file"><did><unittitle>Inside the Core: With YRNEH – DVD, RT 24:45
+
+ Interview with sculptor Chukes, based in California. Hosted by Yrneh Gabon Brown.</unittitle><unitid>STB29-DVDY2008.14</unitid></did></c02><c02 id="aspace_8e30333a3c9d567b55ab104536f8fff8" level="file"><did><unittitle>Financial AIDS – DVD, RT 19:30
+
+ Short drama.</unittitle><unitid>STB30-DVDR2007.8</unitid></did></c02><c02 id="aspace_e036613d847005ba5fe7306e1f9cfd07" level="file"><did><unittitle>Noh Matta Wat!: Season 1 – DVD, RT 3:00:00
+
+Season one of the first dramatic television series of Belize. Follows the wants, dreams, conflicts, and desires of the Diego family as they live, learn, grow and survive through both the good and the rough times.</unittitle><unitid>STB31-DVTS2005.4</unitid></did></c02><c02 id="aspace_eef7fe6ad8a4cf276b46ca9b18da0f80" level="file"><did><unittitle>Noh Matta Wat!: Season 2 – DVD, RT 4:00:00
+
+ Season two of the first dramatic television series of Belize.</unittitle><unitid>STB32-DVTS2006.3</unitid></did></c02><c02 id="aspace_ea9c75cf95756e77964cfd3ab6b70ed3" level="file"><did><unittitle>Noh Matta Wat!: Season 3 – DVD, RT 4:00:00
+
+ Season three of the first dramatic television series of Belize.</unittitle><unitid>STB33-DVTS20ND.1</unitid></did></c02></c01><c01 id="aspace_2278b009fc31e4142f8a69e6c69a8bc8" level="series"><did><unittitle>Books</unittitle></did><c02 id="aspace_4129bb1b7045f28ef747758441c93a18" level="file"><did><unittitle><emph render="italic">- by S. Torriano Berry with Venise T. Berry. New York: Citadel Press, 2001.</emph> - by S. Torriano Berry with Venise T. Berry. New York: Citadel Press, 2001. 
+
+Signed by both authors.</unittitle></did></c02></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAC0618</eadid><filedesc><titlestmt><titleproper>Indiana University Student Government Committee records, <date normal="1940/1941">1940-1941</date> <num>C431</num></titleproper><subtitle>A Guide to the Records at the Indiana University Archives</subtitle><author>Finding aid prepared by Carrie Schwier.</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2010</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2010">ÂŠ 2010</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 04:49:23 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Indiana University Student Government Committee records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">Indiana University. Student Government Committee.</corpname>
+    </origination>
+    <unitid>C431</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.1 cubic feet</extent>
+      <extent altrender="carrier">16 folders</extent>
+    </physdesc>
+    <unitdate normal="1940/1941" type="inclusive">1940-1941</unitdate>
+    <abstract id="aspace_9a61aa096e11328ff58df2f28b2672a0">Beginning in 1939, the Student Government Committee was as a precursor to the existing form of student government. The collection consists of the constitution, reports and meeting minutes dating from 1940-1941.</abstract>
+    <langmaterial id="aspace_8b769c03f6f3b677c8bce37be519018b">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_442217bdbbe7444faec9ab5ba8563855">
+    <head>Access Restrictions</head>
+<p>Open for research. Advanced notice required for access to collection.</p>  </accessrestrict>
+  <bioghist id="aspace_e00a41e0f00771b171ea2940545b7d15">
+    <head>Administrative History</head>
+<p>Student government at Indiana University began in 1912 at the suggestion of a faculty member who wanted to create a student group to police IU athletic events. That year the university's first Student Council was appointed and together they began drafting a constitution. The advent of World War I, however, caused student disinterest in institutionalized student government for many years to follow. Despite this, there had been many other forms of student government established before the Student Council. The Women's League, established in 1895, became the Women's Self-Government Association in 1920. The Indiana Union for Men was created in 1909 and another early form of student government, the Board of Aeons, was established on March 29, 1921 by President Bryan with membership limited to junior and senior men.</p><p> Student government similar to what we have on campus today began in November 1939, when the <title render="italic">Indiana Daily Student</title> issued a call for a more powerful, representative governing body. Committees were appointed from various campus organizations, and in May 1941 the Student Government Committee submitted a formal constitution to the students in a Town Hall meeting. Shortly thereafter, the faculty and Board of Trustees approved this constitution with a few minor changes. Before these plans could become reality, news of the bombing of Pearl Harbor and the outbreak of the Second World War halted all activities except for those associated with the war effort. However, three years later, in January 1944, a constitution was approved forming the first Student Council, which was soon-after reorganized into the Student Senate, and then in 1974 into the Indiana University Student Association.</p>  </bioghist>
+  <arrangement id="aspace_9c8c1d110c58c57272774445780d6894">
+    <head>Arrangement</head>
+<p>The collection is organized into one series: Administrative files.</p>  </arrangement>
+  <scopecontent id="aspace_1b8cbd1723fc96e27a58e66b3aacf241">
+    <head>Scope and Content Note</head>
+<p>With records ranging from only 1940-1941, the Student Government Committee Administrative files contain the constitution, minutes and miscellaneous reports for the short-lived precursor to the present day Indiana University Student Association. Some sets of minutes include supplemental materials such as reports or memos which were discussed at the meeting.</p>  </scopecontent>
+  <relatedmaterial id="aspace_2f79bf029fa1c888d5e3b275a050f39c">
+    <head>Related Material</head>
+<p><extref xlink:href="http://purl.dlib.indiana.edu/iudl/findingaids/archives/InU-Ar-VAA2745">Collection C206</extref>, Indiana University Student Senate records</p><p> <extref xlink:href="http://purl.dlib.indiana.edu/iudl/findingaids/archives/InU-Ar-VAB9446">Collection C234</extref>, Indiana University Student Association records</p><p> Collection C168, Frank and Daisy Beck papers</p>  </relatedmaterial>
+  <acqinfo id="aspace_b17eb8f449c0d91b89400840c88b2f4c">
+    <head>Acquisition Information</head>
+<p>Pulled from the Frank and Daisy Beck papers (C168)</p>  </acqinfo>
+  <userestrict id="aspace_b188ea6418c400df4eedf8558761100f">
+    <head>Usage Restrictions</head>
+<p>The donor(s) of this collection have not transferred their copyrights for the materials to the Trustees of Indiana University. For more information, please contact the Indiana University Archives staff.</p><p> The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archivist.</p>  </userestrict>
+  <prefercite id="aspace_07e1d270a54e37b5101c306db58a6262">
+    <head>Preferred Citation</head>
+<p>[Item], Indiana University Student Government Committee records, Collection C431, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <custodhist id="aspace_702a010241893798ef9243835a9684d4">
+    <head>Provenance</head>
+<p>Records were transferred initially as part of the Frank and Daisy Beck papers. Frank Beck served in an advisory capacity for the Student Government Committee.</p>  </custodhist>
+  <processinfo id="aspace_fc59547f2dd6b2e97407634ad763b581">
+    <head>Processing Information</head>
+<p>Processed by Carrie Schwier.</p><p> Completed in <date normal="2011">2011</date></p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">College student government --Indiana --Bloomington.</subject>
+    <subject source="lcsh">Student-administrator relationships --Indiana --Bloomington.</subject>
+    <corpname audience="internal" source="lcnaf">Indiana University. Student Government Committee --Archives.</corpname>
+    <corpname audience="internal" source="lcnaf">Indiana University. Student Government Committee --Records and correspondence.</corpname>
+    <corpname audience="internal" source="lcnaf">Indiana University. Student Government Committee --History --Sources.</corpname>
+    <corpname audience="internal" source="lcnaf">Indiana University --Students --History --Sources.</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAC0618-00001" level="series"><did><unittitle>Administrative files</unittitle><unitdate normal="1940/1941" type="inclusive">1940-1941</unitdate></did><c02 id="aspace_VAC0618-00002" level="item"><did><unittitle><emph render="doublequote">What is this Thing Called Student Government</emph> Flyer</unittitle><unitdate normal="1940-01-05/1940-01-05">January 5, 1940</unitdate></did></c02><c02 id="aspace_VAC0618-00003" level="item"><did><unittitle>Report of the Voluntary Committee for Student Government</unittitle><unitdate normal="1940-06/1940-06">June 1940</unitdate></did></c02><c02 id="aspace_VAC0618-00004" level="item"><did><unittitle>Attendance Record</unittitle><unitdate normal="1940/1941" type="inclusive">1940-1941</unitdate></did></c02><c02 id="aspace_VAC0618-00005" level="otherlevel"><did><unittitle>Minutes</unittitle></did><c03 id="aspace_VAC0618-00006" level="item"><did><unitdate normal="1940-12-03/1940-12-03">December 3, 1940</unitdate></did></c03><c03 id="aspace_VAC0618-00007" level="item"><did><unitdate normal="1940-12-04/1940-12-04">December 4, 1940</unitdate></did></c03><c03 id="aspace_VAC0618-00008" level="item"><did><unitdate normal="1940-12-11/1940-12-11">December 11, 1940</unitdate></did></c03><c03 id="aspace_VAC0618-00009" level="item"><did><unitdate normal="1941-01-09/1941-01-09">January 9, 1941</unitdate></did></c03><c03 id="aspace_VAC0618-00010" level="item"><did><unitdate normal="1941-01-30/1941-01-30">January 30, 1941</unitdate></did></c03><c03 id="aspace_VAC0618-00011" level="item"><did><unitdate normal="1941-02-20/1941-02-20">February 20, 1941</unitdate></did></c03><c03 id="aspace_VAC0618-00012" level="item"><did><unitdate normal="1941-02-27/1941-02-27">February 27, 1941</unitdate></did></c03><c03 id="aspace_VAC0618-00013" level="item"><did><unitdate normal="1941-03-17/1941-03-17">March 17, 1941</unitdate></did></c03><c03 id="aspace_VAC0618-00014" level="item"><did><unitdate normal="1941-03-27/1941-03-27">March 27, 1941</unitdate></did></c03><c03 id="aspace_VAC0618-00015" level="item"><did><unitdate normal="1941-04-10/1941-04-10">April 10, 1941</unitdate></did></c03><c03 id="aspace_VAC0618-00016" level="item"><did><unitdate normal="1941-04-15/1941-04-15">April 15, 1941</unitdate></did></c03><c03 id="aspace_VAC0618-00017" level="item"><did><unitdate normal="1941-05-01/1941-05-01">May 1, 1941</unitdate></did></c03></c02><c02 id="aspace_VAC0618-00018" level="item"><did><unittitle>Constitution of the Indiana University Student Congress</unittitle><unitdate normal="1941-05/1941-05">May 1941</unitdate></did></c02><c02 id="aspace_VAC0618-00020" level="item"><did><unittitle>"A Congress for IU - Is Student Government Here?" flyer (including Constitution)</unittitle><unitdate normal="1941-05-04/1941-05-04">May 4, 1941</unitdate></did></c02><c02 id="aspace_VAC0618-00019" level="item"><did><unittitle>[Notice of No Future Meetings for the 1940-1941 Academic Year]</unittitle><unitdate normal="1941-05/1941-05">ca. May 1941</unitdate></did></c02></c01></dsc>
+</archdesc>
+</ead>

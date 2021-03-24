@@ -20,6 +20,10 @@ Sample files are included in the data directory. To index sample data:
 
 ```
 REPOSITORY_ID=paleontology DIR=./data/paleontology rake arclight:index_dir
+
+REPOSITORY_ID=archives DIR=./data/archive rake arclight:index_dir
+
+REPOSITORY_ID=bfca DIR=./data/bfca rake arclight:index_dir
 ```
 Open a browser and verify the application and indexed EAD files at http://localhost:3000/collections
 
