@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAC3973</eadid><filedesc><titlestmt><titleproper>Indiana University Mortar Board Alumnae Club records, <date normal="1936/1966">1936-1966</date> <num>C475</num></titleproper><subtitle>A Guide to the Records at the Indiana University Archives</subtitle><author>Finding aid prepared by Bill Komanecki.</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2012</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2012">ÂŠ 2012</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 04:57:39 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change audience="internal"><date>September 17, 2012</date><item>Date finding aid started.</item></change><change audience="internal"><date>November 16, 2017</date><item>Batch update to change repository name, subject links, preferred citation, and user restrictions.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Indiana University Mortar Board Alumnae Club records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">Indiana University Mortar Board Alumnae Club.</corpname>
+    </origination>
+    <unitid>C475</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3 folders</extent>
+    </physdesc>
+    <unitdate normal="1936/1966" type="inclusive">1936-1966</unitdate>
+    <abstract id="aspace_776b6fe3b0055216fa95a56df9fc717e">The Mortar Board Alumnae Club collection includes an address list of members, ledgers, club records, newsletters, newspaper clippings and a historical synopsis of the organization.</abstract>
+    <langmaterial id="aspace_17cb5c4ea3b9510c4721f047ac4e5b0e">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_8a699683d8c2ad95176ad8ae6ebd620a">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice required.</p>  </accessrestrict>
+  <bioghist id="aspace_629c3a93496f7a187e709dae352bc659">
+    <head>Administrative History</head>
+<p>Mortar Board, Inc. is a national honor society that recognizes college seniors for their achievements in scholarship, leadership, and service. Originally open only to women, in 1975, the group admitted men. The Indiana University chapter was established in 1921 to "promote interest in scholarship, campus activity and womanliness." Still active on campus today, the IU chapter is now known as the Mrs. Granville Wells Chapter, named for Anna Bernice Wells, mother of IU's much loved Herman B Wells.</p><p> On May 11, 1938, Louise Wylie, Jean Schmalz, Alice Binkley and Catherine Royer met over lunch to discuss the possibility of establishing an alumnae club for the group. Less than a month later, the Mortar Board Alumnae Club was officially established with the election of officers and collection of dues. Based on the group's minutes, the early goal appeared to be primarily one of support for the actives. The last records in the collection date to 1966, but it is unknown if an Alumnae Club still exists or when it went inactive.</p>  </bioghist>
+  <arrangement id="aspace_3826c57a5df5648230286cd742ea674d">
+    <head>Arrangement</head>
+<p>Collection is organized into one series.</p>  </arrangement>
+  <scopecontent id="aspace_28dbb371fd2b27d95aee115f774664bc">
+    <head>Scope and Content Note</head>
+<p>The material of the Indiana University Mortar Board Alumnae Club consists of one series of Administrative files (1936-1966).</p><p> This small collection contains several membership lists that had been composed or revised throughout the organization's existence. The most comprehensive list includes honorary and annual member names and addresses from 1921 to 1950. Another list was compiled by Mrs. Leon Wallace for the years 1950-1951 with an addendum for missing members from 1924 to 1947. In 1961, an abbreviated list of the names and addresses of 1922 -23 members was completed. Two lists containing member names and addresses for the years 1926 and 1936 are also part of the collection.</p><p> Catherine Royer's notebook contains a type written copy of the organization's constitution, financial reports for 1939-40, and the monthly program from October 1941 to May 1942.</p><p> Other materials included in the collection are a Mortar Board Newsletter from 1952 published by the Bloomington Alumnae chapter which previews plans for the group's thirtieth reunion, lists scholarship award winners, honors deceased members, and provides updates on members.</p>  </scopecontent>
+  <relatedmaterial id="aspace_56e4d8cd80a1386b320f932ac7b70771">
+    <head>Related Material</head>
+<p>Additional records such as newsletters, annual reports, bulletins, and publications may be accessed in the <extref xlink:href="http://institutionalmemory.iu.edu/aim/">Archives of Institutional Memory</extref> </p><p> Related photographs may be available in the <extref xlink:href="http://webapp1.dlib.indiana.edu/archivesphotos/">University Archives Photographs Database</extref></p>  </relatedmaterial>
+  <acqinfo id="aspace_a231b169007c83cc2e56f46beff5fc3a">
+    <head>Acquisition Information</head>
+<p>Accession numbers: 7019</p>  </acqinfo>
+  <userestrict id="aspace_49c66efaefdf0be9af0396ae0ece79e6">
+    <head>Usage Restrictions</head>
+<p>For information regarding the copyright status of this collection, please contact the Indiana University Archives staff.</p><p> The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archivist.</p>  </userestrict>
+  <prefercite id="aspace_30ac243d3761243c57fa2cf6a7e97bc7">
+    <head>Preferred Citation</head>
+<p>[Item], Indiana University Mortar Board Alumnae Club records, Collection C475, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <custodhist id="aspace_705e9644527a67283b2c2e458cc869bc">
+    <head>Provenance</head>
+<p>Accession 7019 transferred to the University Archives in August 1995.</p>  </custodhist>
+  <processinfo id="aspace_945b5fc038dd3b6433eab691d662034d">
+    <head>Processing Information</head>
+<p>Processed by Bill Komanecki.</p><p> Completed in <date normal="2012">2012</date>.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Women college graduates --Indiana --Societies, etc.</subject>
+    <subject source="lcsh">Women --Indiana --Societies and clubs.</subject>
+    <corpname audience="internal" source="lcnaf">Indiana University Mortar Board Alumnae Club --Archives.</corpname>
+    <corpname audience="internal" source="lcnaf">Indiana University Mortar Board Alumnae Club --Records and correspondence.</corpname>
+    <corpname audience="internal" source="lcnaf">Indiana University Mortar Board Alumnae Club --History --Sources.</corpname>
+    <corpname audience="internal" source="lcnaf">Mortar Board (Society). Mrs. Granville Wells Chapter (Indiana University) --History --Sources.</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAC3973-00001" level="series"><did><unittitle>Administrative files</unittitle><unitdate normal="1936/1966" type="inclusive">1936-1966</unitdate><container id="aspace_bfe4296a630d6ee5658b5a23fdbc9696" label="box" type="Box">1</container></did><c02 id="aspace_VAC3973-00002" level="file"><did><unittitle>Address Lists</unittitle><unitdate normal="1936/1966" type="inclusive">1936-1966</unitdate><container id="aspace_e8dca6e500abcb2bacc3e4934df7767d" label="box" type="Box">1</container></did></c02><c02 id="aspace_VAC3973-00003" level="file"><did><unittitle>Ledger</unittitle><unitdate normal="1938/1952" type="inclusive">1938-1952</unitdate><container id="aspace_cc80bcf3e9708a465574b51db21b51b9" label="box" type="Box">1</container></did></c02><c02 id="aspace_VAC3973-00004" level="file"><did><unittitle>Newsletter</unittitle><unitdate normal="1952/1952">1952</unitdate><container id="aspace_3d742dc4554f00368b5c0c39758c77de" label="box" type="Box">1</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

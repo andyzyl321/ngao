@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAC5450</eadid><filedesc><titlestmt><titleproper>Indiana University Pleiades minutes, <date normal="1926/1943">1926-1943</date> <num>C491</num></titleproper><subtitle>A Guide to the Records at the Indiana University Archives</subtitle><author>Finding aid prepared by Paul McNeil</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2012</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2012">ÂŠ 2012</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 05:08:38 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change audience="internal"><date>December 3, 2012</date><item>Date finding aid started.</item></change><change audience="internal"><date>November 16, 2017</date><item>Batch update to change repository name, subject links, preferred citation, and user restrictions.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Indiana University Pleiades minutes</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">Pleiades (Indiana University).</corpname>
+    </origination>
+    <unitid>C491</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.1 cubic feet</extent>
+      <extent altrender="carrier">2 folders</extent>
+    </physdesc>
+    <unitdate normal="1926/1943" type="inclusive">1926-1943</unitdate>
+    <abstract id="aspace_51d45bcf8a1edd47d5a0ef343cc00ea4">An all-female organization, the Pleiades was founded on Indiana University Bloomington's campus on September 24, 1921. The group initially was formed to organize various social events but expanded and became an established organization on campus after its initial successes. Membership was limited to 25 women who excelled both academically and socially. Collection consists of one minute book documenting activities and members from 1926-1943.</abstract>
+    <langmaterial id="aspace_fad76e00e077d62701dff4fb40435ed7">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_ac4061b0aa46d8716adf4c25615ba36e">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice required.</p>  </accessrestrict>
+  <bioghist id="aspace_4e075c4585fa2d5ada368c74f9f526f4">
+    <head>Administrative History</head>
+<p>An all-female social and campus service organization, the Pleiades was founded on Indiana University Bloomington's campus on September 24, 1921. It was created by two members each of Delta Gamma, Kappa Kappa Gamma, and Kappa Alpha Theta. The group initially formed for organizing various social events but became an established organization on campus after their success. Membership was limited to 25 women who led a prominent and active life at the university. The name "Pleiades" come from the Greek legend surrounding the daughters of Atlas and Pleione. The symbol of the group was a winged Earth, representing time eternal, celestialness and universality. Six stars are marked on the Earth to represent six of the seven Pleiads of mythology. The seventh Pleiad is considered lost. Alternately, in the group pledge it is stated that the six stars represent the six original founders. Also, Pleiades is derived from the Greek word "to sail" and that members of Pleiades, like the stars themselves, must sail above the petty trivial things which are unpleasant in everyday life. The colors of the group were: bronze, from Delta Gamma; blue, from Kappa Kappa Gamma; and black, from Kappa Alpha Theta, representing sincerity, friendliness, and cooperation.</p><p> The Pleiades motto in the 1924 Arbutus yearbook reads, "We can't take all the girls in school, so we only take the best."</p><p> One of the last mentions of the Pleiades as a university group was found in the 1974 Arbutus yearbook.</p>  </bioghist>
+  <arrangement id="aspace_260b64698def3ab700ec2c355cef16bf">
+    <head>Arrangement</head>
+<p>Collection contains minutes within a hardbound book; pages are numbered and dated where appropriate.</p>  </arrangement>
+  <scopecontent id="aspace_fcbc2434675de17175676ae5c5ee8950">
+    <head>Scope and Content Note</head>
+<p>The collection consists of a single book of minutes spanning September 30, 1926 through March 31, 1943. The minutes are handwritten with the inclusion of some separate handwritten and typed notes inserted into the notebook.</p>  </scopecontent>
+  <relatedmaterial id="aspace_f34d383a7ce9fa68d17b419f3179b98a">
+    <head>Related Material</head>
+<p>Related photographs may be available in the <extref xlink:href="http://webapp1.dlib.indiana.edu/archivesphotos/">University Archives Photographs Database</extref></p>  </relatedmaterial>
+  <acqinfo id="aspace_716bb5a52ec2a25514f294231ae62324">
+    <head>Acquisition Information</head>
+<p>Acquisition numbers: 1201</p>  </acqinfo>
+  <userestrict id="aspace_340630244488992ca72a6515fdfae997">
+    <head>Usage Restrictions</head>
+<p>The donor(s) of this collection have not transferred their copyrights for the materials to the Trustees of Indiana University. For more information, please contact the Indiana University Archives staff.</p><p> The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archivist.</p>  </userestrict>
+  <prefercite id="aspace_cb187adc5db22b3785e03c779f9e3134">
+    <head>Preferred Citation</head>
+<p>[Item], Indiana University Pleiades minutes, Collection C491, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <processinfo id="aspace_1f18db758f945dac2261937472358879">
+    <head>Processing Information</head>
+<p>Processed by Paul McNeil.</p><p> Completed in <date normal="2012">2012</date>.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Student activities --Indiana --Bloomington --History --Sources.</subject>
+    <corpname audience="internal" source="lcnaf">Pleiades (Indiana University) --Archives.</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAC5450-00001" level="series"><did><unittitle>Minutes</unittitle><unitdate normal="1926/1943" type="bulk">1926-1943</unitdate></did><c02 id="aspace_VAC5450-00002" level="file"><did><unittitle>Minute book</unittitle><container id="aspace_8a02df170fea92f00a8296be4643b20e" label="folder" type="Folder">1</container></did></c02><c02 id="aspace_VAC5450-00003" level="file"><did><unittitle>Loose pages found in book including the Pleiades pledge and 1941 minutes</unittitle><container id="aspace_486b866deb91f3a5abfe0b670d418272" label="folder" type="Folder">2</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

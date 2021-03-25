@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAD9815</eadid><filedesc><titlestmt><titleproper>Emma K. Schmidt Indiana University scrapbook, <date normal="1916/1918">1916-1918</date> <num>C662</num></titleproper><subtitle>A Guide to her Collection at the Indiana University Archives</subtitle><author>Finding aid prepared by Andrea Barbour</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2017</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2017">ÂŠ 2017</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 05:03:57 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change audience="internal"><date>February 4, 2018</date><item>Finding aid created.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Emma K. Schmidt Indiana University scrapbook</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">Schmidt, Emma K., 1897-1986</corpname>
+    </origination>
+    <unitid>C662</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.3 cubic feet</extent>
+      <extent altrender="carrier">(1 box)</extent>
+    </physdesc>
+    <unitdate normal="1916/1918" type="inclusive">1916-1918</unitdate>
+    <abstract id="aspace_3d7d79f38aa78e776cb9cd806264fb9e">Emma K. Schmidt was a student at Indiana University from 1916 to 1918. This collection consists of a scrapbook she made to document her time at IU and includes information on campus buildings, booklets from campus events, local newspaper clippings, school and financial documents, and miscellaneous memorabilia. There is also an IU Red Book, a publication with class and event schedules, faculty and student directories, and information pertaining to different groups or organizations on campus.</abstract>
+    <langmaterial id="aspace_81a4ec45b2a28df3c36a303a334d8985">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_2971dfcef768200d653fd69bc375aaa3">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice required.</p>  </accessrestrict>
+  <bioghist id="aspace_13ef114dcf62b247c8628c03ae37adff">
+    <head>Biographical Note</head>
+<p>Emma K. Schmidt was born in Mishawaka, Indiana in 1897 to Henry and Mary Schmidt. She graduated from Mishawaka High School in 1916. From there, she attended Indiana University from 1916 until around 1918. Emma was a part of the Women's Athletic Association and the captain of the women's basketball team. She was also part of the Women's League, the YWCA, and the sorority Delta Zeta. During her time at IU, she attended many social events such as dances and plays, all of which she documented in her scrapbook. </p><p> Emma left IU and moved to Washington D.C. where she met her husband, Eugene Finch, who worked for the Internal Revenue Service. They married on October7, 1922. They had one child, Gerald McBrayer Finch. Emma passed away on May 13, 1986.</p>  </bioghist>
+  <arrangement id="aspace_df3c55cb303ecd11e892d90e9b4875ac">
+    <head>Arrangement</head>
+<p>Collection consists of a single scrapbook.</p>  </arrangement>
+  <scopecontent id="aspace_744bfffca6584196359bce7f6107d07c">
+    <head>Scope and Content Note</head>
+<p>This collection consists of a single item, a scrapbook, which dates from 1916 to 1918 and documents Schmidt's time at Indiana University Bloomington. The scrapbook contains images of campus buildings, booklets from campus events, local newspaper clippings, school and financial documents, and miscellaneous memorabilia. There is also an IU Red Book, a publication with class and event schedules, faculty and student directories, and information pertaining to different groups or organizations on campus.</p>  </scopecontent>
+  <relatedmaterial id="aspace_65fd0a61ccdd3a1afce9060c7e415f10">
+    <head>Related Material</head>
+<p>Related photographs may be available in the <extref xlink:href="http://webapp1.dlib.indiana.edu/archivesphotos/">Indiana University Archives Photograph Collection</extref>.</p>  </relatedmaterial>
+  <acqinfo id="aspace_87de1127a8059a7b854eee39b5b3f833">
+    <head>Acquisition Information</head>
+<p>Accession: 2016/124</p>  </acqinfo>
+  <userestrict id="aspace_127683a12d36702b1ff9c0beddad318a">
+    <head>Usage Restrictions</head>
+<p>The donor(s) of this collection have transferred their copyrights for the materials to the Trustees of Indiana University. For more information, please contact the Indiana University Archives staff.</p><p>  The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archives staff.</p>  </userestrict>
+  <prefercite id="aspace_d5c00c970545a36bd270a3d55aee1b84">
+    <head>Preferred Citation</head>
+<p>[item], Emma K. Schmidt Indiana University scrapbook, Collection C662, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <custodhist id="aspace_446025c9b05df770e10b5583cf0a980e">
+    <head>Provenance</head>
+<p>This scrapbook was donated to the Archives in October 2016 by Nancy Croze, the granddaughter of Emma K. Schmidt.</p>  </custodhist>
+  <processinfo id="aspace_1a15441f52091f335894d8aea9e30b71">
+    <head>Processing Information</head>
+<p>Processed by Andrea Barbour.</p><p> Completed in <date normal="2017">2017</date></p>  </processinfo>
+  <dsc><c01 id="aspace_6eabd5167dc38300c24d6f430ea2f924" level="series"><did><unittitle>Emma K. Schmidt Indiana University scrapbook</unittitle><unitdate normal="1916/1918" type="inclusive">1916-1918</unitdate><container id="aspace_79b77b8b6b2345a252b6dd952b5faa7a" label="box" type="box">1</container></did><c02 id="aspace_802b0a5a0c6ec0af271e88ea1c9b4cb9" level="file"><did><unittitle>Scrapbook</unittitle><unitdate normal="1916/1918" type="inclusive">1916-1918</unitdate><container id="aspace_8560f3553a7e1129a14c207fd161ec2e" label="box" type="box">1</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

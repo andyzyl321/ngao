@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">VAD4347</eadid><filedesc><titlestmt><titleproper>Overview of the Mary Perry Smith Black Filmmakers Hall of Fame Archives collection, <date normal="1950/2010">approximately 1974-2006</date> <num>COL 5 (VAD4347)</num></titleproper><subtitle>A Guide to Her Holdings at the Indiana University Black Film Center/Archive</subtitle><author>Finding aid prepared by BFC/A Staff</author></titlestmt><publicationstmt><publisher>Test - Black Film Center/Archive</publisher><p><date>ÂŠ 2015</date></p><address><addressline>1320 East Tenth Street</addressline><addressline>Herman B Wells Library, Room 044</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>bfca@indiana.edu</addressline><addressline>URL: <extptr xlink:href="https://bfca.sitehost.iu.edu" xlink:show="new" xlink:title="https://bfca.sitehost.iu.edu" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2015">ÂŠ 2015</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-07-02 04:03:50 -0400</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change audience="internal"><date>February 18, 2015</date><item>First draft encoded</item></change><change audience="internal"><date>January 4, 2016</date><item>Final edit for first published version.</item></change><change audience="internal"><date>December 1, 2017</date><item>Batch update to change subject links.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Test - Black Film Center/Archive</corpname>
+    </repository>
+    <unittitle>Overview of the Mary Perry Smith Black Filmmakers Hall of Fame Archives Collection</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname source="local">Smith, Mary Perry, 1926-2015</persname>
+    </origination>
+    <origination audience="internal" label="Creator">
+      <corpname source="local">Black Filmmakers Hall of Fame, Inc.</corpname>
+    </origination>
+    <unitid>COL 5 (VAD4347)</unitid>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">102 Boxes</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1231 videorecordings</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">11 film reels</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">65 audio recordings</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">64 data diskettes</extent>
+    </physdesc>
+    <unitdate normal="1950/2010" type="inclusive">approximately 1974-2006</unitdate>
+    <abstract id="aspace_8947e3ab9607342cdec12d9c396a33d7">This collection contains a wide array of materials documenting the history and activities of the Black Filmmakers Hall of Fame (BFHFI). The materials were collected and/or created by Mary Perry Smith from the time immediately predating the BFHFI's first Black History Month celebration in 1974 to the efforts of its remaining supporters to revitalize the organization following its final film festival in 2003. Highlights include event publicity and souvenirs; celebrity memorabilia; moving image and screenplay submissions to the BFHFI's annual competition; Phil Moore's personal papers, arrangements, lyric sheets, recordings, and photographs; video recordings of BFHFI events; correspondence; and administrative, board, and planning documents.</abstract>
+    <langmaterial id="aspace_833d52859292b4634a4053da23f1f6a2">Materials are in <language langcode="eng">English</language>.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_cf62b108728cccd4960fff47735b44d8">
+    <head>Access Restrictions</head>
+<p>Print materials in the collection are open for research. Audiovisual materials are currently on a number of obsolescent carrier types (open reel video, U-matic, etc.), but will be digitized by the Indiana University Media Digitization and Preservation Initiative (MDPI) and made available for fair use purposes upon request between early 2016 and late 2018. Contact the BFC/A staff for the latest details.</p>  </accessrestrict>
+  <bioghist id="aspace_29ce51c96bf42536a37465bc8bb31e71">
+    <head>Biography of Mary Perry Smith and the Administrative History of the BFHFI</head>
+<p>In addition to her roles as an educator, a philanthropist, and a guardian of black cultural heritage, Mary Perry Smith was a co-founder of Black Filmmakers Hall of Fame.</p><p> Smith was born in Evansville, Indiana on May 29, 1926 where Smith's father was a minister for the African Methodist Episcopal Church. As the location of his ministry changed, the family moved to several small towns in Indiana including Logansport, Anderson, Crawfordsville, and Frankfort. Smith's father was also an educator and school principal and continually emphasized the importance of education and black history to his family. </p><p> Following the issue of the Emancipation Proclamation in 1963, several of Smith's grandparents attended historically black colleges, as did many of her other relatives. These included Tuskegee, the Hampton Institute, Florida A&amp;M, Atlanta University, Howard University, Spelman, and Morehouse. Hearing and learning about her grandparents' experiences under slavery and their successes and setbacks following the proclamation instilled in Smith a strong racial consciousness, but also the knowledge that her own abilities were limited by neither her race nor gender. </p><p> Smith attended Ball State on a freshman year scholarship where she majored in math and science. She then went on to complete her masters at Purdue University in 1948. Upon obtaining her degree, Smith moved to Houston to teach at Texas Southern University where she met and married her husband, Norvel Smith. They later moved to San Francisco to attend graduate school at Caltech where Smith pursued, but did not complete, a doctorate in educational psychology. This was due to her increased involvement in teaching junior high math and science in the San Francisco School District from 1953 to 1961 and then teaching geometry and arithmetic at Oakland Tech High School from 1961 to 1978. Noticing that few of her students went on to attend college, even though the University of California Berkley was located less than five miles from the high school, Smith was inspired to co-found the Mathematics Engineering Science Achievement program (MESA) in 1969. As the program grew, Smith switched to working full-time for MESA in 1978 at the Lawrence Hall of Science.</p><p> When the Oakland Museum of California (OMCA) opened in 1969, both Norvel and Mary Perry Smith became actively involved. Mary participated in the Black History Committee of the Culture and Ethnic Affairs Guild that was formed in 1970 under the oversight of Ben Hazard, the museum's curator of special exhibits and education. Some of the earliest programming presented by the guild included the Soul Vibrations Festival, first held in November 1970, and an annual series dedicated to black pioneers in the Bay Area. The 1972 program honored the first black pioneers to migrate to the Bay Area while the 1973 program honored seven black scientists. </p><p> Continuing this series of programing, in 1974 the guild honored the black filmmakers of the '20s through the '50s. The program was presented under the moniker of the Black Filmmakers Hall of Fame and put together by Sonny Buxton (Community Services Director of KGO-TV), Roy Thomas (lecturer in Afro-American Studies at the University of California-Berkley), and Mary Perry Smith in her role as co-chairperson of the Culture and Ethnic Affairs Guild. The first film lecture series and Oscar Michaeux Awards Ceremony were an amazing success. In addition to being celebrated by the local Oakland community, black filmmakers, and the black community at large, the BFHF garnered accolades from the California House and Senate. This inspired the OMCA to transform and expand the awards ceremony into an annual Black History Month celebration. The events included the film lecture series hosted by the museum from January up until the weekend of the awards ceremony, a film symposium hosted by UC Berkley, a film competition, a celebrity dinner and dance gala, a sidewalk reception, and the awards ceremony. The BFHF identified itself as an organization "dedicated to influencing Black images portrayed in film and television through education, the nurturing of current independent filmmakers and the preservation of contributions by Black artists" (BFHFI 20th Anniversary Celebration Program). </p><p> A large-scale volunteer effort, the BFHF soon outgrew the resources and energy of the staff at the museum and so became a separate, incorporated non-profit organization in 1978. In addition to the celebration events in January and February, the now BFHFI also sponsored and hosted master classes, workshops, film screenings, and other educational events throughout the year. 1990 marked the start of Black Filmworks, a film festival designed to showcase the winning submissions to the annual film competition. Hoping to start its own brick and mortar museum, the BFHFI also acquired memorabilia and artifacts from a number of celebrities including Ruby Dee, the Nicholas Brothers, Sidney Poitier, and Phil Moore (note that due to their volume, Moore's materials are represented as a separate collection for descriptive purposes, but are officially part of the BFHFI Archives). Inductees and awardees included celebrities and notable filmmakers such as Paul Robeson, Stepin Fetchit, Gordon Parks, Sammy Davis, Jr., Diahann Carol, Dizzy Gillespie, Sidney Poitier, Harry Belefonte, Julie Dash, Spike Lee, Brock Peters, Maya Angelou, Tempestt Bledsoe, Jim Brown, Madame Sul-Te-Wan, Richard Pryor, and many others. </p><p> Although financial instability prevented the museum from becoming a reality and led to the end of the annual celebration in 1993, the BFHFI continued to host Black Filmworks and a number of smaller events until 2003. From then on, most of its activities were focused on fundraising events and planning meetings aimed at revitalizing the organization. During its entire existence, the BFHFI had one full-time staff position, although it did hire a number of hourly employees and was supported by hundreds of volunteers over the years. </p><p> Smith played a number of leading and energetic roles in the organization, which included the following:</p>    <chronlist>
+      <chronitem>
+        <date>1974</date>
+        <eventgrp>
+          <event>Co-chairperson of the Oakland Museum of California Culture and Ethnic Affairs Guild</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1975</date>
+        <eventgrp>
+          <event>First chairman of the advisory board</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1976</date>
+        <eventgrp>
+          <event>Member of board of advisers and chairperson of the Guild steering committee</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1977</date>
+        <eventgrp>
+          <event>Educational programs committee member</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1978</date>
+        <eventgrp>
+          <event>Coordinator of the educational programs committee</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1979</date>
+        <eventgrp>
+          <event>General chairperson of the advisory board</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1980-1981</date>
+        <eventgrp>
+          <event>Coordinator of the educational programs committee&gt;</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1981-1983</date>
+        <eventgrp>
+          <event>1st vice president</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1982-1983</date>
+        <eventgrp>
+          <event>Chair of the education committee</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1984-approximately 1995</date>
+        <eventgrp>
+          <event>Board president</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>approximately 1996 through end</date>
+        <eventgrp>
+          <event>Board member or co-chair</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+<p>Previous board presidents included Margot Hicks Sudduth (1977-1978), the Honorable Benjamin Travis (1978-1979), Vincent Tubbs (1979-1980), and James O. Cole (1980-1983). Those following Smith included Terrence Johnson (1996?-2002), Frank Smith, Jr. (2002-?).</p><p> Smith's tireless efforts greatly influenced the shape and direction of the BFHFI, and her careful stewardship of the collection has helped ensure that this and future generations will have access to this invaluable documentation on black filmmaking in the last quarter of the 20th century.</p>  </bioghist>
+  <scopecontent id="aspace_b7b7fad448b6c7f08a165a44e077c341">
+    <head>Scope and Content Note</head>
+<p>The collection consists primarily of organizational records, photographs, videorecordings, publicity materials, and memorabilia documenting the activities of the Black Filmmakers Hall of Fame from 1974 through 2006. A large portion of the printed materials include administrative and planning documents for the BFHFI's various events including the Oscar Micheaux Awards Ceremony, the film lecture series and symposiums, the annual Black Filmworks festival and Independent Film, Video &amp; Screenplay competition from 1990-2003, the Sidney Poitier Fellowship competition held in 1993, and a number of master classes, workshops, film screenings, and fundraising events hosted from approximately 1984-2006. The collection also includes correspondence (primarily internal and outgoing); publicity materials such as event flyers, awards ceremony catalogs, press clippings, and press releases; financial documents; and Board agendas, minutes, reports, and planning documents. There are also a significant number of screenplays and application packets submitted to the BFHFI's competitions.</p><p> Well over half of the video recordings in the collection are submissions by student and up-and-coming filmmakers to the annual film competition and the Sidney Poitier Fellowship Competition. The remainder predominantly document BFHFI events or are screening and promotional copies used for planning and hosting film screenings.</p><p> The photographs in the collection are a mix of inductee and filmmaker publicity photos, photographs and slides of BFHFI events, and candid photos of the BFHFI's staff and volunteers.</p><p> The memorabilia and artifacts in the collection range from signed copies of Oscar Micheaux novels to costumes and accessories worn by celebrities such as Ruby Dee and Mario Van Peebles. There are also a number of plaques created for the inductees and designed by Ben Hazard, signed celebrity hand prints created under the direction of Oakland artist Casper Banjo, a painting of Madame Sul-Te-Wan from the Manny Weltman collection, Oscar Micheaux's grave marker, and a wide variety of other ephemera.</p><p> In 1993 the BFHFI received a donation of Phil Moore's personal papers, business records, sheet music, recordings, and ephemera. Moore served as music director for the BFHFI from roughly 1980 until the time of his death in 1987. These materials were received by the BFC/A as part of the overall BFHFI archives. Although represented as a series below, due to the size and complexity of Moore's materials, the finding aid has been treated as if it were a separate collection and the quantity of material donated by Moore is not reflected in the totals above.</p><p> More detailed information regarding the scope and content of the collection is available in each series-level finding aid.</p>  </scopecontent>
+  <arrangement id="aspace_d31c8337c5e42fa0cf93ffe318307f69">
+    <head>Arrangement</head>
+<p>The collection contains the following series for which separate finding aids will be made available as they are completed:</p>    <list type="ordered">
+      <item>Series 1. <extref xlink:type="simple" xlink:href="http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD5314">Publicity materials</extref></item>
+      <item>Series 2. <extref xlink:type="simple" xlink:href="http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD5316">Oscar Micheaux Awards Ceremony and Gala</extref></item>
+      <item>Series 3. <extref xlink:type="simple" xlink:href="http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD5300">Film Lecture Series and Symposiums</extref></item>
+      <item>Series 4. <extref xlink:type="simple" xlink:href="http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD4348">Black Filmworks and Independent Film, Video &amp; Screenplay Competition</extref></item>
+      <item>Series 5. <extref xlink:type="simple" xlink:href="http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD4090">Sidney Poitier Fellowship Competition</extref></item>
+      <item>Series 6. <extref xlink:type="simple" xlink:href="http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD5299">Miscellaneous BFHFI events files</extref></item>
+      <item>Series 7. <extref xlink:type="simple" xlink:href="http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD5304">BFHFI event recordings</extref></item>
+      <item>Series 8. <extref xlink:type="simple" xlink:href="http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD5306">Board and committee documents</extref></item>
+      <item>Series 9. <extref xlink:type="simple" xlink:href="http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD5315">General correspondence</extref></item>
+      <item>Series 10. <extref xlink:type="simple" xlink:href="http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD5319">HRMS, volunteer, and staff documents</extref></item>
+      <item>Series 11. <extref xlink:type="simple" xlink:href="http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD5323">General financial, fundraising, and legal documents</extref></item>
+      <item>Series 12. <extref xlink:type="simple" xlink:href="http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD5458">Memorabilia and artifacts</extref></item>
+      <item>Series 13. <extref xlink:type="simple" xlink:href="http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD5405">Third party publications</extref></item>
+      <item>Series 14. <extref xlink:type="simple" xlink:href="http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD5462">Research files</extref></item>
+      <item>Series 15. <extref xlink:type="simple" xlink:href="http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD5474">Mary P. Smith's files</extref></item>
+      <item>Series 16. <extref xlink:type="simple" xlink:href="http://purl.dlib.indiana.edu/iudl/findingaids/bfca/VAD7352">Miscellaneous</extref></item>
+      <item>Series 17. Phil Moore Collection (Inventoried as if separate collection due to size)</item>
+      <item>Series 18. Photographs</item>
+      <item>Series 19. Born-digital materials</item>
+    </list>
+  </arrangement>
+  <relatedmaterial id="aspace_92634bfaedf1cd91e352dcbf7366f00f">
+    <head>Related Material</head>
+<p>Additional materials documenting the activities of the Black Filmmakers Hall of Fame may be found in the Belva Davis and William Moore Black Filmmakers Hall of Fame Archives Collection (COL 4) also held by the BFC/A. <extref xlink:type="simple" xlink:href="http://purl.dlib.indiana.edu/iudl/findingaids/archives/VAD4434">http://purl.dlib.indiana.edu/iudl/findingaids/archives/VAD4434</extref></p>  </relatedmaterial>
+  <acqinfo id="aspace_4c4e7daae0c2304f994503235812132d">
+    <head>Acquisition Information</head>
+<p>The collection was donated by <persname normal="Smith, Mary Perry">Mary Perry Smith</persname> to the Indiana University Black Film Center Archives in January 2014</p>  </acqinfo>
+  <userestrict id="aspace_294591f6c0070a3e2e3fc4ef8d4f619a">
+    <head>Usage Restrictions</head>
+<p>Materials may be used in-house at the BFC/A; duplication permitted only with permission of the Archivist.</p>  </userestrict>
+  <prefercite id="aspace_b33baa0fa2c72eac32441543c655d8b0">
+    <head>Preferred Citation</head>
+<p>[item], Mary Perry Smith Black Filmmakers Hall of Fame Archives Collection, Black Film Center/Archive, Indiana University, Bloomington.</p>  </prefercite>
+  <processinfo id="aspace_82eaf85998b0519aa86f506e1db5ecce">
+    <head>Processing Information</head>
+<p>Processed by BFC/A staff.</p><p> Completed in <date normal="2015">2015 </date></p>  </processinfo>
+  <bibliography id="aspace_773d887c9735bb7a786297f26fc9000b">
+    <head>Sources</head>
+    <bibref>Mary Perry Smith, "An Interview with Mary Perry Smith, Co-Founder of MESA," conducted by Nadine Wilmot in 2002, Regional Oral History Office, The Bancroft Library, University of California, Berkeley, 2003. Also available online: <extref xlink:type="simple" xlink:href="http://www.lib.berkeley.edu/cgi-bin/roho_disclaimer_cgi.pl?target=http://digitalassets.lib.berkeley.edu/roho/ucb/text/MaryPerrySmithBook.pdf">http://www.lib.berkeley.edu/cgi-bin/roho_disclaimer_cgi.pl?target=http://digitalassets.lib.berkeley.edu/roho/ucb/text/MaryPerrySmithBook.pdf</extref> (last accessed 2015-06-03).</bibref>
+    <bibref>Black Filmmakers Hall of Fame souvenir programs, 1974-1993.</bibref>
+    <bibref>Black Filmworks programs, 1992, 1996, 1998, 2000-2003.</bibref>
+  </bibliography>
+  <controlaccess>
+    <subject source="lcsh">African Americans in the motion picture industry</subject>
+    <subject source="lcsh">African Americans motion picture producers and directors</subject>
+    <subject source="lcsh">African Americans motion picture actors and actresses</subject>
+    <subject source="lcsh">African American jazz musicians</subject>
+    <subject source="lcsh">Motion pictures--Awards--United States</subject>
+    <subject source="lcsh">Motion Pictures--Competitions</subject>
+    <subject source="lcsh">Film festivals</subject>
+    <genreform source="lcgft">Independent films</genreform>
+    <genreform source="lcgft">Records (Documents)</genreform>
+    <genreform source="lcgft">Award presentations (Motion pictures)</genreform>
+    <genreform source="lcgft">Ephemera</genreform>
+    <genreform source="lcgft">Notated music</genreform>
+    <persname audience="internal" authfilenumber="n79095315" source="lcnaf">Poitier, Sidney</persname>
+  </controlaccess>
+  <dsc/>
+</archdesc>
+</ead>

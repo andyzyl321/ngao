@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAA2608</eadid><filedesc><titlestmt><titleproper>R. Carlyle Buley papers, <date normal="1917/1971" era="ce" calendar="gregorian">1917-1971</date> <num>C14</num></titleproper><subtitle>A Guide to his Papers at the Indiana University Archives</subtitle><author>Encoded by Beth Benda</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2004</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 05:01:33 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change><date>January 27, 2004</date><item>Encoded finding aid begun.</item></change><change><date>January 27, 2004</date><item>Encoded finding aid completed.</item></change><change audience="internal"><date>November 16, 2017</date><item>Batch update to change repository name, subject links, preferred citation, and user restrictions.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>R. Carlyle Buley papers</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname source="lcnaf">Buley, R. Carlyle, 1893-1968.</persname>
+    </origination>
+    <unitid>C14</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.4 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" era="ce" normal="1917/1971" type="inclusive">1917-1971</unitdate>
+    <abstract id="aspace_e3c13100d18da5f8f3c47ed1c5ad8356">This collection consists of the papers of Roscoe Carlyle Buley, an alumni and history professor at Indiana University. The collection is organized alphabetically by subject, and includes the letter notifying Buley of his Pulitzer Prize.</abstract>
+    <langmaterial id="aspace_bee46fd3bb204c3184d09380c4374b2a">Materials are in <language langcode="eng">English</language>.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_6f3ab219c4dffd1e2dac67120adeb7e4">
+    <head>Access Restrictions</head>
+<p>This collection is open for research.</p><p> Advance notice is required.</p>  </accessrestrict>
+  <bioghist id="aspace_068f6347d324c9e03ee633af4f538f37">
+    <head>Biographical Note</head>
+<p>Roscoe Carlyle Buley was born in Georgetown, Indiana on July 8, 1893. He received his A.B. from Indiana University in 1914 and his A.M. from I.U. in 1916. Before returning to school to get a doctorate, Buley spent several years teaching high school history in Indiana and Illinois and spent a year in the U.S. Army Signal Corps. He received his Ph.D. from the University of Wisconsin in 1925. He then returned to IU as an instructor in the History Department, becoming a full professor in 1944. </p><p> Buley spent 39 years teaching history at IU. He wrote many books during his tenure, with his two-volume work "The Old Northwest: Pioneer Period, 1815-1840, winning the Pulitzer Prize in history in 1951. Buley was the first native Hoosier to win that honor. He was a very dedicated teacher whose commitment was shown in the countless hours he devoted to his students. His door was always open to anyone who wished to stop in and ask questions or simply chat. He was recognized by the students for his dedication by being awarded two awards from the Sigma Delta Chi journalism society, the Leather Medal, 1952, for the professor who contributed greatly to the advancement of the university, and the Brown Derby Award, 1962, for the most popular professor on campus. </p><p> Buley retired from teaching in 1964. He died on April 25, 1968 in Indianapolis.</p>  </bioghist>
+  <arrangement id="aspace_a330995a90108851829d15a897bb29b3">
+    <head>Arrangement</head>
+<p>Organized alphabetically by subject.</p>  </arrangement>
+  <scopecontent id="aspace_7d41443aa4226e8f817b27769589d123">
+    <head>Scope and Content Note</head>
+<p>The Subject files of R. Carlyle Buley papers are organized alphabetically. Buley taught history at Indiana University from 1925-1964. The collection consists of correspondence, including the letter notifying of Buley of his Pulitzer Prize, photocopies of papers related to service in World War I, other awards, and condolence letters to Mrs. Buley after her husband's death, in 1968.</p>  </scopecontent>
+  <relatedmaterial id="aspace_82d4dd611c8780987e7c35e2f1687b8f">
+    <head>Related Material</head>
+<p>Additional materials of Buley's are at the Lilly Library. Call (812) 855-2452 for more information.</p>  </relatedmaterial>
+  <acqinfo id="aspace_1900c5fa307fe6a7a87e16ddfdd077d5">
+    <head>Acquisition Information</head>
+<p>Accession 0455</p>  </acqinfo>
+  <userestrict id="aspace_54a70a909f5505929dd418b98152f481">
+    <head>Usage Restrictions</head>
+<p>The donor(s) of this collection have not transferred their copyrights for the materials to the Trustees of Indiana University. For more information, please contact the Indiana University Archives staff.</p><p> The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archivist.</p>  </userestrict>
+  <prefercite id="aspace_d19ed8f631f14979c2ff47d2ec5239a3">
+    <head>Preferred Citation</head>
+<p>[Item], R. Carlyle Buley papers, Collection C14, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <processinfo id="aspace_ef7a1dfd309fe8f8b3b1e72d8f03a18e">
+    <head>Processing Information</head>
+<p>Processed by Thomas Malefatto</p><p> Completed in <date normal="1998" era="ce" calendar="gregorian">1998</date>.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">History teachers --Indiana --Bloomington --Archives.</subject>
+    <subject source="lcsh">History teachers --Indiana --Bloomington --Correspondence.</subject>
+    <subject source="lcsh">Historians --Indiana --Bloomington --Archives.</subject>
+    <subject source="lcsh">Historians --Indiana --Bloomington --Correspondence.</subject>
+    <subject source="aacr2">Old Northwest.</subject>
+    <corpname audience="internal" source="lcnaf">Indiana University. Dept. of History --History --20th century --Sources.</corpname>
+    <corpname audience="internal" source="lcnaf">Indiana University. Dept. of History.</corpname>
+    <persname audience="internal" source="lcnaf">Buley, R. Carlyle, (Roscoe Carlyle), 1893-1968 --Archives.</persname>
+    <persname audience="internal" source="lcnaf">Buley, R. Carlyle, (Roscoe Carlyle), 1893-1968 --Correspondence.</persname>
+    <persname audience="internal" source="lcnaf">Buley, R. Carlyle, (Roscoe Carlyle), 1893-1968. Old Northwest.</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_713bf030a99351ef985d26618525877c" level="series"><did><unittitle>Subject Files</unittitle><unitdate calendar="gregorian" era="ce" normal="1917/1971" type="inclusive">1917-1971</unitdate></did><c02 id="aspace_bb86d3da76d058eb22f12dded96c5bf4" level="file"><did><unittitle><title render="doublequote">Corn Culture and Hoosier Heritage</title> (article by R.C. Buley published in menu for dedication of Lilly Research Center for Agricultural Sciences)</unittitle><unitdate calendar="gregorian" era="ce" normal="1959/1959">1959</unitdate><container id="aspace_cc66b3edf2c59a7cab704b73472f6495" label="box" type="box">1</container></did></c02><c02 id="aspace_66739f19c4526a6ae0fdad3bee15807f" level="file"><did><unittitle>Correspondence to Mrs. Buley</unittitle><unitdate calendar="gregorian" era="ce" normal="1968/1971" type="inclusive">1968-1971</unitdate><container id="aspace_3cd3bf0e084c1c35fc43d30a409ea549" label="box" type="box">1</container></did></c02><c02 id="aspace_60961756a0aaa58b9fc191804ce09c76" level="file"><did><unittitle>Death of R.C. Buley</unittitle><unitdate calendar="gregorian" era="ce" normal="1968/1968">1968</unitdate><container id="aspace_e97ab266af57f8e00a86cb7d1ef6e6d3" label="box" type="box">1</container></did></c02><c02 id="aspace_1f1ab15d095425fdc75bbb659314440e" level="file"><did><unittitle>Early Jobs</unittitle><unitdate calendar="gregorian" era="ce" normal="1923/1924" type="inclusive">1923-1924</unitdate><container id="aspace_052cb4f6d0b2e8f29c3e4a622e380275" label="box" type="box">1</container></did></c02><c02 id="aspace_a8dc719c8cb01d5a1e8c3af48d9ba425" level="file"><did><unittitle>Honorary Secretary of State Certificate</unittitle><unitdate calendar="gregorian" era="ce" normal="1968/1968">1968</unitdate><container id="aspace_039b497138a382c481b0a6f7ad633ca0" label="box" type="box">1</container></did></c02><c02 id="aspace_2bbba35562911d50f91dbeded69a73b4" level="file"><did><unittitle>Old Northwest Copyrights</unittitle><unitdate calendar="gregorian" era="ce" normal="1967/1967">1967</unitdate><container id="aspace_2c9821f91ef9517c9bbee5955f231040" label="box" type="box">1</container></did></c02><c02 id="aspace_ff3d15937add334ad35e0adb88e7a74e" level="file"><did><unittitle>Old Northwest Pulitzer Prize</unittitle><unitdate calendar="gregorian" era="ce" normal="1951/1951">1951</unitdate><container id="aspace_590891dff8c53745c6e71eda1758d9d5" label="box" type="box">1</container></did></c02><c02 id="aspace_ce815da8e19b36143d60493e8d451f23" level="file"><did><unittitle>Retirement Salutations</unittitle><unitdate calendar="gregorian" era="ce" normal="1964/1964">1964</unitdate><container id="aspace_2c506182c0f4cbb3dc16fe0e1e91ab5f" label="box" type="box">1</container></did></c02><c02 id="aspace_d874fa976ddfeef4fd1e7dacbc806178" level="file"><did><unittitle>World War I Record</unittitle><unitdate calendar="gregorian" era="ce" normal="1917/1919" type="inclusive">1917-1919</unitdate><container id="aspace_8f8206025ced00be461b2e1c591833d0" label="box" type="box">1</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

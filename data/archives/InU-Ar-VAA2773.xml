@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="originaldraft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAA2773</eadid><filedesc><titlestmt><titleproper>Gateway Club records,<date normal="1947/1962" era="ce" calendar="gregorian">1947-1962</date> <num>C254</num></titleproper><subtitle>A Guide to the Records at the Indiana University Archives</subtitle><author>Nicole M. Mares</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2004</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 05:11:58 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change><date>25 June 2004</date><item>Encoding begun.</item></change><change><date>25 June 2004</date><item>Encoding completed.</item></change><change><date>May 6, 2009</date><item>Updated to schema.</item></change><change audience="internal"><date>November 16, 2017</date><item>Batch update to change repository name, subject links, preferred citation, and user restrictions.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Gateway Club (Indiana University) records</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">Gateway Club (Indiana University)</corpname>
+    </origination>
+    <unitid>C254</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.2 cubic feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" era="ce" normal="1947/1962" type="inclusive">1947-1962</unitdate>
+    <unitdate calendar="gregorian" era="ce" normal="1951/1962" type="bulk">1951-1962</unitdate>
+    <abstract id="aspace_c0e208269dc8b57f48b14b615b078c44">Founded on 12 December 1947 by Mrs. Herman T. Briscoe, the purpose of Gateway (General Association of Teachers, Employees, Wives, Administrators of the Yooniversity) was to promote sociability among the members of the entire University family. Membership was available to all women who were employed in any capacity by the University, to wives and other homemakers of persons employed by the university, and to all retired persons and widows who were eligible at the time of their retirement or widowhood. This collection contains one series arranged chronologically, Administrative files. Contained within this series are the Gateway Club minutes, the Presidents books, and a financial notice regarding the withdrawal of Gateway Club funds from the Indiana University Credit Union.</abstract>
+    <langmaterial id="aspace_364266e785cfa37cd1e60535314017e1">Materials are in <language langcode="eng">English</language>.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_d2d377d996f2fc5e2dbda8d649bb48b9">
+    <head>Access Restrictions</head>
+<p>This collection is open for research.</p><p> Advance notice is required.</p>  </accessrestrict>
+  <bioghist id="aspace_ff676d22e65232289cdf342f432646fe">
+    <head>Administrative History</head>
+<p>Founded on 12 December 1947 by Mrs. Herman T. Briscoe, the purpose of Gateway (General Association of Teachers, Employees, Wives, Administrators of the Yooniversity) was to promote sociability among the members of the entire University family. Membership was available to all women who were employed in any capacity by the University, to wives and other homemakers of persons employed by the university, and to all retired persons and widows who were eligible at the time of their retirement or widowhood. Membership would be terminated by failure to pay dues or the termination of one's association with the university.</p><p> Many Gateway meetings were centered on domesticity, with lessons on sewing, decorating, baking, and style. These "hobby" meetings were alternated with cultural meetings, which were generally led by professors at the university who lectured about their global travels and research. Each academic year was concluded with a Gateway picnic for members and their families.</p><p> The viability of Gateway was in question by April of 1962, as attendance at meetings had dwindled and as a core group of women dictated the club's direction. The April 1962 minutes were the last recorded, though no formal dissolution is mentioned.</p>  </bioghist>
+  <arrangement id="aspace_a56c9f7ec57e1e3a6e099e4729912b9b">
+    <head>Arrangement</head>
+<p>This collection has been organized into one series, Administrative files.</p>  </arrangement>
+  <scopecontent id="aspace_a10d9f0acb8fa9921fff92f9af6d010d">
+    <head>Scope and Content Note</head>
+<p>This collection contains one series arranged chronologically, Administrative files. Contained within this series are the Gateway Club minutes, the Presidents books, and a financial notice regarding the withdrawal of Gateway Club funds from the Indiana University Credit Union.</p><p> The Minutes span the entirety of the Gateway Club's existence, 1947â1962, and are contained within one bound record book. Interesting entries include the initial inspiration for the founding of the Gateway Club, the initial efforts of Mrs. Herman T. Briscoe to arrange the group, and finally the internal complaints against the Gateway Club and the initial moves to disband the group.</p><p> The Presidents book is a valuable resource that contains materials from 1951 through 1962. Included are annual programs of events and meetings, lists of interest groups engaged within the Club, directories of the executive committees, membership lists from 1951 through 1962, the general guidelines of Gateway, and finally various newspaper clippings covering Gateway events.</p><p> The last folder contains a notice signed by Club officers requesting the withdrawal of Gateway Club's Building fund from the Indiana University Credit Union in April of 1961.</p>  </scopecontent>
+  <acqinfo id="aspace_f12e16b58a4617ad611d3efb9cdc6265">
+    <head>Acquisition Information</head>
+<p>Accession 1208</p>  </acqinfo>
+  <userestrict id="aspace_c8e23ebc9d64ee0116e95b6e0f6eaeb8">
+    <head>Usage Restrictions</head>
+<p>For information regarding the copyright status of this collection, please contact the Indiana University Archives staff.</p><p> The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archivist.</p>  </userestrict>
+  <prefercite id="aspace_f86acc248a819ab7de8e84750c537244">
+    <head>Preferred Citation</head>
+<p>[Item], Gateway Club (Indiana University) records, Collection C254, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <processinfo id="aspace_a5914d61285a5ed61e23a7d9122cda9f">
+    <head>Processing Information</head>
+<p>Processed by Nicole M. Mares.</p><p> Completed in <date normal="2004" era="ce" calendar="gregorian">2004</date>.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Women --Societies and clubs --History --20th century --Sources.</subject>
+    <subject source="lcsh">Women --Indiana --Bloomington --Societies and clubs --History --20th century --Sources.</subject>
+    <subject source="lcsh">Women --Indiana --Bloomington --Social life and customs --History --20th century --Sources.</subject>
+    <subject source="lcsh">Female friendship --Indiana --Bloomington --History --20th century --Sources.</subject>
+    <subject source="lcsh">Home economics --Study and teaching --Indiana --Bloomington --History --20th century --Sources.</subject>
+    <corpname audience="internal" source="lcnaf">Gateway Club (Indiana University) --History --Sources.</corpname>
+    <corpname audience="internal" source="lcnaf">Gateway Club (Indiana University) --Records and correspondence.</corpname>
+    <corpname audience="internal" source="lcnaf">Gateway Club (Indiana University) --Archives.</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAA2773-00001" level="series"><did><unittitle>Administrative files</unittitle><unitdate calendar="gregorian" era="ce" normal="1947/1962" type="inclusive">1947-1962</unitdate></did><c02 id="aspace_VAA2773-00002" level="file"><did><unittitle>Gateway Club Minutes</unittitle><unitdate calendar="gregorian" era="ce" normal="1947/1962" type="inclusive">1947-1962</unitdate></did></c02><c02 id="aspace_VAA2773-00003" level="file"><did><unittitle>Gateway Club Presidents Book</unittitle><unitdate calendar="gregorian" era="ce" normal="1951/1962" type="inclusive">1951-1962</unitdate></did></c02><c02 id="aspace_VAA2773-00004" level="file"><did><unittitle>Notice of Fund Withdrawal from the Indiana University Credit Union</unittitle><unitdate calendar="gregorian" era="ce" normal="1961-04-10/1961-04-10">10 April 1961</unitdate></did></c02></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAC4625</eadid><filedesc><titlestmt><titleproper>Homer Wheeler correspondence, <date normal="1844/1846">1844-1846</date> <num>C484</num></titleproper><subtitle>A Guide to his Papers at the Indiana University Archives</subtitle><author>Finding aid prepared by Alison Reynolds</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2012</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2012">ÂŠ 2012</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 04:58:43 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change audience="internal"><date>September 3, 2012</date><item>Date finding aid started.</item></change><change audience="internal"><date>November 16, 2017</date><item>Batch update to change repository name, subject links, preferred citation, and user restrictions.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Homer Wheeler correspondence</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname source="lcnaf">Wheeler, Homer, 1819-1878.</persname>
+    </origination>
+    <unitid>C484</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">4 items</extent>
+      <extent altrender="carrier">.1 cubic foot</extent>
+    </physdesc>
+    <unitdate normal="1844/1846" type="inclusive">1844-1846</unitdate>
+    <abstract id="aspace_8ae51a1bddf2df6635d07c823b9ad1fe">Homer Wheeler attended Indiana University from 1844-1846, studying law, literature and theology. His collection contains four letters between Homer and his brother Maro Wheeler. Letters discuss Homer Wheeler's arrival in Bloomington, his involvement with the Philomathean Society, and his job prospects upon graduation.</abstract>
+    <langmaterial id="aspace_9552a792bcfe70cc6a55017b5a03ee74">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_dfb2dfa7b982578ce8c76be11e6e7fe5">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice required for access</p>  </accessrestrict>
+  <bioghist id="aspace_9942ad7aaa7b8564576ee82a8f7442db">
+    <head>Biographical Note</head>
+<p>Homer Wheeler was born on May 13, 1819 in Alexander, NY. His family moved to Indiana when he was a child. He attended Indiana University from 1844-1846, studying literature, law, and theology. As a student, he was a member of the Philomathean Society, a prominent literary society on campus from the mid to late 19th century.</p><p> Wheeler went on to work as a teacher and minister at St. John's Parish in Bristol, Indiana, and later at St. Peter's Church in Ashtabula, OH. He earned an A.M. degree at the Nashotah Theological Seminary in Wisconsin and eventually became a Professor of Mathematics, Greek and Latin Languages, and Chaplain at Racine College in Wisconsin. In 1876, he authored a historical sketch of Racine College.</p><p> Due to his failing health, Wheeler retired from Racine College and moved to San Francisco, but died on November 10, 1878, not long after his arrival in California.</p>  </bioghist>
+  <arrangement id="aspace_5ac770f4425b439b3d6b345ad8c720ef">
+    <head>Arrangement</head>
+<p>Collection includes four letters and transcriptions arranged chronologically.</p>  </arrangement>
+  <scopecontent id="aspace_25aa1deef46d47636af5d8acc94bfd6c">
+    <head>Scope and Content Note</head>
+<p>This collection contains four letters between Homer Wheeler and his brother Maro Wheeler. Three are from Homer to Maro, and one is from Maro to Homer. One letter is dated 1844, one dated 1845, and two dated 1846, all arranged chronologically. Transcriptions of these letters are also included.</p><p> Letters discuss Homer's arrival in Bloomington, his involvement with the Philomathean Society, dinner with Indiana University President Andrew Wylie, and the daily activities of the Wheeler family. Letters also include a discussion of the town of Bristol, Indiana and the construction of a new Episcopal Church, where Wheeler eventually became rector.</p>  </scopecontent>
+  <acqinfo id="aspace_618f77f8359f5e7761bf087081ebcb75">
+    <head>Acquisition Information</head>
+<p>Accession number: 4412</p>  </acqinfo>
+  <userestrict id="aspace_c192bfd588f86a8462f0664897210d1e">
+    <head>Usage Restrictions</head>
+<p>Collection is in the public domain. For more information, please contact the Indiana University Archives staff.</p>  </userestrict>
+  <prefercite id="aspace_7b8c474af87967eac4fb7d0284c6aad0">
+    <head>Preferred Citation</head>
+<p>[Item], Homer Wheeler correspondence, Collection C484, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <processinfo id="aspace_d272f3993985eaaf6fa84e47209e7efb">
+    <head>Processing Information</head>
+<p>Processed by Alison J. Reynolds.</p><p> Completed in <date normal="2012">2012</date>.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">College students --Indiana --Bloomington --History --Sources.</subject>
+    <persname audience="internal" source="lcnaf">Wheeler, Homer, 1819-1878 --Archives.</persname>
+    <persname audience="internal" source="lcnaf">Wheeler, Homer, 1819-1878 --Correspondence.</persname>
+    <corpname audience="internal" source="lcnaf">Indiana University --Students --History --Sources.</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAC4625-00001" level="collection"><did><unittitle>Correspondence</unittitle><unitdate normal="1844/1846" type="inclusive">1844-1846</unitdate><container id="aspace_0727ecde665a2191fd1e845ef2aa555c" label="box" type="Box">1</container></did><c02 id="aspace_VAC4625-00002" level="otherlevel"><did><unittitle>HW to MW</unittitle><unitdate normal="1844-06-06/1844-06-06">6 June 1844</unitdate><container id="aspace_43669413bd6c9faf427b962fbfd830ff" label="box" type="Box">1</container></did><c03 id="aspace_VAC4625-00006" level="item"><did><unittitle>Original</unittitle><container id="aspace_a088d48fa6cda6c51df9d88702d9ac0f" label="box" type="Box">1</container></did></c03><c03 id="aspace_VAC4625-00007" level="item"><did><unittitle>Typescript</unittitle><container id="aspace_dc87e869488b71a905fc6045ed7d4875" label="box" type="Box">1</container></did></c03></c02><c02 id="aspace_VAC4625-00003" level="otherlevel"><did><unittitle>HW to MW</unittitle><unitdate normal="1845-03-26/1845-03-26">26 March 1845</unitdate><container id="aspace_b0ae873a85c4638e3e27ac927566c386" label="box" type="Box">1</container></did><c03 id="aspace_VAC4625-00008" level="item"><did><unittitle>Original</unittitle><container id="aspace_8c9989dab1acde76f971fadec21c6052" label="box" type="Box">1</container></did></c03><c03 id="aspace_VAC4625-00009" level="item"><did><unittitle>Typescript</unittitle><container id="aspace_e698b8e492aa25454918612f3844d893" label="box" type="Box">1</container></did></c03></c02><c02 id="aspace_VAC4625-00004" level="otherlevel"><did><unittitle>MW to HW</unittitle><unitdate normal="1846-05-05/1846-05-05">5 May 1846</unitdate><container id="aspace_a0b82363eb6067a97ccbdcfc4c6b5813" label="box" type="Box">1</container></did><c03 id="aspace_VAC4625-00010" level="item"><did><unittitle>Original</unittitle><container id="aspace_3d25ef3a905eda27c4d1471368d94b67" label="box" type="Box">1</container></did></c03><c03 id="aspace_VAC4625-00011" level="item"><did><unittitle>Typescript</unittitle><container id="aspace_96b24471cd3da7a61b50b31af5a0cad4" label="box" type="Box">1</container></did></c03></c02><c02 id="aspace_VAC4625-00005" level="otherlevel"><did><unittitle>HW to MW</unittitle><unitdate normal="1846-06-29/1846-06-29">29 June 1846</unitdate><container id="aspace_c1d5d257d5e878c930f8e87f63db20c0" label="box" type="Box">1</container></did><c03 id="aspace_VAC4625-00012" level="item"><did><unittitle>Original</unittitle><container id="aspace_d1c3b9f89fd60667fed2f96675a35514" label="box" type="Box">1</container></did></c03><c03 id="aspace_VAC4625-00013" level="item"><did><unittitle>Typescript</unittitle><container id="aspace_cfd6bc993e681008f30cb449f4d670b7" label="box" type="Box">1</container></did></c03></c02></c01></dsc>
+</archdesc>
+</ead>
