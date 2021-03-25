@@ -62,7 +62,7 @@ RSpec.describe 'EAD 2 traject indexing', type: :feature do
     end
 
     it 'generates a purl link' do
-      expect(result['purl_ssi']).to eq ['http://purl.dlib.indiana.edu/iudl/findingaids/lilly/VAD6017']
+      expect(result['purl_ssi']).to eq ['http://purl.dlib.indiana.edu/iudl/findingaids/lilly/InU-Li-VAD6017']
     end
   end
 end
