@@ -206,7 +206,7 @@ end
 
 to_field 'purl_ssi' do |_record, accumulator, context|
   repo_name = settings['repository']
-  ead_number = context.output_hash['ead_ssi'].first.split('-').last
+  ead_number = context.output_hash['ead_ssi'].first
   accumulator << "http://purl.dlib.indiana.edu/iudl/findingaids/#{repo_name}/#{ead_number}"
 end
 
