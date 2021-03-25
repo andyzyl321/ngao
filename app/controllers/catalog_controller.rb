@@ -272,6 +272,7 @@ class CatalogController < ApplicationController
     config.add_summary_field 'abstract_ssm', label: 'Abstract', helper_method: :render_html_tags
     config.add_summary_field 'extent_ssm', label: 'Extent'
     config.add_summary_field 'language_ssm', label: 'Language'
+    config.add_summary_field 'purl_ssi', label: 'Permanent URL', helper_method: :link_to_url
     config.add_summary_field 'prefercite_ssm', label: 'Preferred citation', helper_method: :render_html_tags
 
     # Collection Show Page - Background Section
