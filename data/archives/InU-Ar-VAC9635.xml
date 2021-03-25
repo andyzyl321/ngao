@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAC9635</eadid><filedesc><titlestmt><titleproper>Leonard C. Ruckelshaus papers, <date normal="1914/1970">1914-1970</date> <num>C519</num></titleproper><subtitle>A Guide to his Papers at the Indiana University Archives</subtitle><author>Finding aid prepared by Anna Rimel</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2013</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2013">ÂŠ 2013</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 04:48:26 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change audience="internal"><date>June 13, 2013</date><item>Finding aid started.</item></change><change audience="internal"><date>June 20, 2013</date><item>Finding aid completed.</item></change><change audience="internal"><date>November 16, 2017</date><item>Batch update to change repository name, subject links, preferred citation, and user restrictions.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Leonard C. Ruckelshaus papers</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">Ruckelshaus, Leonard Conrad</corpname>
+    </origination>
+    <unitid>C519</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 cubic foot</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate normal="1914/1970" type="inclusive">1914-1970</unitdate>
+    <unitdate normal="1922/1922" type="bulk">1922</unitdate>
+    <abstract id="aspace_339dff710abbb50bd9a46fde40f1bdcd">Leonard Conrad <emph render="doublequote">Ruck</emph> Ruckelshaus graduated from Indiana University with an A.B. in Economics in 1923. Ruckelshaus was on the IU varsity baseball squad as an outfielder, as well as the IU varsity football squad. This collection largely consists of materials documenting the IU varsity baseball team's 1922 trip to Tokyo, Japan, upon the invitation of Waseda University. A diary documenting the trip, as well as letters, a scrapbook, and a large number of photos constitute this small collection.</abstract>
+    <langmaterial id="aspace_8f25d778338db53a1ddad4b9562ac32b">Materials are in <language langcode="eng">English</language> and <language langcode="jpn">Japanese</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_5608308ffcf0e1018ce0824ffd1029d3">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice required.</p>  </accessrestrict>
+  <bioghist id="aspace_bc06fba95bbe41ab3121ff202322b2be">
+    <head>Biographical Note/Administrative History</head>
+<p>Leonard Conrad "Ruck" Ruckelshaus, born in 1901, graduated from Indiana University with an A.B. in Economics in 1923. He was a member of the fraternity Sigma Nu, Beta Eta Chapter, as well as a member of the Company F, 2d Regiment Chapter of the Scabbard and Blade society in the R.O.T.C. He was promoted from 1st lieutenant to cadet captain of Co. F. in 1923. Ruckelshaus was on the IU varsity baseball squad as an outfielder, as well as the IU varsity football squad. In 1924, Ruckelshaus was recruited to play on the semipro football team, the Dayton Koors.</p><p> In 1922, Waseda University of Tokyo invited the IU baseball team to Japan for a ten-game series. Expenses were guaranteed with the invitation, and the IU gave permission for the trip. Coach George Levis then had one month to choose twelve players out of sixty candidates to make the trip. Ultimately, the twelve consisted of: Captain James Walker, Ward Gilbert, Harry Gause, Emmons Clay, Robert Kidd, Rankin Denny, Joseph Sloate, Dorsey Kight, Leland Macer, Walter Wichterman, Leonard Ruckelshaus, and Harold Lynch. IU students Ernest Pyle, Joe Benham, Harold Kaiser, and Warren Cooper also accompanied the team on the trip. They left Bloomington on March 28, 1922, and then sailed from Seattle to Japan on April 1, 1922, on the steamship Keystone State. IU alumni Paul Isobe and Takekuma Okada showed the team around Tokyo during their stay. They played ten games in total: Waseda six times, winning one game and tying one; Keio, losing all three games; and a win against the semiprofessional team Osaka Stars. The travelling party returned to Bloomington on May 27, 1922. All were named <emph render="doublequote">I Men</emph> upon their return.</p><p> Ruckelshaus died in St. Louis, Missouri on November 16, 1985, at the age of 84.</p>  </bioghist>
+  <arrangement id="aspace_06692402fbb1f19dc230e8e089605831">
+    <head>Arrangement</head>
+<p>This collection is arranged alphabetically in five files; it also includes Ruckelshaus' <emph render="doublequote">I</emph> sweater.</p>  </arrangement>
+  <scopecontent id="aspace_0e3d11c4b6eea50d5d42df1fc0ed2bc4">
+    <head>Scope and Content Note</head>
+<p>This small collection documents Ruckelshaus' trip to Japan with the baseball team in 1922, and consists of a diary, scrapbook, correspondence and ephemera. Trip ephemera include a luggage tag from the Keystone State steamship and an American Bakery flyer from Tokyo. Also in this collection is Ruckelshaus' <emph render="doublequote">I Men</emph> sweater, in which he is depicted in several of the photographs in the collection. </p><p> The scrapbook and nineteen photographs were separated from the collection and are housed with the IU Archives photograph collection. The photos consist of various IU baseball, football, and basketball team photographs, images from Tokyo, individual sports shots of Ruckelshaus, etc., An extensive scrapbook provides contextual information for numerous photographs, newspaper clippings, letters, souvenir labels and tickets, with the bulk of the scrapbook documenting the trip to Japan in 1922.</p>  </scopecontent>
+  <separatedmaterial id="aspace_85c2f69beb96c433227cfeec1d2382f9">
+    <head>Separated Material</head>
+<p>The scrapbook and nineteen miscellaneous photographs of various IU baseball and football team shots, as well as earlier basketball team shots, in which Ruckelshaus is present, images from Tokyo, individual sports shots of Ruckelshaus, etc., are housed with the IU Photographs Archive.</p><p> Two CD-Rs of low-resolution scans of collection materials were removed from the collection in 2019.</p>  </separatedmaterial>
+  <relatedmaterial id="aspace_63ff826c2bc53023cbaa0a6e76c86e8b">
+    <head>Related Material</head>
+<p>Related photographs may be available in the University Archives Photographs Database: <extref xlink:href="http://webapp1.dlib.indiana.edu/archivesphotos/search/search.do?userQuery=Ruckelshaus&amp;sortKeys=">http://webapp1.dlib.indiana.edu/archivesphotos/</extref></p>  </relatedmaterial>
+  <acqinfo id="aspace_4397dffb72293cb9236b7f34230569f4">
+    <head>Acquisition Information</head>
+<p>Accession 2012/149</p>  </acqinfo>
+  <userestrict id="aspace_a09236d7f7d63ce858c8e50aa7093ff3">
+    <head>Usage Restrictions</head>
+<p>The donor(s) of this collection have transferred their copyrights for the materials to the Trustees of Indiana University through a Deed of Gift. For more information, please contact the Indiana University Archives staff.</p><p> The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archivist.</p>  </userestrict>
+  <prefercite id="aspace_9fef1f7f4b73c16b140c9826f77a464a">
+    <head>Preferred Citation</head>
+<p>[Item], Leonard C. Ruckelshaus papers, Collection C519, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <custodhist id="aspace_784a37d30941e47912490f666733c086">
+    <head>Provenance</head>
+<p>Collection donated to the Indiana University Archives on September 9, 2012 by Jerry Benner, Ruckelshaus' nephew, and wife Ruth Benner.</p>  </custodhist>
+  <processinfo id="aspace_a2fb0dda44b3d6eb1a1163f19b55b561">
+    <head>Processing Information</head>
+<p>Processed by Anna Rimel.</p><p> Completed in <date normal="2013">2013</date></p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Baseball players --Indiana --Bloomington --History --Sources.</subject>
+    <subject source="lcsh">College sports --Indiana --Bloomington --History --Sources.</subject>
+    <subject source="lcsh">Baseball --Indiana --Bloomington --History --Sources.</subject>
+    <corpname audience="internal" source="lcnaf">Indiana University --Students --Diaries.</corpname>
+    <corpname audience="internal" source="lcnaf">Indiana University --Baseball --History --Sources.</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAC9635-00001" level="collection"><did><unittitle>Leonard C. Ruckelshaus papers on Indiana University baseball trip to Tokyo</unittitle><unitdate normal="1914/1970" type="inclusive">1914-1970</unitdate><unitdate normal="1922/1922" type="bulk">1922</unitdate></did><c02 id="aspace_VAC9635-00002" level="file"><did><unittitle>Japan Trip Ephemera</unittitle><unitdate normal="1922/1922">1922</unitdate></did></c02><c02 id="aspace_VAC9635-00003" level="item"><did><unittitle>Ruckelshaus' Diary of Japan Trip</unittitle><unitdate normal="1922-03/1922-05" type="inclusive">March-May 1922</unitdate></did></c02><c02 id="aspace_VAC9635-00004" level="item"><did><unittitle><emph render="doublequote">I Men</emph> Sweater</unittitle></did></c02><c02 id="aspace_VAC9635-00006" level="item"><did><unittitle>Scrapbook</unittitle><unitdate normal="1914/1970" type="inclusive">1914-1970</unitdate><physloc id="aspace_d2eb19950c58b064f06afcdd78fd139d">(Housed with the IU Photographs collection)</physloc></did></c02><c02 id="aspace_VAC9635-00007" level="file"><did><unittitle>Miscellaneous Photos of Ruckelshaus in IU Baseball Tour of Japan</unittitle><unitdate normal="1922/1922">1922</unitdate><physloc id="aspace_1786a34e762f0f44043743a8bf7d8475">(Housed with the IU Photographs collection)</physloc></did></c02></c01></dsc>
+</archdesc>
+</ead>

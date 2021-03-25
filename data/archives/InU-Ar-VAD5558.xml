@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAD5558</eadid><filedesc><titlestmt><titleproper>Dolores C. Whitney papers, <date normal="1946/1964">1946-1964</date> <num>C470</num></titleproper><author>Finding aid prepared by Kristen White</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>ÂŠ 2016</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2016">ÂŠ 2016</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 05:02:31 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change audience="internal"><date>March 23, 2016</date><item>Finding aid started.</item></change><change audience="internal"><date>November 16, 2017</date><item>Batch update to change repository name, subject links, preferred citation, and user restrictions.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>Dolores C. Whitney papers</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname source="lcnaf">Whitney, Dolores C. (Dolores Celeste)</persname>
+    </origination>
+    <unitid>C470</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.8 cubic feet</extent>
+    </physdesc>
+    <unitdate normal="1946/1964" type="inclusive">1946-1964</unitdate>
+    <unitdate normal="1946/1948" type="bulk">1946-1948</unitdate>
+    <abstract id="aspace_6d7abd27508b46282cc02582407af2ba">Dolores C. Whitney graduated from Indiana University with an M.S. in 1950. This small collection consists of two scrapbooks as well artwork.</abstract>
+    <langmaterial id="aspace_3b073379a85f9b580e7e45465a397ac5">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_e9e6a3aed51dab57291a61999d548eb8">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice required.</p>  </accessrestrict>
+  <bioghist id="aspace_4a72cacebd36ef82dd9e826cf8a6872a">
+    <head>Biographical Note</head>
+<p>Dolores Celeste Whitney received an A.B. at Wesleyan College in 1945 and graduated from Indiana University with an M.S. in 1950. From 1947 to 1948 she worked in Japan as a U.S. Civil Services employee.</p>  </bioghist>
+  <arrangement id="aspace_6718ffdca4f908d1836830d1499c5e98">
+    <head>Arrangement</head>
+<p>Collection is organized into two series: Biographical and Artwork.</p>  </arrangement>
+  <scopecontent id="aspace_e8c37be1c1bc7bdc6a8816047e2f9384">
+    <head>Scope and Content Note</head>
+<p>This small collection is organized into two series. The first series, Biographical, includes two scrapbooks. The first scrapbook contains postcards depicting places in the U.S., with several examples of IU Bloomington campus scenes. The second covers Dolores' time in Japan as a Civil Services employee between <date normal="1947/1948">1947-1948</date>. Documenting her time overseas, Dolores filled this scrapbook with postcards, photographs, maps, brochures, and even a drawing of herself done by a young Japanese student. The series also includes change of address cards with the Alumni Association as well as a <date normal="1946">1946</date> map of Tokyo.</p><p> The second series, Artwork, includes 12 ceramics pieces and a painted decorative wooden plate done by Whitney. Most of the ceramics feature an animal, including eagles, a horse, and a cat, and have either her signature or initials on the piece, usually the back or bottom.</p>  </scopecontent>
+  <relatedmaterial id="aspace_318a0c3e72f7db167379fe1ba5955247">
+    <head>Related Material</head>
+<p>Related photographs may be available in the <extref xlink:href="http://webapp1.dlib.indiana.edu/archivesphotos/">University Archives Photographs Database</extref>.</p>  </relatedmaterial>
+  <acqinfo id="aspace_3b14463cdc9fbcb3d962fa7ff4d98c0d">
+    <head>Acquisition Information</head>
+<p>Accession 0603</p>  </acqinfo>
+  <userestrict id="aspace_058136d28a7a4e6b420ea32f20325ea7">
+    <head>Usage Restrictions</head>
+<p>The donor(s) of this collection have not transferred their copyrights for the materials to the Trustees of Indiana University. For more information, please contact the Indiana University Archives staff.</p><p> The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archivist.</p>  </userestrict>
+  <prefercite id="aspace_27bda058a4698d389799471afd65b7b2">
+    <head>Preferred Citation</head>
+<p>[Item], Dolores C. Whitney papers, Collection C470, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <custodhist id="aspace_086debc32103a701bf579792e7b47531">
+    <head>Provenance</head>
+<p>Deposited with University Archives on October 19, 1965 by Dolores C. Whitney.</p>  </custodhist>
+  <appraisal id="aspace_897ee62f943533719c59058a49f12651">
+    <head>Appraisal</head>
+<p>Some items, such as a Time Magazine cover, did not seem to have any ties to Whitney and materials were recycled.</p>  </appraisal>
+  <processinfo id="aspace_e8d95a5c244e33cb541838e12573aefe">
+    <head>Processing Information</head>
+<p>Processed by Kristen White.</p><p> Completed <date normal="2016-01-15">January 15, 2016</date></p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Souvenirs (Keepsakes) --Japan --History --Sources.</subject>
+    <subject source="lcsh">Ceramic sculpture --20th century --History --Sources.</subject>
+    <persname audience="internal" source="lcnaf">Whitney, Dolores C. (Dolores Celeste) --Archives.</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAD5558-00001" level="series"><did><unittitle>Biographical</unittitle><unitdate normal="1946/1964" type="inclusive">1946-1964</unitdate><container id="aspace_cd4358e38ee8b6caa64212544735196f" label="box" type="box">1</container></did><c02 id="aspace_VAD5558-00002" level="file"><did><unittitle>Color plate advertisements for Encyclopedia of World Art</unittitle><unitdate normal="1946/1964" type="inclusive">undated</unitdate><container id="aspace_de94d826a5979412f83bcc3294cb84cb" label="box" type="box">1</container></did></c02><c02 id="aspace_VAD5558-00003" level="file"><did><unittitle>Envelope of change of address cards</unittitle><unitdate normal="1964/1964">1964</unitdate><container id="aspace_7ec284b666b0dc144ef7d45cc021b3dd" label="box" type="box">1</container></did></c02><c02 id="aspace_VAD5558-00004" level="file"><did><unittitle>Japanese souvenirs</unittitle><unitdate normal="1946/1946">1946, undated</unitdate><container id="aspace_5d72934f2bad745ff452d1144cd4f56b" label="box" type="box">1</container></did></c02><c02 id="aspace_VAD5558-00005" level="file"><did><unittitle>Scrapbooks</unittitle><container id="aspace_5810240a95234da58dc33e7d0d8c24e1" label="box" type="box">1</container></did><c03 id="aspace_VAD5558-00006" level="item"><did><unittitle>Postcards of the United States focusing on Indiana</unittitle><unitdate normal="1946/1964" type="inclusive">undated</unitdate><container id="aspace_1f038a7e20b812c0be6400b5fea101b2" label="box" type="box">1</container></did></c03><c03 id="aspace_VAD5558-00007" level="item"><did><unittitle>Japan</unittitle><unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate><container id="aspace_8c3a498fffa35cac8cda86ea94dc608d" label="box" type="box">1</container></did></c03></c02></c01><c01 id="aspace_VAD5558-00008" level="series"><did><unittitle>Artwork</unittitle><unitdate normal="1946/1964" type="inclusive">undated</unitdate><container id="aspace_3d2bfe619c3ff8f36bb7f94fa817cc42" label="box" type="box">2</container></did><c02 id="aspace_VAD5558-00009" level="item"><did><unittitle>Two ceramic eagles</unittitle><container id="aspace_384ea45c1ed7f727c017db008bb8535f" label="box" type="box">2</container></did></c02><c02 id="aspace_VAD5558-00010" level="item"><did><unittitle>Ceramic cat</unittitle><container id="aspace_35fb0a26cdc2db46419967c4827645e9" label="box" type="box">2</container></did></c02><c02 id="aspace_VAD5558-00011" level="item"><did><unittitle>Ceramic horse head</unittitle><container id="aspace_6668362889ffa71ba3f07878b3519746" label="box" type="box">2</container></did></c02><c02 id="aspace_VAD5558-00012" level="item"><did><unittitle>Four ceramic pendants</unittitle><container id="aspace_ed981f75168627c7913800aa6359606a" label="box" type="box">2</container></did></c02><c02 id="aspace_VAD5558-00013" level="item"><did><unittitle>One ceramic eagle pen holder</unittitle><container id="aspace_e0c18d1a3c3baf6f7a32b40459e1fc72" label="box" type="box">2</container></did></c02><c02 id="aspace_VAD5558-00014" level="item"><did><unittitle>One ceramic scroll pen holder</unittitle><container id="aspace_ddcf2fb35ab403eeeafc646ae0a3a2c0" label="box" type="box">2</container></did></c02><c02 id="aspace_VAD5558-00015" level="item"><did><unittitle>One ceramic container with lid</unittitle><container id="aspace_02bbb25c14874fd528f5989f22c13ea9" label="box" type="box">2</container></did></c02><c02 id="aspace_VAD5558-00016" level="item"><did><unittitle>One small patriotic ceramic dish</unittitle><container id="aspace_6602d1df99bffe92317b75b54fffbb82" label="box" type="box">2</container></did></c02><c02 id="aspace_VAD5558-00017" level="item"><did><unittitle>One yellow and orange painted wooded decorative plate</unittitle><container id="aspace_77003545abfcae0f50f88d454a1bd8b3" label="box" type="box">2</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

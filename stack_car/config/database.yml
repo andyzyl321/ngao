@@ -1,0 +1,17 @@
+# Hi - please dont edit this file directly, instead make changes in your .env file
+
+
+
+development:
+  <<: *login
+
+test:
+  <<: *login
+  database: <%= ENV['TEST_DB'] %>
+
+staging:
+  <<: *login
+
+
+production:
+  <<: *login

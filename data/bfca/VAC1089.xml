@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">VAC1089</eadid><filedesc><titlestmt><titleproper>Byllye Avery Collection, <date normal="1937/1997">1937-1997</date> <num>Special Collection BA</num></titleproper><subtitle>A Guide to her Holdings at the Black Film Center/Archive</subtitle><author>Finding aid prepared by Mary Huelsbeck/Hannah Caproon/Gabriel Gardner</author></titlestmt><publicationstmt><publisher>Test - Black Film Center/Archive</publisher><p><date>ÂŠ 2011</date></p><address><addressline>1320 East Tenth Street</addressline><addressline>Herman B Wells Library, Room 044</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>bfca@indiana.edu</addressline><addressline>URL: <extptr xlink:href="https://bfca.sitehost.iu.edu" xlink:show="new" xlink:title="https://bfca.sitehost.iu.edu" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2011">ÂŠ 2011</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-07-02 04:01:56 -0400</date>.</creation><langusage>Description is in English.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Test - Black Film Center/Archive</corpname>
+    </repository>
+    <unittitle>Byllye Avery Collection</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">Byllye Avery</corpname>
+    </origination>
+    <unitid>Special Collection BA</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">61 Items</extent>
+    </physdesc>
+    <unitdate normal="1937/1997" type="inclusive">1937-1997</unitdate>
+    <abstract id="aspace_28e33b0082c503a4e1c45837138d2c6a">Video and audio prints related to the making of <emph render="italic">On Becoming a Woman</emph>.</abstract>
+    <langmaterial id="aspace_8fd3352043886a49280dc9c94159b722">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_ee68b9b9d81b35972607f4e28be4478f">
+    <head>Access Restrictions</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <bioghist id="aspace_daff74438b4cc04acf7eae11a47930d6">
+    <head>Biographical Note</head>
+<p>In 1981, Byllye Avery (b. 1937) founded the National Black Women's Health Project (NBWHP) in Atlanta, Georgia. As Director of this national and international health advocacy organization, one of Avery's projects was the production of the film in this collection, <emph render="italic">On Becoming a Woman: Mothers and Daughters Talking to Each Other</emph> (1987). The documentary film depicts two generations of African American women engaged in discussions about menstruation, sex, love, and communication.</p><p> In addition to her work at the NBWHP, Avery co-founded the Gainesville Women's Health Center and BIRTHPLACE, an alternative birthing center in Gainesville, Florida; wrote a preface for <emph render="italic">The New Our Bodies, Our Selves</emph> (1997); and advocated the Walking for Wellness Program, where women make a commitment to walk together twice a week. In 1989, Avery was named a MacArthur Fellow and in 1994, she received the Gustav O. Lienhard Award for the advancement of health care for her pioneering efforts to improve heath care for black and underserved women in the United States.</p>  </bioghist>
+  <scopecontent id="aspace_9423272bc470b6415d67106e7263a05a">
+    <head>Scope and Content Note</head>
+<p>The BFC/A Byllye Avery Collection contains the final print of On Becoming a Woman as well as audio and visual outtakes and work prints from the film. These materials were donated to the BFC/A by Byllye Avery, whose resume, biography, and photograph are included in this collection.</p><p>  The items outlined in this guide are listed according to the titles that were on the containers received by the BFC/A. The following descriptions of each item include information present on the film stock as well as notes about content and running time when available.</p>  </scopecontent>
+  <acqinfo id="aspace_5883abb10406c9e11cfa0ef90ddd437d">
+    <head>Acquisition Information</head>
+<p>The collection was donated in August 1996.</p>  </acqinfo>
+  <userestrict id="aspace_bf805740050e400de1e9e79d2d1d3d46">
+    <head>Usage Restrictions</head>
+<p>Photocopying permitted only with permission of the Archivist.</p>  </userestrict>
+  <prefercite id="aspace_a893f6687ba84bf10e92657b3a9936d6">
+    <head>Preferred Citation</head>
+<p>[item], Byllye Avery Collection, Special Collection BA, Black Film Center/Archive, Indiana University, Bloomington.</p>  </prefercite>
+  <processinfo id="aspace_fc6f465143e9e455e30af018af57804a">
+    <head>Processing Information</head>
+<p>Processed by Aimee Hall.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcnaf">African American actors.</subject>
+    <subject source="lcnaf">African American women--Attitudes.</subject>
+    <subject source="lcnaf">African American women--Faith.</subject>
+    <subject source="lcnaf">African American women health reformers.</subject>
+    <persname audience="internal" source="lcnaf">Avery, Byllye, 1937-.</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ca24b3476c017a7d55de976b377d8fbd" level="series"><did><unittitle>Reels</unittitle></did><c02 id="aspace_66a5ea37b56d050cfdf280da36c66f35" level="item"><did><unittitle>CL96-9.1.1
+
+ 12" reeled
+
+ Day #1 optical Sound Track (S/T)
+
+ color and sound
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_fd08968fc5955f5d4c00613e86ba5541" level="item"><did><unittitle>CL96-9.1.2
+
+ 12" reeled
+
+ Day #1 duplicate negative
+
+ color and sound
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_c22234b646e6d90087993b1854a55e3b" level="item"><did><unittitle>CL96-9.1.3
+
+ 12" reeled
+
+ Day #1 original negative A-roll
+
+ color and sound
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_0b0711ad93ed4bb511daa983e0af5e01" level="item"><did><unittitle>CL96-9.1.4
+
+ 12" reeled
+
+ Day #1 original negative B-roll
+
+ color and sound
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_f03a83981bfb9054c73a326937a3daa8" level="item"><did><unittitle>CL96-9.1.5
+
+ 12" reeled
+
+ Day #1 I/P
+
+ color and sound
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_cbcd9dadac18ab8d8f9befe268d46f20" level="item"><did><unittitle>CL96-9.1.6
+
+ 12" cored
+
+ SR-3-4 3-23-87/Outtakes Day 1 #29 container #23
+
+ outtakes and sound
+
+ -begins with "what is sex" - narration outtakes for Day 1
+
+ -descriptions of anatomy and fertilization process
+
+ -discussion/description of birth control methods and STDs
+
+ two takes of narration
+
+ visual q: unk
+
+ audio q: good</unittitle></did></c02><c02 id="aspace_4cc65f355d9d214fc8b89272bae9f88d" level="item"><did><unittitle>CL96-9.2.1
+
+ 12" reeled
+
+ Day 2
+
+ optical Sound Track (S/T)
+
+ color and sound
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_40ff5a9930c81c0339c5a0596f0626b3" level="item"><did><unittitle>CL96-9.2.2
+
+ 12" reeled
+
+ Day 2 B-wind duplicate negative
+
+ color and sound
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_8549c7484c70d5a95cc607996ea3b92e" level="item"><did><unittitle>CL96-9.2.3
+
+ 12" reeled
+
+ Day 2 original negative A-roll
+
+ color and sound
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_33a2ae693e5ca3e5ff58bf5376530dad" level="item"><did><unittitle>CL96-9.2.4
+
+ 12" reeled
+
+ Day 2 original negative B-roll
+
+ color and sound
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_8b8b586f1fcb23c9ae3c9e31d62861d4" level="item"><did><unittitle>CL96-9.2.5
+
+ 12" reeled
+
+ Day 2 I/P
+
+ color and sound
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_496d2ec76aab26c264c25fb94f9f45d2" level="item"><did><unittitle>CL96-9.2.6
+
+ 12" cored
+
+ Outtakes Day 2
+
+ color only
+
+ -small segment labeled: OTs Day 2 Bend Runds, 3-1-87, OTs 2nd night Cheryl Story, Natural Family Planning, OTs 2nd night
+
+ -Melba "Communication," kinds of Birth Control Pills, Melba
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_2e288ac53e02d4baa6a675f77d99c6f6" level="item"><did><unittitle>CL96-9.2.7
+
+ 10" cored
+
+ TRK 1 SR-S Day 2 3/23/87
+
+ container #27
+
+ sound
+
+ edited version
+
+ -track #1 of mothers and daughters talking about what's good and bad about their relationships
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_76c05b786c8b3a7b10c8cae57da4647b" level="item"><did><unittitle>CL96-9.3.1
+
+ 12" reeled
+
+ Part #1 of Day #3
+
+ optical Sound Track (S/T)
+
+ color and sound
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_9086d948aa50fad575f60e956cbe5f55" level="item"><did><unittitle>CL96-9.3.2
+
+ 12" reeled
+
+ Part 1 Day 3
+
+ duplicate negative
+
+ color and sound
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_792b617e9f7a9e39c1ec97644e740eca" level="item"><did><unittitle>CL96-9.3.3
+
+ 12" reeled
+
+ Part 1 Day 3
+
+ original negative A-roll
+
+ color and sound
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_facccfba15be991b35eabe2338993b82" level="item"><did><unittitle>CL96-9.3.4
+
+ 12" reeled
+
+ Part 1 Day 3
+
+ Original negative B-roll
+
+ color and sound
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_eed98193d5e4de449472207ade53fd2e" level="item"><did><unittitle>CL96-9.3.5
+
+ 12" reeled
+
+ Part 1 Day 3
+
+ color and sound
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_81d2e9565e3d3eb820f0ad5c107a3c30" level="item"><did><unittitle>CL96-9.3.6
+
+ 12" reeled
+
+ Day 3 Part II
+
+ optical Sound Track (S/T)
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_53e053263b401e3ba1e265467add503f" level="item"><did><unittitle>CL96-9.3.7
+
+ 12" reeled
+
+ Day 3 Part II
+
+ Duplicate negative
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_9538a0037845d9a4e7e1641daad4c80c" level="item"><did><unittitle>CL96-9.3.8
+
+ 12" reeled
+
+ Day 3 Part II
+
+ original negative A-roll
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_b0a590a18ea7a291cef11192a55c0ec3" level="item"><did><unittitle>CL96-9.3.9
+
+ 12" reeled
+
+ Day 3 Part II
+
+ original negative B-roll
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_cd9ee22411d29acfb25eee7e5ef4037d" level="item"><did><unittitle>CL96-9.3.10
+
+ 12" reeled
+
+ Day 3 Part II
+
+ I/P
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_bb0ac9acca826b1abdd6023a3ba3d5f0" level="item"><did><unittitle>CL96-9.3.11
+
+ 10" cored
+
+ Shawn OT, Day 3 Pts 1&amp;2
+
+ container #30
+
+ color
+
+ -"SHAWN outtakes"
+
+ -images of mothers and daughters talking about menstruation
+
+ -introductions
+
+ -"OUTTAKES 2nd night"
+
+ -18'00" "ROUGH EDIT"
+
+ -discussion of tampons, menstruation
+
+ visual q: good
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_9919422e75dfc8ffc3dd9c443eb9c1f3" level="item"><did><unittitle>CL96-9.3.13
+
+ 12" cored
+
+ Day 3 Pt. 1 "Do Not Use Baaad Day 3"
+
+ color
+
+ -"1st try day 3"
+
+ -mothers and daughters sharing feelings about each other
+
+ -lots of tears
+
+ -talking bout what they like about themselves
+
+ visual q: good
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_a90060e66b9eb869bdbd1fc7da54a907" level="item"><did><unittitle>CL96-9.3.14
+
+ 7" cored
+
+ OUTTAKES (Day III Part 2 and other items)
+
+ color, outtakes, sound
+
+ -cartoon-like sounds and discussion of condoms (~5 sec.)
+
+ -graphics - inserting tampon, putting on condom, uterus
+
+ -mothers and daughters on couch
+
+ visual q: good
+
+ audio q: good</unittitle></did></c02><c02 id="aspace_05ff4e0b9fc86dc51ceac9645c48ed1d" level="item"><did><unittitle>CL96-9.3.16
+
+ 10" cored
+
+ OTs 3 day 2/26
+
+ color outtakes no sound
+
+ visual q: good
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_8a14c3c2d82ab50d24f4dc4bee619732" level="item"><did><unittitle>CL96-9.3.17
+
+ 10" cored
+
+ Day 3 Part 2 - "Do Not USE Baaad Day 3"
+
+ color outtakes
+
+ -"1st try day 3"
+
+ -mothers and daughters sharing feelings about each other and the previous nights
+
+ -a whole lot of crying
+
+ -20 min. in: final credits with names and images of mothers and daughters
+
+ visual q: good
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_8faa9ecb540175f5ce2f8fb0b6b7330c" level="item"><did><unittitle>CL96-9.3.18
+
+ 10" cored
+
+ (ECTS work print?) OTs 3rd Day 2/26
+
+ outtakes and sound
+
+ -sound from 3rd day conversation about fears, where they come from, and how they affect relationships with each other
+
+ -singing (group)
+
+ -talk about peer pressures, school, mothers' desires to protect their daughters
+
+ -story read out loud
+
+ (low sound level, high noise level)
+
+ visual q: unk
+
+ audio q: good to fair</unittitle></did></c02><c02 id="aspace_c3c90fdcb0e54ba05604f3fc04f21644" level="item"><did><unittitle>CL96-9.3.19
+
+ 10" cored
+
+ Day 3 parts 1&amp;3 TRK 4
+
+ sound
+
+ edited version
+
+ -discussion of how daughters feel about themselves, encouraging all to recognize and share what they like about themselves
+
+ visual q: unk
+
+ audio q: good</unittitle></did></c02><c02 id="aspace_35db993efc58c99620e5b4afd0badede" level="item"><did><unittitle>CL96-9.3.20
+
+ 10" cored
+
+ Day 3 Part 1 Remix 5/25/87
+
+ container #21
+
+ sound
+
+ -sound from 3rd nights
+
+ -what mothers and daughters like about themselves
+
+ visual q: unk
+
+ audio q: good (some damage at head)</unittitle></did></c02><c02 id="aspace_05b181b162cb3f8de66a32ca8999ae1a" level="item"><did><unittitle>CL96-9.3.21
+
+ 10" cored
+
+ Day 3 Part 2 Mix-Mag TRK 1
+
+ container #25
+
+ sound mix
+
+ -mothers and daughters talk about what's good and bad about their relationships and their communication skills
+
+ -19'30" list of other things to talk about, closing song
+
+ visual q: unk
+
+ audio q: good</unittitle></did></c02><c02 id="aspace_40d1022e8da3079f2cfcb1f45fb67bbf" level="item"><did><unittitle>CL96-9.3.22
+
+ 10" cored
+
+ Day III pt 2 mix
+
+ sound mix
+
+ edited version
+
+ -sharing feelings about the previous days
+
+ -final mix of day 3 part 2 including voice over about sex and decision making and contraceptives
+
+ visual q: unk
+
+ audio q: good</unittitle></did></c02><c02 id="aspace_94c48123590cce127b064d7dd02c22e6" level="item"><did><unittitle>CL96-9.4.1
+
+ 10" cored
+
+ Roll 1&amp;2 (sync) GYN clinic-image
+
+ container 20A
+
+ color, no sound, uncut footage
+
+ -15 year old visits GYN office for the first time discuss menstruation, breast and pelvic exams (four takes)
+
+ -extra shot of office 12'15"-14'55"
+
+ visual q: good
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_dcbead7c89bcd1b373574e13d26f1d32" level="item"><did><unittitle>CL96-9.4.2
+
+ 7" cored
+
+ #6 #8 #10 #11 #14 #15 #16 outtakes
+
+ color outtakes sound
+
+ #6 - 1st period sound
+
+ #8 - "important sound" - instructions to mothers about listening
+
+ #10 - images
+
+ #11 - images
+
+ #14 - "outtakes Day 2 Pills Hormones Pre-Cut Away" sound
+
+ #15 - "OT Day 1 3/21/87 Sonya/Cheryl"
+
+ #16 - images - group on couch
+
+ visual q: good
+
+ audio q: good</unittitle></did></c02><c02 id="aspace_6ad4c58c33b8d3e20824acd7e4fc4804" level="item"><did><unittitle>CL96-9.3
+
+ 7" cored
+
+ #7 #9 #13 #5 #12 #3 #4 (A)
+
+ color outtakes sound
+
+ -bits of mother daughter conversation about 1st period
+
+ -#9 &amp; #5 1-5 sec. shots of mothers with daughters
+
+ visual q: good
+
+ audio q: good</unittitle></did></c02><c02 id="aspace_a34949f8e3e12f5c882fdd686908e0b2" level="item"><did><unittitle>CL96-9.4
+
+ 10" cored
+
+ 1st &amp; 2nd nights OTs - trim bend
+
+ color outtakes no sound
+
+ -talking about anatomy, reproduction, puberty
+
+ -talking about 1st periods
+
+ -Byllye talking about menstruation
+
+ -OT 2nd night - Cheryl - Biological New Fact
+
+ visual q: good
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_2cc495376187952439a861127a5ef2f6" level="item"><did><unittitle>CL96-9.5
+
+ 7" cored
+
+ OT Nudes
+
+ 1997 Date Received
+
+ color outtakes
+
+ -outtakes of male nude, women in living room, female nude
+
+ visual q: good
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_c40845da47f2da9f00f56722a28ed646" level="item"><did><unittitle>CL96-9.6
+
+ 12" cored
+
+ O.Y. 5.ND Pic Important Sound! Sc4-IUD-Pills-No Pills
+
+ outtakes sound
+
+ several short segments:
+
+ 1) from Day 3 Part II - Contraceptives
+
+ 2) Sc 4 "Ambiance-Melba Church" 2nd night
+
+ 3) Sc 4 "8 reasons to say No"
+
+ 4) Birth Control Conversation - "Byllye Avery Responsibility of B.C."
+
+ 5) Sc 4 - "Melba Contraceptives No Pic"
+
+ 6) Sc 4 - "B.C. Rhythm - Abstain"
+
+ 7) Sc 4 - "Contraceptives No Pic" / End of Roll
+
+ 8) Sc 4 - "Testimony - Daffeny No Sex" - mother/daughter discussion of B.C.
+
+ 9) "male organs - wet dreams"
+
+ 10) Sc 3 "PMS - No pic - B.A." / End of Roll
+
+ 11) "Your Father Know - Period"
+
+ 12) "Give Yourself A Hug - B.A." - Sc 3 Take 5
+
+ 13) Sound Reel (SR) - 3/Scene 3 - on getting your period, charting
+
+ 14) "Menst. 1st time - B.A." - story from Archie Bunker
+
+ 15) Period - Body Temp - No Pic - O.T. - ovulation charting
+
+ 16) "Charting - O.T. - No Pic"
+
+ 17) SR-13 - "Sc5 - Lilly - O.T. No Pic"
+
+ 18) Sc 5 "Elenor/Daffeny O.T."
+
+ 19) Sc 5 "Ots - No Pic - Shawn"
+
+ 20) "Room Tone - GYN clinic"
+
+ 21) Sc 5 "Holley - Cheryl - No Pic"
+
+ 22) Sc 5 "Lilly - Intro - No Pic"
+
+ 23) Sc 5 "Lilly - Song 'The Greatest'"
+
+ visual q: unk
+
+ audio q: good</unittitle></did></c02><c02 id="aspace_78162dccf5758b017094e5bbfe1263e3" level="item"><did><unittitle>CL96-9.7
+
+ 10" cored
+
+ Active Ots Roll 1-12/wild sound days 1-3
+
+ outtakes sound and wild sound
+
+ -dialogue Day One - menstruation, sanitary products "Roll 8 NO PIC Sc 3 Pads, Tampons - Important!!"
+
+ -"Sc 5 (circle) Conclusion…sound distorted"
+
+ -"overlap to next roll"
+
+ -"Sc 5 Lilly and daughter - concl. OT"
+
+ -Part III Sc 5 Lilly and daughter Ots" talking about school and relationship and feelings
+
+ -"Sc 5 Part II Billy/Sharm OT" talking about leaving home/unclear sound
+
+ visual q: unk
+
+ audio q: good to fair</unittitle></did></c02><c02 id="aspace_613ff0326631cb757ec2cb04b51bb997" level="item"><did><unittitle>CL96-9.8
+
+ 12" cored
+
+ sound effects (lab tape: 341/12 66 396 27225 107)
+
+ outtakes sound
+
+ misc. sound for effects including:
+
+ clothes rustling; various cartoons and TV show theme songs ("Love Boat," "Rawhide"); dialogue from movies, TV and cartoons; water sounds; "boiling water"; "we sponge"; "bodies coming together in intercourse"; "jelly on diaphragm"; "sperm trying to get through diaphragm"; "sperm trying to get through cervical cap"; "placing diaphragm"; "gushing jelly sounds"; "placing condom on penis"; Wild Track Byllye &amp; Sonya; more TV/cartoon sounds; "orgasm zip sounds"; windchimes; projector sound; dialogue from "The Young and the Restless"
+
+ Roll ends at 30 minutes
+
+ visual q: unk
+
+ audio q: good to fair</unittitle></did></c02><c02 id="aspace_d9ae02aca7bec88ad041598230c45213" level="item"><did><unittitle>CL96-9.9
+
+ 10" cored
+
+ BWHP 3 #26
+
+ sound one track
+
+ -daughter talking about being away from home
+
+ -daughters talking about what they feel/like about their mothers
+
+ -Day 3(?)
+
+ visual q: unk
+
+ audio q: good</unittitle></did></c02><c02 id="aspace_a0835a29333f85de513522b43de939a4" level="item"><did><unittitle>CL96-9.10
+
+ 10" cored
+
+ Wild Sound
+
+ sound
+
+ -"Tape #3" - interview with Byllye and Sonya about developing the workshop (difficult to hear everything)
+
+ -scripted, several takes of each dialogue line
+
+ -stories about themselves
+
+ visual q: unk
+
+ audio q: good</unittitle></did></c02><c02 id="aspace_8d7849690039349c2a855f618958157f" level="item"><did><unittitle>CL96-9.11
+
+ 10" cored
+
+ TK 2 "Becoming a Woman"
+
+ sound edited version
+
+ container #2
+
+ -(sound) track 2 day 3(?) mothers and daughters talking openly about fears, hopes, and feelings
+
+ -emotional conversation about resentments and anger
+
+ (sound level seems too low at times - difficult to hear)
+
+ visual q: unk
+
+ audio q: good to fair</unittitle></did></c02><c02 id="aspace_3178761841bd9f42be3930e1dd74bebb" level="item"><did><unittitle>CL96-9.12
+
+ 10" cored
+
+ BWHP 5
+
+ container #22
+
+ sound
+
+ -starts with "scene 4 take 10" - is there anything else you'd like to share?
+
+ -end of conversation about pressures to have sex for teenagers
+
+ -end of 2nd night
+
+ -at 9'25" "scene 5 take 1" - 3rd night sound, mothers and daughters talk about how to keep communication lines open
+
+ -talking about fears
+
+ visual q: unk
+
+ audio q: good</unittitle></did></c02><c02 id="aspace_6fd49b08504fa2b94ec24e84b9885bdb" level="item"><did><unittitle>CL96-9.13
+
+ 10" cored
+
+ TK 3 (from Box #1 - white)
+
+ sound edited version
+
+ -track #3 of mothers and daughters talking about what their fears are and about what their strengths are
+
+ day 2 (?)
+
+ visual q: unk
+
+ audio q: good</unittitle></did></c02><c02 id="aspace_5e34f09997029495e31af3c411a3c713" level="item"><did><unittitle>CL96-9.14
+
+ 10" cored
+
+ Roll 1 &amp; 2 (sync) GYN clinic - sound
+
+ container #20B
+
+ sound
+
+ -15 year old talks to GYN for the first time about menstruation, breast exams, pelvic exams
+
+ (four takes)
+
+ visual q: unk
+
+ audio q: good</unittitle></did></c02><c02 id="aspace_3dc94dced211d3c17287a2a60264d2aa" level="item"><did><unittitle>CL96-9.15
+
+ 10" cored
+
+ Ots 3 Day
+
+ color outtakes
+
+ (goes with Ots 3 Day 2-26 OT 3 Day)
+
+ -talking, singing outtakes
+
+ -discussion of birth control (some of the images are reversed)
+
+ -also Ots 2 Day Beg Part/@ 29'35"
+
+ visual q: good
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_bea267f9e5189013b539037282289c00" level="item"><did><unittitle>CL96-9.16
+
+ 12" reeled
+
+ MOS #17
+
+ soundtrack reel to reel
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_1064ab097da50fbc78dbaf6b05c7ccb5" level="item"><did><unittitle>CL96-9.17.1
+
+ 15" reeled
+
+ R 22-23-24 HDS NBWHP
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_7c880c61b09d779481d05a5295856472" level="item"><did><unittitle>CL96-9.17.2
+
+ 15" reeled
+
+ R-1 &amp; 2 - 12-16-86
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_e9b5de8b4ed65edab8da617cdafcb580" level="item"><did><unittitle>CL96-9.18.1
+
+ 15" reeled
+
+ 28, 29, 30 8-16-85
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_acdcc787d896d328a4cc66dc8c5451f2" level="item"><did><unittitle>CL96-9.18.2
+
+ 15" reeled
+
+ Day #3 Part II (?)
+
+ super scenes for IP/Dupe Neg
+
+ Title roll to come later
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_30402b53a34553cd9421b339c9cb7c3e" level="item"><did><unittitle>CL96-9.19.1
+
+ 7" cored
+
+ Misc. container #1
+
+ TAIL Super Title Roll A-wind Hi-con 4-28-87
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_7676c3d89d0a303813c6ec1667dcff42" level="item"><did><unittitle>CL96-9.19.2
+
+ 7" cored
+
+ Misc. container #1
+
+ IP - 4-27-87 TLS
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_d404a31a743a448fd65bb82abe6d44f3" level="item"><did><unittitle>CL96-9.19.3
+
+ 7" cored
+
+ Misc. container #1
+
+ TAIL A-ROLL ORIG. NEG.
+
+ SUPER SCENES FOR IP/DUPE NEG.
+
+ Day 3 Part II
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_71e238baf7dc0c2fa637433d1588642f" level="item"><did><unittitle>CL96-9.19.3
+
+ 7" cored
+
+ Misc. container #1
+
+ TAIL A-ROLL ORIG. NEG.
+
+ SUPER SCENES FOR IP/DUPE NEG.
+
+ Day 3 Part II
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_1ffd8810be1715b5bf90ae2018632e61" level="item"><did><unittitle>CL96-9.20.1
+
+ 7" cored
+
+ Misc. container #2
+
+ TAIL R 1&amp;2 ORIG NEG.
+
+ (stickers on film top)
+
+ I/C 143 7826-7949
+
+ I/C 143 7660-7816
+
+ I/C 143 animation 7959 Reshoot - 8015
+
+ 40) C/Z 701 0151-0418
+
+ 41) C/Z 701 0428-0591 animation
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_1a9f89d39ad97c151fefa3087781e31b" level="item"><did><unittitle>CL96-9.20.2
+
+ 7" cored
+
+ Misc. container #2
+
+ CINETRON - NBW HEALTH 4300 4-29-87 TCS
+
+ (stickers on top of core:) A-wind supers-Hi-con and B-wind Neg. Crawl Title
+
+ -OUTS FREEZE FRAMES
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_981f2dac9cf42d438b695ea6589ccd4d" level="item"><did><unittitle>CL96-9.20.3
+
+ 7" cored
+
+ Misc. container #2
+
+ NO I.D.
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_c43ea9168d9fc4ed48f97549996515f5" level="item"><did><unittitle>CL96-9.20.4
+
+ 7" cored
+
+ Misc. container #2
+
+ NO I.D.
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02><c02 id="aspace_a4ebb073f1ef310757e195a2abc4d139" level="item"><did><unittitle>CL96-9.21
+
+ 12" cored
+
+ NO I.D.
+
+ visual q: unk
+
+ audio q: unk</unittitle></did></c02></c01></dsc>
+</archdesc>
+</ead>

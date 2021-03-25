@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">VAC1090</eadid><filedesc><titlestmt><titleproper>Alile Sharon Larkin Collection, <date normal="1979/1982">1979-1982</date> <num>Special Collection ASL</num></titleproper><subtitle>A Guide to her Holdings at the Black Film Center/Archive</subtitle><author>Finding aid prepared by Mary Huelsbeck/Hannah Caproon/Gabriel Gardner</author></titlestmt><publicationstmt><publisher>Test - Black Film Center/Archive</publisher><p><date>ÂŠ 2011</date></p><address><addressline>1320 East Tenth Street</addressline><addressline>Herman B Wells Library, Room 044</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>bfca@indiana.edu</addressline><addressline>URL: <extptr xlink:href="https://bfca.sitehost.iu.edu" xlink:show="new" xlink:title="https://bfca.sitehost.iu.edu" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2011">ÂŠ 2011</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2020-07-02 04:01:08 -0400</date>.</creation><langusage>Description is in English.</langusage></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Test - Black Film Center/Archive</corpname>
+    </repository>
+    <unittitle>Alile Sharon Larkin Collection</unittitle>
+    <origination audience="internal" label="Creator">
+      <corpname source="lcnaf">Alile Sharon Larkin</corpname>
+    </origination>
+    <unitid>Special Collection ASL</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">13 canisters</extent>
+    </physdesc>
+    <unitdate normal="1979/1982" type="inclusive">1979-1982</unitdate>
+    <unitdate normal="1992/1992">1992</unitdate>
+    <unitdate normal="1999/1999">1999</unitdate>
+    <abstract id="aspace_7cfa3b1628a1e9cbf599fba85081b230">Consists of two films directed by Sharon Larkin.</abstract>
+    <langmaterial id="aspace_3c495da2edd5a00a9845d117b40db62c">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict id="aspace_61cbb6eb69de887aa35f29379bea0751">
+    <head>Access Restrictions</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <bioghist id="aspace_bd5ed76545b2be7c016180ef2fd952cb">
+    <head>Biographical Note</head>
+<p>Alile Sharon Larkin is an artist-educator and award-winning independent film and videomaker. Larkin believes the arts and education are powerful tools for social change and justice. Larkin consistently addresses issues of race and class in her work.</p><p> Larkin's teaching experience ranges from pre-K to college (Social Science and the Arts--Mount St. Mary's graduate education course for teachers).</p><p> By combining her multiple subject elementary teaching credential with her M.F.A. in Film Production, Larkin designs and implements multicultural, arts-based, experimental learning across the curriculum.</p><p> Larkin has been a public school teacher for the Los Angeles Unified School District for over 20 years. She has taught at 32nd St/USC Visual and Performing Arts Magnet School since <unitdate normal="1992">1992</unitdate>.</p><p> Filmmaking is an integral part of her interdisciplinary curriculum. <emph render="italic">Dreadlocks and the Three Bears</emph> celebrates "kinky curly nappy hair," collage art, and folk tales. Larkin received an AFI Independent Filmmaker Grant for <emph render="italic">Mz Medusa</emph>, a half-hour narrative film based on a student's negative hair remark. <emph render="italic">Mz Medusa</emph> was made in Larkin's fourth grade class as part of that year's curriculum through the combined efforts and talents of students, parents, administration, and professional film crew. It reexamined ancient Greek/African connections. <emph render="italic">Mz Medusa</emph> was reviewed in BFCA's <emph render="italic">Black Camera</emph> in Spring/Summer <unitdate normal="1999">1999</unitdate>.</p><p> Larkin has received eight VIC Awards (Video in the Classroom) LAUSD/KLCS-TV/DT for teacher produced short films which document student learning of textile arts (tie-dye), storytelling, yoga, jazz, women's history, Kwanzaa, and African/African-American dance.</p><p> Larkin's screenplay "A Different Image" is published in <emph render="italic">Screenplays of the African-American Experience</emph>, edited by Dr. Phyllis Klotman (Indiana University Press). Her critical essay, "Black Women Filmmakers Defining Ourselves" is published in <emph render="italic">Female Spectators</emph>, edited by E. Diedre Pribram (Verso Editions, London). Larkin's critical essay "Cinematic Genocide," first presented at Norfolk State University, has been partially published in the BFCA's <emph render="italic">Black Camera</emph>.</p><p> Larkin's current artistic passions include turning her unproduced feature screenplays into graphic novels, publishing and animating her unpublished picture books, and fully animating <emph render="italic">Dreadlocks and the Three Bears</emph>. Larkin remains most passionate about her greatest gift, which is nurturing and educating children artists.</p>  </bioghist>
+  <scopecontent id="aspace_be75adde7f393b6a3de9bbc7b253e66a">
+    <head>Scope and Content Note</head>
+<p>The Sharon Larkin Collection currently consists of two films. Both of these films are represented in 16mm format. For simplicity, these films have been grouped into a series devoted to Larkin's 16mm films. From there, the collection has been subdivided by the individual titles. Within each subseries is a listing of the canister numbers corresponding to the specific reels of film that comprise each film.</p>  </scopecontent>
+  <acqinfo id="aspace_209503bf63964e4763a408a9c15f8969">
+    <head>Acquisition Information</head>
+<p>The collection was deposited in January 2003.</p>  </acqinfo>
+  <userestrict id="aspace_99b8e99a243d8f485bcbde134e54c584">
+    <head>Usage Restrictions</head>
+<p>Photocopying permitted only with permission of the Archivist.</p>  </userestrict>
+  <prefercite id="aspace_a2530258e1566de020c26ea296eeb578">
+    <head>Preferred Citation</head>
+<p>[item], Alile Sharon Larkin Collection, Special Collection ASL, Black Film Center/Archive, Indiana University, Bloomington.</p>  </prefercite>
+  <processinfo id="aspace_26bd10610f183ea18b150a4f4b654110">
+    <head>Processing Information</head>
+<p>Processed by BFC/A staff.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcnaf">African American actors.</subject>
+    <subject source="lcnaf">Independent filmmakers--United States.</subject>
+    <persname audience="internal" source="lcnaf">Larkin, Alile Sharon.</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_f21589fa20a06e15f1bee34fa335ced9" level="series"><did><unittitle>16mm Films</unittitle></did><c02 id="aspace_c68dc38fdd0ddaf4bbc50e074d134253" level="subseries"><did><unittitle><emph render="italic">A Different Image</emph> - Dir. Sharon Larkin,</unittitle><unitdate normal="1982/1982">1982</unitdate></did><c03 id="aspace_ebbe9e8687d8ae4bb4ed3f8423afb086" level="item"><did><unittitle>Canister 1 -- Master - Fine Grain.</unittitle></did></c03><c03 id="aspace_8df701964bf352a12d575568c642ef64" level="item"><did><unittitle>Canister 2 -- Original Negatives - Reel 1 - A Roll</unittitle></did></c03><c03 id="aspace_0cb423724a5f348e2e472d38fa3f15c2" level="item"><did><unittitle>Canister 3 -- Original Negatives - Reel 1 - B Roll</unittitle></did></c03><c03 id="aspace_11f510db73b1ac32d9cff629dda2aa27" level="item"><did><unittitle>Canister 4 -- Original Negatives - Reel 2 - A Roll</unittitle></did></c03><c03 id="aspace_4d695646ea039627570c2bd9d558364a" level="item"><did><unittitle>Canister 5 -- Original Negatives - Reel 2 - B Roll</unittitle></did></c03><c03 id="aspace_26e23f39a5cd6e4274ae8f5d90b99dd0" level="item"><did><unittitle>Canister 6 -- Mag Track (Sound) - A Roll</unittitle></did></c03><c03 id="aspace_f78ccd558a5279327251c4f7eab72e57" level="item"><did><unittitle>Canister 7 -- Mag Track (Sound) - B Roll</unittitle></did></c03></c02><c02 id="aspace_92f70b1a9e27b8a813e5be9e61806914" level="subseries"><did><unittitle><emph render="italic">Your Children Come Back To You</emph> - Dir. Sharon Larkin,</unittitle><unitdate normal="1979/1979">1979</unitdate></did><c03 id="aspace_6f6305749b704bbcf66c97b08630e445" level="item"><did><unittitle>Canister 8 -- Original Negatives - A Roll</unittitle></did></c03><c03 id="aspace_e70a73b5d5cf5ad5b3ee91c9f80e083f" level="item"><did><unittitle>Canister 9 -- Original Negatives - B Roll</unittitle></did></c03><c03 id="aspace_4dc97bdc79036aebfdf415a2a806a98e" level="item"><did><unittitle>Canister 10 -- Duplicate Negatives - A Roll</unittitle></did></c03><c03 id="aspace_547f30955d3a8593fd34eb35d47316e5" level="item"><did><unittitle>Canister 11 -- Duplicate Negatives - B Roll</unittitle></did></c03><c03 id="aspace_f4328d237d353c9918ffe9cc80a85527" level="item"><did><unittitle>Canister 12 -- "Electroprint" (Soundtrack) - A Roll</unittitle></did></c03><c03 id="aspace_ec3fae43c6c14dfabdbcf746e4d425aa" level="item"><did><unittitle>Canister 13 -- "Electroprint" (Soundtrack) - B Roll</unittitle></did></c03></c02></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" mainagencycode="US-InU">InU-Ar-VAD7490</eadid><filedesc><titlestmt><titleproper>John D. Alexander papers, <date normal="1862/1959">1862-1959</date> <num>C623</num></titleproper><subtitle>A Guide to his Papers</subtitle><author>Finding aid prepared by Katie Martin</author></titlestmt><publicationstmt><publisher>Indiana University Archives</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="http://webapp1.dlib.indiana.edu/archivesOnline/repositoryImages/archives.jpg" xlink:show="embed" xlink:type="simple"/></p><p><date>© 2016</date></p><address><addressline>Herman B Wells Library E460</addressline><addressline>1320 East Tenth Street</addressline><addressline>Bloomington, Indiana 47405-7000</addressline><addressline>archives@indiana.edu</addressline><addressline>URL: <extptr xlink:href="http://www.libraries.iub.edu/archives" xlink:show="new" xlink:title="http://www.libraries.iub.edu/archives" xlink:type="simple"/></addressline></address></publicationstmt><notestmt><note><p><date normal="2016">© 2016</date> Trustees of Indiana University. All rights reserved.</p></note></notestmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-02-04 05:04:15 -0500</date>.</creation><langusage>Description is in English.</langusage></profiledesc><revisiondesc><change audience="internal"><date>July 7, 2016</date><item>Finding aid started.</item></change><change audience="internal"><date>April 11, 2017</date><item>Finding aid updated</item></change><change audience="internal"><date>May 4, 2017</date><item>Added containers. Elizabeth Peters.</item></change><change audience="internal"><date>November 16, 2017</date><item>Batch update to change repository name, subject links, preferred citation, and user restrictions.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Indiana University Archives</corpname>
+    </repository>
+    <unittitle>John D. Alexander papers</unittitle>
+    <origination audience="internal" label="Creator">
+      <persname source="lcnaf">Alexander, John D (John David)</persname>
+    </origination>
+    <unitid>C623</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.6 cubic feet</extent>
+      <extent altrender="carrier">4 boxes</extent>
+    </physdesc>
+    <unitdate normal="1862/1959" type="inclusive">1862-1959</unitdate>
+    <unitdate normal="1862/1931" type="bulk">1862-1931</unitdate>
+    <abstract id="aspace_b13b23b9cdc358d8f72b7591a8a83d04">John D. Alexander was born on February 6, 1839 in Bloomington, Indiana. He graduated from Indiana University in 1861 and served in the Union Army from 1862-1865. He practiced law in Bedford and Bloomfield, Indiana between 1867 and 1911. He also served as the Prosecuting Attorney of the Fourteenth and Fifteenth Judicial Circuits as well as the Greene County Representative in the Indiana General Assembly. The collection consists of letters from the battlefield, family photographs, news clippings, a scrapbook, military artifacts, and notes pertaining to the Dunn and Alexander family history.</abstract>
+    <langmaterial id="aspace_275d53ee44bb1f110adab1c9c9a39fb8">Materials are in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <acqinfo id="aspace_819834f46eff9859495510f894a197f0">
+    <head>Acquisition Information</head>
+<p>Accession Information: 2015/109, 2017/059</p>  </acqinfo>
+  <accessrestrict id="aspace_64e74af59e424a81fe71ab14d66022a4">
+    <head>Access Restrictions</head>
+<p>Collection is open for research. Advance notice required.</p>  </accessrestrict>
+  <bioghist id="aspace_dcce9eb1c816cfae044b2d77473082c6">
+    <head>Biographical Note</head>
+<p>Born in Bloomington, Indiana on February 6, 1839, John D. Alexander earned A. B. and A.M. degrees from Indiana University studying Greek, Latin and higher mathematics. He graduated in 1861. While at IU, he was highly involved in the Beta Theta Pi fraternity. Following graduation, he taught school for one year and then enlisted as a private in Company E 97th Regiment of the Indiana Volunteers in August 1862. In March 1864, he was placed in command of Company D of the same regiment until he was wounded in his right hip at the Battle of Kennesaw Mountain in Georgia on June 27, 1864. He recovered and returned to his company in October in time to march with Sherman's army to the sea. In December 1864, he received a commission of Captain of Company D and in April 1865 he was appointed Acting Assistant Inspector General of the Second Brigade by General John A. Logan in Goldsboro, North Carolina. He was engaged in battles at Vicksburg, Resaca, Missionary Ridge and Lookout Mountain, New Hope Church, Lost Mountain, Jonesboro, Kennesaw Mountain, Griswoldville, Savannah, Columbia, and Bentonville. He published a <title render="doublequote">History of the Ninety-seventh Regiment of Indiana Volunteer Infantry </title>in <date normal="1891">1891</date>: </p><p> <extref xlink:href="https://archive.org/details/historyofninetysalex"/>.</p><p>  Following the war, Alexander initially returned to Indiana but then enrolled in law school at the University of Michigan in the fall and winter of 1865 and 1866. Following graduation, he formed a law practice with Moses F. Dunn in Bedford, Indiana but in 1867 he moved to Bloomfield, Indiana to practice. In September 1880, he was elected a ruling elder in the Cumberland Presbyterian Church and in 1886 he was chosen as a Trustee of Lincoln University in Illinois, which fell under control of the Cumberland Presbyterian Church. He was elected to serve as the Prosecuting Attorney of the Fourteenth and Fifteenth Judicial Circuits in 1880 and was reelected in 1882. In October 1886, Alexander was elected to represent Greene County in the lower house of the legislature.</p><p>  Alexander married Mary M. Rogers of Bloomington, Indiana on December 8, 1886 and in 1892 he rejoined the Hon. Moses F. Dunn in Bedford to practice law. In 1883, he became a member of Lovell H. Rousseau Post No. 326, of Bloomfield, Department of Indiana Grand Army of the Republic. He was transferred from his Grand Army Post at Bloomfield to E. C. Newland Post, No. 247, a membership he maintained until his death. </p><p> John D. Alexander retired from law in 1911 and was the oldest living graduate of Indiana University prior to his death on February 27, 1931.</p>  </bioghist>
+  <arrangement id="aspace_69642e23fd4655ad09dcd0538e4a05a4">
+    <head>Arrangement</head>
+<p>Collection is organized into three series: Papers and Correspondence, 1863-1959; Scrapbook, 1907-1931; and Military artifacts, circa 1862-1870s.</p>  </arrangement>
+  <scopecontent id="aspace_7ae36d9d231e758fba50c8f6cc620139">
+    <head>Scope and Content Note</head>
+<p>The John D. Alexander papers are organized into three series: Papers and Correspondence, 1863-1959, Scrapbook, 1907-1931, and Military artifacts, circa 1862-1970s. </p><p> The Papers and Correspondence, 1863-1865 series contains personal correspondence, news clippings, and family history materials. The highlight of the series is letters Alexander sent home to his parents while serving in the 97th Regiment, Indiana Infantry during the Civil War between 1862 and 1865. The letters include firsthand accounts of Sherman's March to the Sea from November to December 1865 as well as the Carolina Campaign from February to April 1865. The letters contain details of Alexander's promotions, daily life in the field, his responsibilities as Captain, and movements of the 97th Regiment, as well as descriptions of General Joseph E. Johnston's surrender in North Carolina, the Battle of Griswoldville, and the Battle of Bentonville, N.C. The series also contains "Recollections of Indiana University, 1856-1861," a letter addressed to Frank H. Levell, Editor of the "Indiana Alumnus" in 1921. In this typewritten letter, Alexander describes university buildings, campus life during the Civil War, and campus pranks. The letter also includes details about fraternities and literary societies, the Alumni Banquet, commencement, and information about the class of 1861. Alexander's family photographs, taken between 1883 and 1930, are also in the collection. Additionally, this series has several news clippings related to the life of John D. Alexander from the 1920s. There is also a typewritten transcription of various newspaper articles that feature Alexander. These articles appeared in The Bloomfield News as well as The Indianapolis Star in 1931. Alexander's detailed obituary is included in this typewritten transcription. The collection also contains notes describing the history of the Alexander and Dunn families. </p><p>  Alexander's scrapbook (1907-1931) contains newspaper clippings related to Alexander's life, the Grand Army of the Republic, and Civil War veterans and commemorations. The scrapbook also contained loose biographical materials that have been transferred to separate folders for preservation purposes. These documents are mainly biographical in nature, including short, autobiographical accounts and family history documents. </p><p>  The Military artifacts series contains Chevalier Paris binoculars, Alexander's Union Army Captain sword, and his post-Civil War infantry captain's shoulder insignia.</p>  </scopecontent>
+  <separatedmaterial id="aspace_be98ef6c6af8840dab7f1f9279397411">
+    <head>Separated Material</head>
+<p>Several books from Alexander's library sent to the Lilly Library.</p>
+         <p>
+            <emph render="bold"/>Photographs Pulled</p>
+         <list type="simple">
+            <defitem>
+               <label/>
+               <item>J. Hitchcock and wife Mary their house Captain J. D. Alexander W.J. Sexson
+                        and wife Nancy 1928</item>
+            </defitem>
+            <defitem>
+               <label/>
+               <item>J. D. Alexander taken at home of Mr. &amp; Mrs. Acuff (sp?) at
+                        Bloomington, Ind. June 1929 by Mrs. Whiford of Huntington, Ind. address 646
+                        Byron, St.</item>
+            </defitem>
+            <defitem>
+               <label/>
+               <item>R-L Mary Sexson Captain J.D. Alexander and his pet chicken at home Sexson
+                        Spring 1915 or 16</item>
+            </defitem>
+            <defitem>
+               <label/>
+               <item> Captain J. D. Alexander 1916 at home Sexson Spring</item>
+            </defitem>
+            <defitem>
+               <label/>
+               <item> Five generations: 1. John D. Alexander 91 yrs; 2. John D. Sexson; 3. Mrs.
+                        Josie (sp?) Sexson Winters; 4. Karl Winters; 5. Karl's baby; Picture taken
+                        at Sexson Spring August 1930</item>
+            </defitem>
+            <defitem>
+               <label/>
+               <item>Christia Nigh, Uncle Isenogel (sp?), Uncle John Alexander, Lois Isenogle,
+                        1927</item>
+            </defitem>
+            <defitem>
+               <label/>
+               <item>Captain Alexander at (?) 1918 Sexson Spring John David Faulke and wife of
+                        Danville, Ill. and John David Alexander at Sexson Spring August 23,
+                        1930</item>
+            </defitem>
+            <defitem>
+               <label/>
+               <item>Will Sexson &amp; wife; Captain Alexander 1918 or 1919 during World War
+                        pulling white beans up or under 40 west of Sexson Spring ½ mile</item>
+            </defitem>
+            <defitem>
+               <label/>
+               <item>Mary Sexson and father Will Sexson; Captain J. H. Alexander &amp; Horses
+                        Frank &amp; Betty hauling beans from Capt. 40 during World War</item>
+            </defitem>
+            <defitem>
+               <label/>
+               <item> John David Faulke and wife of Danville, Illinois and John David (?) taken
+                        at Sexson Spring, August 23, 1930</item>
+            </defitem>
+            <defitem>
+               <label/>
+               <item> Joy Ride Property of Mrs. Ermel Lewis 3933 Washington Ave., Bedford,
+                        Indiana, undated</item>
+            </defitem>
+            <defitem>
+               <label/>
+               <item>Grandma Alexander died in Bloomfield 1883</item>
+            </defitem>
+            <defitem>
+               <label/>
+               <item>John D. Alexander &amp; Mary M. Alexander his wife, undated</item>
+            </defitem>
+            <defitem>
+               <label/>
+               <item>Alexander headstone, undated</item>
+            </defitem>
+            <defitem>
+               <label/>
+               <item> Mary Maxwell Alexander Sexson wife of Lemuel Boone Sexson and sister of
+                        John D. Alexander who was a captain in the Civil War - he was uncle to Mary
+                        Sexson Hitchcock. Uncle John was a member of the first graduating class of
+                        Indiana University. He graduated as an attorney, undated</item>
+            </defitem>
+            <defitem>
+               <label/>
+               <item> Capt. John D. Alexander mother, undated</item>
+            </defitem>
+            <defitem>
+               <label/>
+               <item> 7 photographs of family gravestones - Dunn, Alexander, Irvin and 3
+                        photographs of hillsides, undated </item>
+            </defitem>
+         </list>  </separatedmaterial>
+  <relatedmaterial id="aspace_60ebb491cd2a7b2431e765c500c756f5">
+    <head>Related Material</head>
+<p>Related photographs may be available in the University Archives Photographs Database: <extref xlink:href="http://webapp1.dlib.indiana.edu/archivesphotos/">http://webapp1.dlib.indiana.edu/archivesphotos/</extref></p>  </relatedmaterial>
+  <acqinfo id="aspace_aca49bcd6931ab82489b44a19454f3a9">
+    <head>Acquisition Information</head>
+<p>2015/109</p>  </acqinfo>
+  <userestrict id="aspace_332d94a9c713c80e7e9b2a819e659ba9">
+    <head>Usage Restrictions</head>
+<p>This collection contains materials both in copyright and in the public domain.</p><p> The donor(s) of this collection have transferred their copyrights for the materials to the Trustees of Indiana University through a Deed of Gift. For more information, please contact the Indiana University Archives staff.</p><p> The Indiana University Archives respects the intellectual property rights of others and does not claim any copyrights for non-university records, materials in the public domain, or materials for which we do not hold a Deed of Gift. Responsibility for the determination of the copyright status of these materials rests with those persons wishing to reuse the materials. Researchers are responsible for securing permission from copyright owners and any other rights holders for any reuse of these materials that extends beyond fair use or other statutory limitations.</p><p> Digital reproductions of archival materials from the Indiana University Archives are made available for noncommercial educational and research purposes only. If you are the copyright holder for any of the digitized materials and have questions about its inclusion on our site, please contact the Indiana University Archivist.</p>  </userestrict>
+  <prefercite id="aspace_64fd1f7fb2c1404b6ae1bfbe70f55303">
+    <head>Preferred Citation</head>
+<p>[Item], John D. Alexander papers, Collection C623, Indiana University Archives, Bloomington.</p>  </prefercite>
+  <custodhist id="aspace_dad36ea42a5b8cc95444e1abeeff88a3">
+    <head>Provenance</head>
+<p>Materials in the Papers and Correspondence series were transferred by Cora Thomas in August 2015. </p><p> Scrapbook and military artifacts donated by Dennis and Patricia Wright in April 2017.</p>  </custodhist>
+  <processinfo id="aspace_7c3fceeaa33c0d40ca1ec6a2b1522e66">
+    <head>Processing Information</head>
+<p>Processed by Katie Martin.</p><p> Completed in <date normal="2016">2016</date> </p><p> Updated in <date normal="2017">2017</date></p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Indiana University--Alumni and alumnae--History--Sources.</subject>
+    <subject authfilenumber="sh2008112029" source="lcsh">Soldiers--United States--Correspondence</subject>
+    <subject source="lcsh">Sherman's March to the Sea--Personal narratives.</subject>
+    <subject source="lcsh">Sherman's March through the Carolinas--Personal narratives.</subject>
+    <subject source="lcsh">Griswoldville, Battle of, Griswoldville, Ga., 1864--Personal narratives.</subject>
+    <subject source="lcsh">Bentonville, Battle of, Bentonville, N.C., 1865--Personal narratives.</subject>
+    <subject source="lcsh">United States--History--Civil War, 1861-1865--Biography.</subject>
+    <persname audience="internal" source="lcnaf">Alexander, John D. (John David), 1839-1931--Archives.</persname>
+    <persname audience="internal" source="lcnaf">Alexander, John D. (John David), 1839-1931--Correspondence.</persname>
+  </controlaccess>
+  <dsc><c01 id="aspace_VAD7490-00029" level="series"><did><unittitle>Papers and Correspondence</unittitle><unitdate normal="1863/1959" type="inclusive">1863-1959</unitdate><container id="aspace_e4d5432f29dc8c60c8be5dc58ff860b6" label="box" type="box">1</container></did><c02 id="aspace_VAD7490-00002" level="file"><did><unittitle>Annual Women's Club Address by Mary Alexander</unittitle><unitdate normal="1863/1900" type="inclusive">undated</unitdate><container id="aspace_1b91f03152a71098f5a3e05146c2dfb7" label="box" type="box">1</container></did></c02><c02 id="aspace_VAD7490-00004" level="file"><did><unittitle>Civil War Letter</unittitle><container id="aspace_3d066d03debee95a7e6dedb03ed5e2d4" label="box" type="box">1</container></did><c03 id="aspace_VAD7490-00005" level="file"><did><unittitle>La Grange, Tennessee</unittitle><unitdate normal="1863-03-05/1863-03-05">March 5, 1863</unitdate><container id="aspace_e32bd9e20f0a8133cc6003040924a2c3" label="box" type="box">1</container></did></c03><c03 id="aspace_VAD7490-00006" level="file"><did><unitdate normal="1863-03-05/1863-03-05">March 22, 1863</unitdate><container id="aspace_0fb3ddf9f0ca93ba4cfa608492f29127" label="box" type="box">1</container></did></c03><c03 id="aspace_VAD7490-00007" level="file"><did><unittitle>Scottsboro, Alabama</unittitle><unitdate normal="1864-03-24/1864-03-24">March 24, 1864</unitdate><container id="aspace_6e0f448c8f9d7bb5fc82dac8b8cb86bb" label="box" type="box">1</container></did></c03><c03 id="aspace_VAD7490-00028" level="item"><did><unittitle>Big Shanty, Georgia</unittitle><unitdate normal="1864-06-12/1864-06-12">June 12, 1864</unitdate><container id="aspace_1844d1805a4557c2c1d59b9cb836295b" label="box" type="box">1</container></did><odd id="aspace_19125bf886958722fa4061795184d4ed"><head>General</head><p>(Typewritten transcription; location of original unknown.)</p></odd></c03><c03 id="aspace_VAD7490-00008" level="file"><did><unittitle>Georgia</unittitle><unitdate normal="1864-06-20/1864-06-20">June 20, 1864</unitdate><container id="aspace_5d02ad605abfa2205479e2657e852dd9" label="box" type="box">1</container></did></c03><c03 id="aspace_VAD7490-00009" level="file"><did><unittitle>Camp Anderson, Georgia</unittitle><unitdate normal="1864-12-18/1864-12-18">December 18, 1864</unitdate><container id="aspace_42713a2e2a3a1d057bddd230f0e1ab38" label="box" type="box">1</container></did></c03><c03 id="aspace_VAD7490-00010" level="file"><did><unittitle>Goldsboro, North Carolina</unittitle><unitdate normal="1865-03-27/1865-03-27">March 27, 1865</unitdate><container id="aspace_d5f060d14f1a44232ad251bc161e4e13" label="box" type="box">1</container></did></c03><c03 id="aspace_VAD7490-00011" level="file"><did><unitdate normal="1865-03-28/1865-03-28">March 28, 1865</unitdate><container id="aspace_78e44fd8aa8fb66f982e8eb2c6351959" label="box" type="box">1</container></did></c03><c03 id="aspace_VAD7490-00012" level="file"><did><unittitle>Goldsboro, North Carolina</unittitle><unitdate normal="1865-03-29/1865-03-29">March 29, 1865</unitdate><container id="aspace_80651fa1930f8d0017f0f83292bc86c8" label="box" type="box">1</container></did></c03><c03 id="aspace_VAD7490-00013" level="file"><did><unittitle>Goldsboro, North Carolina</unittitle><unitdate normal="1865-04-02/1865-04-02">April 2, 1865</unitdate><container id="aspace_d55b41fd99acc043bde42cf3cff7664f" label="box" type="box">1</container></did></c03><c03 id="aspace_VAD7490-00014" level="file"><did><unittitle>Goldsboro, North Carolina</unittitle><unitdate normal="1865-04-06/1865-04-06">April 6, 1865</unitdate><container id="aspace_7830a3aade5fd44efa866d70bd3f035f" label="box" type="box">1</container></did></c03><c03 id="aspace_VAD7490-00015" level="file"><did><unittitle>Goldsboro, North Carolina</unittitle><unitdate normal="1865-04-18/1865-04-18">April 18, 1865</unitdate><container id="aspace_35c656da09be5fce774f6dd82d3fc76c" label="box" type="box">1</container></did></c03><c03 id="aspace_VAD7490-00016" level="file"><did><unittitle>Petersburg, Virginia</unittitle><unitdate normal="1865-05-07/1865-05-07">May 7, 1865</unitdate><container id="aspace_29d3ac8326828141c798e5da5a3b77f1" label="box" type="box">1</container></did></c03><c03 id="aspace_VAD7490-00017" level="file"><did><unittitle>Letter fragment</unittitle><unitdate normal="1863/1865" type="inclusive">circa 1863-1865</unitdate><container id="aspace_de3561015ec40e778312f89b629e0dd2" label="box" type="box">1</container></did></c03></c02><c02 id="aspace_VAD7490-00018" level="file"><did><unittitle>Family Correspondence</unittitle><unitdate normal="1959/1959">1959</unitdate><container id="aspace_3d7eecd01dc607be3b7ae8a8efade75e" label="box" type="box">1</container></did></c02><c02 id="aspace_VAD7490-00019" level="file"><did><unittitle>Family history notes</unittitle><unitdate normal="1862/1959" type="inclusive">undated</unitdate><container id="aspace_e4d5045ee34c72690bb39d6516469ea7" label="box" type="box">1</container></did></c02><c02 id="aspace_VAD7490-00020" level="file"><did><unittitle>Guthrie postcard</unittitle><unitdate normal="1905/1905">1905</unitdate><container id="aspace_fc7257b5eb35ad3282d21428e04447f0" label="box" type="box">1</container></did></c02><c02 id="aspace_VAD7490-00021" level="file"><did><unittitle><emph render="italic">The Holly and the Fir</emph> (with inscription)</unittitle><unitdate normal="1905/1905">1905</unitdate><container id="aspace_c15cdd75818c419d6652f2c6506a44a3" label="box" type="box">1</container></did></c02><c02 id="aspace_VAD7490-00022" level="file"><did><unittitle>Indiana University Law Department Commencement Invitation</unittitle><unitdate normal="1912/1912">1912</unitdate><container id="aspace_28f1132fbbdab09883c2c08ded507849" label="box" type="box">1</container></did></c02><c02 id="aspace_VAD7490-00023" level="file"><did><unittitle>John D. Alexander identification fob</unittitle><unitdate normal="1862/1931" type="inclusive">undated</unitdate><container id="aspace_a169c78946cb08bb2f0ba5f687c150a6" label="box" type="box">1</container></did></c02><c02 id="aspace_VAD7490-00024" level="file"><did><unittitle>List of Officers and Privates of United States Rangers commanded by Williamson Dunn 1813</unittitle><unitdate normal="1862/1931" type="inclusive">undated</unitdate><container id="aspace_788f672f9054c2fd39969f6b2439d396" label="box" type="box">1</container></did></c02><c02 id="aspace_VAD7490-00025" level="file"><did><unittitle>Obituary of John D. Alexander from the <emph render="italic"> Bloomfield News</emph> and the <emph render="italic">Indianapolis Star</emph></unittitle><unitdate normal="1931/1931">circa 1931</unitdate><container id="aspace_49f340c78246b8c1d2171481dbdd6fba" label="box" type="box">1</container></did></c02><c02 id="aspace_VAD7490-00026" level="file"><did><unittitle>News Clippings</unittitle><unitdate normal="1862/1931" type="inclusive">undated</unitdate><container id="aspace_ef61763cc2f42cd40b26d9628fc933aa" label="box" type="box">1</container></did></c02><c02 id="aspace_VAD7490-00027" level="file"><did><unittitle><emph render="doublequote">Recollections of Indiana University, 1856-1861</emph></unittitle><unitdate normal="1862/1931" type="inclusive">undated</unitdate><container id="aspace_611e8d02727e35b34a838465ea3108a6" label="box" type="box">1</container></did></c02></c01><c01 id="aspace_VAD7490-00030" level="series"><did><unittitle>Scrapbook</unittitle><unitdate normal="1907/1931" type="inclusive">1907-1931</unitdate></did><processinfo id="aspace_eefaca4ba106c09d858381179cbcfeae"><head>Processing note</head><p>Loose documents that were stored within the scrapbook have been removed for preservation purposes and are stored in separate folders (itemized in the folder list).</p></processinfo><c02 id="aspace_VAD7490-00031" level="file"><did><unittitle>Scrapbook</unittitle><unitdate normal="1907/1931" type="inclusive">1907-1931</unitdate><container id="aspace_f98e1691d848f0e06423ab69c6026799" label="box" type="box">2</container></did></c02><c02 id="aspace_VAD7490-00032" level="file"><did><unittitle>Removed from scrapbook</unittitle><container id="aspace_6b8660b5867e76db32fae280615026a9" label="box" type="box">1</container></did><c03 id="aspace_VAD7490-00033" level="file"><did><unittitle>44th IU Commencement Program</unittitle><unitdate normal="1873-07-03/1873-07-03">July 3, 1873</unitdate><container id="aspace_c615d331e07548d47302056cd09d5086" label="box" type="box">1</container></did></c03><c03 id="aspace_VAD7490-00034" level="file"><did><unittitle>Alexander's research into George Washington's love affairs</unittitle><unitdate normal="1862/1931" type="inclusive">undated</unitdate><container id="aspace_f509e32d7130ef04d7d786ce1052b0f3" label="box" type="box">1</container></did></c03><c03 id="aspace_VAD7490-00035" level="file"><did><unittitle>History of the Life of John D. Alexander written by John D. Alexander</unittitle><unitdate normal="1910-11-07/1910-11-07">November 7, 1910</unitdate><container id="aspace_043cb5700d1d6738171a2df584b0ef2b" label="box" type="box">1</container></did></c03><c03 id="aspace_VAD7490-00036" level="file"><did><unittitle>Letter to Dennis, Margaret, and John Alexander Brandon</unittitle><unitdate normal="1917-03-17/1917-03-17">March 17, 1917</unitdate><container id="aspace_1e24e2a35038f5501d5cfcee5717909c" label="box" type="box">1</container></did></c03><c03 id="aspace_VAD7490-00037" level="file"><did><unittitle>Family record (removed from bible?)</unittitle><unitdate normal="1886/1931" type="inclusive">1886-1931</unitdate><container id="aspace_befe67703fbbce66e8db7d0f6e5e01c7" label="box" type="box">1</container></did><scopecontent id="aspace_5bfd6d40a22255f200d86d89ca43adfc"><head>Scope and Content Note</head><p>Documents the marriage of John D. Alexander and Mary M. Rogers, as well as numerous births and deaths of primarily Rogers family members.</p></scopecontent></c03><c03 id="aspace_VAD7490-00038" level="file"><did><unittitle>Martha L. Alexander, widow of William Alexander, Pension Certificate</unittitle><unitdate normal="1882/1882">1882</unitdate><container id="aspace_3724650b9e034ee674452b07e33e27b6" label="box" type="box">1</container></did></c03></c02></c01><c01 id="aspace_VAD7490-00039" level="series"><did><unittitle>Military artifacts</unittitle><unitdate normal="1862/1879" type="inclusive">circa 1862-1870s</unitdate></did><c02 id="aspace_VAD7490-00040" level="item"><did><unittitle>Sword</unittitle><unitdate normal="1862/1865" type="inclusive">circa 1862-1865</unitdate><container id="aspace_43a10debd5f83a5bcdfe27552b4113f1" label="box" type="box">3</container></did></c02><c02 id="aspace_VAD7490-00041" level="item"><did><unittitle>Chevalier Paris binoculars</unittitle><unitdate normal="1862/1865" type="inclusive">circa 1862-1865?</unitdate><container id="aspace_7ab9c2cd20334f714f82e78992159ef6" label="box" type="box">4</container></did></c02><c02 id="aspace_VAD7490-00042" level="item"><did><unittitle>Post-Civil War Infantry Captain's shoulder insignia</unittitle><unitdate normal="1862/1879" type="inclusive">circa 1860s-1870s?</unitdate><container id="aspace_60cd552a9bad2e94228438fb478a5347" label="box" type="box">3</container></did></c02></c01></dsc>
+</archdesc>
+</ead>
