@@ -34,10 +34,3 @@ tr.needs-update {
   background-color: $iu-cream;
 }
 
-// Show page breadcrumbs
-@for $i from 4 to 14 {
-  .breadcrumb-item.breadcrumb-item-#{$i}.media .blacklight-icons svg {
-    height: (13-$i) * .1rem;
-    width: (13-$i) * .1rem;
-  }
-}
