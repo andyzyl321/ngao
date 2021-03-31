@@ -204,6 +204,12 @@ to_field 'digital_objects_ssm', extract_xpath('/ead/archdesc/did/dao|/ead/archde
   end
 end
 
+to_field 'purl_ssi' do |_record, accumulator, context|
+  repo_name = settings['repository']
+  ead_number = context.output_hash['ead_ssi'].first
+  accumulator << "http://purl.dlib.indiana.edu/iudl/findingaids/#{repo_name}/#{ead_number}"
+end
+
 to_field 'extent_ssm', extract_xpath('/ead/archdesc/did/physdesc', to_text: false) do |_record, accumulator|
   accumulator.map! do |element|
     extent_array = []
@@ -258,6 +264,12 @@ NAME_ELEMENTS.map do |selector|
   to_field 'names_coll_ssim', extract_xpath("/ead/archdesc/controlaccess/#{selector}")
   to_field 'names_ssim', extract_xpath("//#{selector}")
   to_field "#{selector}_ssm", extract_xpath("//#{selector}")
+end
+
+to_field 'full_citation_ssm' do |_record, accumulator, context|
+  preferred_citation = context.output_hash['prefercite_ssm'].first.children.text
+  purl_link = context.output_hash['purl_ssi'].first
+  accumulator << preferred_citation + ' ' + purl_link
 end
 
 to_field 'corpname_sim', extract_xpath('//corpname')
