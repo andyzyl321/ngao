@@ -37,9 +37,11 @@ SEARCHABLE_NOTES_FIELDS = %w[
   bioghist
   custodhist
   fileplan
+  materialspec
   note
   odd
   originalsloc
+  origination
   otherfindaid
   phystech
   prefercite

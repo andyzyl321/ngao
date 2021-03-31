@@ -179,5 +179,8 @@
         </did>
       </c01>
     </dsc>
+    <odd id="aspace_03c5d94d48f3927457ef141f48332291"><head>General</head><p>Note:</p><p> One burnt field notebook with locality coordinates is separated for special care.</p></odd>
+    <materialspec id="aspace_03c5d94d48f3927457ef141f48332291"><head>General</head><p>Note:</p><p> Materials specific details.</p></materialspec>
+    <originalsloc id="aspace_03c5d94d48f3927457ef141f48332291"><head>General</head><p>Note:</p><p>Existence and location of originals.</p></originalsloc>
   </archdesc>
 </ead>
