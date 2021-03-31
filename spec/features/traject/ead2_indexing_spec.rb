@@ -68,5 +68,11 @@ RSpec.describe 'EAD 2 traject indexing', type: :feature do
     it 'generates a preferred citation' do
       expect(result['full_citation_ssm']).to eq ['[Item], Alströmer mss., Lilly Library, Indiana University, Bloomington, Indiana. http://purl.dlib.indiana.edu/iudl/findingaids/lilly/InU-Li-VAD6017']
     end
+
+    it 'indexes all of the notes fields' do
+      expect(result['odd_ssm'].last).to match(/One burnt field notebook with locality coordinates is separated for special care/)
+      expect(result['materialspec_ssm'].last).to match(/Materials specific details/)
+      expect(result['originalsloc_ssm'].last).to match(/Existence and location of originals/)
+    end
   end
 end
