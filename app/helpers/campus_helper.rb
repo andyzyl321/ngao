@@ -18,6 +18,6 @@ module CampusHelper
   end
 
   def campus_image(campus)
-    "#{campus}.jpeg"
+    "#{campus}.jpg"
   end
 end
