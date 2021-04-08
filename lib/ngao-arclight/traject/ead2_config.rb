@@ -208,7 +208,7 @@ end
 
 to_field 'purl_ssi' do |_record, accumulator, context|
   repo_name = settings['repository']
-  ead_number = context.output_hash['ead_ssi'].first
+  ead_number = context.output_hash['ead_ssi']&.first
   accumulator << "http://purl.dlib.indiana.edu/iudl/findingaids/#{repo_name}/#{ead_number}"
 end
 
@@ -269,9 +269,17 @@ NAME_ELEMENTS.map do |selector|
 end
 
 to_field 'full_citation_ssm' do |_record, accumulator, context|
-  preferred_citation = context.output_hash['prefercite_ssm'].first.children.text
-  purl_link = context.output_hash['purl_ssi'].first
-  accumulator << preferred_citation + ' ' + purl_link
+  preferred_citation = context.output_hash['prefercite_ssm']&.first.children.text
+  purl_link = context.output_hash['purl_ssi']&.first
+  if preferred_citation.present? && purl_link.present?
+    accumulator << preferred_citation + ' ' + purl_link
+  elsif preferred_citation.present? && purl_link.blank?
+    accumulator << preferred_citation
+  elsif preferred_citation.blank? && purl_link.present?
+    accumulator << purl_link
+  else
+    accumulator
+  end
 end
 
 to_field 'corpname_sim', extract_xpath('//corpname')
