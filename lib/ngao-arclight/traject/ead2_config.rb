@@ -212,17 +212,41 @@ to_field 'purl_ssi' do |_record, accumulator, context|
   accumulator << "http://purl.dlib.indiana.edu/iudl/findingaids/#{repo_name}/#{ead_number}"
 end
 
+to_field 'physdesc_ssm', extract_xpath('/ead/archdesc/did/physdesc', to_text: false) do |_record, accumulator|
+  accumulator.map! do |element|
+    physdesc = []
+    element.children.map do |child|
+      next if child.class == Nokogiri::XML::Element
+
+      physdesc << child.text&.strip unless child.text&.strip.empty?
+    end.flatten
+    physdesc.join(' ') unless physdesc.empty?
+  end
+end
+
+to_field 'physdesc_teim', extract_xpath('/ead/archdesc/did/physdesc', to_text: false) do |_record, accumulator|
+  accumulator.map! do |element|
+    physdesc = []
+    element.children.map do |child|
+      next if child.class == Nokogiri::XML::Element
+
+      physdesc << child.text&.strip unless child.text&.strip.empty?
+    end.flatten
+    physdesc.join(' ') unless physdesc.empty?
+  end
+end
+
 to_field 'extent_ssm', extract_xpath('/ead/archdesc/did/physdesc', to_text: false) do |_record, accumulator|
   accumulator.map! do |element|
     extent_array = []
     %w[extent].map do |selector|
       extent = element.xpath(".//#{selector}").map(&:text)
-      first = extent.shift
+      first = extent.shift unless extent.empty?
       others = '(' + extent.join(' ') + ')' unless extent.empty?
-      extent_array << first
-      extent_array << others
+      extent_array << first unless first.nil?
+      extent_array << others unless others.nil?
     end.flatten
-    extent_array.join(' ')
+    extent_array.join(' ') unless extent_array.empty?
   end
 end
 
@@ -231,12 +255,12 @@ to_field 'extent_teim', extract_xpath('/ead/archdesc/did/physdesc', to_text: fal
     extent_array = []
     %w[extent].map do |selector|
       extent = element.xpath(".//#{selector}").map(&:text)
-      first = extent.shift
+      first = extent.shift unless extent.empty?
       others = '(' + extent.join(' ') + ')' unless extent.empty?
-      extent_array << first
-      extent_array << others
+      extent_array << first unless first.nil?
+      extent_array << others unless others.nil?
     end.flatten
-    extent_array.join(' ')
+    extent_array.join(' ') unless extent_array.empty?
   end
 end
 
@@ -446,17 +470,40 @@ compose 'components', ->(record, accumulator, _context) { accumulator.concat rec
     accumulator.concat context.clipboard[:parent].output_hash['normalized_title_ssm']
   end
 
+  to_field 'physdesc_ssm', extract_xpath('./did/physdesc', to_text: false) do |_record, accumulator|
+    accumulator.map! do |element|
+      physdesc = []
+      element.children.map do |child|
+        next if child.class == Nokogiri::XML::Element
+
+        physdesc << child.text&.strip unless child.text&.strip.empty?
+      end.flatten
+      physdesc.join(' ') unless physdesc.empty?
+    end
+  end
+
+  to_field 'physdesc_teim', extract_xpath('./did/physdesc', to_text: false) do |_record, accumulator|
+    accumulator.map! do |element|
+      physdesc = []
+      element.children.map do |child|
+        next if child.class == Nokogiri::XML::Element
+
+        physdesc << child.text&.strip unless child.text&.strip.empty?
+      end.flatten
+      physdesc.join(' ') unless physdesc.empty?
+    end
+  end
   to_field 'extent_ssm', extract_xpath('./did/physdesc', to_text: false) do |_record, accumulator|
     accumulator.map! do |element|
       extent_array = []
       %w[extent].map do |selector|
         extent = element.xpath(".//#{selector}").map(&:text)
-        first = extent.shift
+        first = extent.shift unless extent.empty?
         others = '(' + extent.join(' ') + ')' unless extent.empty?
-        extent_array << first
-        extent_array << others
+        extent_array << first unless first.nil?
+        extent_array << others unless others.nil?
       end.flatten
-      extent_array.join(' ')
+      extent_array.join(' ') unless extent_array.empty?
     end
   end
 
@@ -465,12 +512,12 @@ compose 'components', ->(record, accumulator, _context) { accumulator.concat rec
       extent_array = []
       %w[extent].map do |selector|
         extent = element.xpath(".//#{selector}").map(&:text)
-        first = extent.shift
+        first = extent.shift unless extent.empty?
         others = '(' + extent.join(' ') + ')' unless extent.empty?
-        extent_array << first
-        extent_array << others
+        extent_array << first unless first.nil?
+        extent_array << others unless others.nil?
       end.flatten
-      extent_array.join(' ')
+      extent_array.join(' ') unless extent_array.empty?
     end
   end
 
