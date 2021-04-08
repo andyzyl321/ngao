@@ -269,7 +269,7 @@ NAME_ELEMENTS.map do |selector|
 end
 
 to_field 'full_citation_ssm' do |_record, accumulator, context|
-  preferred_citation = context.output_hash['prefercite_ssm']&.first.children.text
+  preferred_citation = context.output_hash['prefercite_ssm']&.first&.children&.text
   purl_link = context.output_hash['purl_ssi']&.first
   if preferred_citation.present? && purl_link.present?
     accumulator << preferred_citation + ' ' + purl_link
