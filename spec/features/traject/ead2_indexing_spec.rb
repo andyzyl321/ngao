@@ -74,5 +74,11 @@ RSpec.describe 'EAD 2 traject indexing', type: :feature do
       expect(result['materialspec_ssm'].last).to match(/Materials specific details/)
       expect(result['originalsloc_ssm'].last).to match(/Existence and location of originals/)
     end
+
+    it 'collection acqinfo does not show on child elements' do
+      expect(result['acqinfo_ssim']).to eq ['Purchase:  1982']
+      component = result['components'].find { |c| c['id'] == ['InU-Li-VAD6017aspace_VAD6017-00001'] }
+      expect(component['acqinfo_ssim']).to eq ['Child acqinfo']
+    end
   end
 end
