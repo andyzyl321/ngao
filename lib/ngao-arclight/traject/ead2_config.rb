@@ -209,7 +209,7 @@ end
 to_field 'purl_ssi' do |_record, accumulator, context|
   repo_name = settings['repository']
   ead_number = context.output_hash['ead_ssi']&.first
-  accumulator << "http://purl.dlib.indiana.edu/iudl/findingaids/#{repo_name}/#{ead_number}"
+  accumulator << "<a href='http://purl.dlib.indiana.edu/iudl/findingaids/#{repo_name}/#{ead_number}'>http://purl.dlib.indiana.edu/iudl/findingaids/#{repo_name}/#{ead_number}</a>"
 end
 
 to_field 'physdesc_ssm', extract_xpath('/ead/archdesc/did/physdesc', to_text: false) do |_record, accumulator|

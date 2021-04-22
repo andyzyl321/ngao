@@ -309,11 +309,6 @@ module ArclightHelper
     )
   end
 
-  # Custom show page method for displaying links
-  def link_to_url(arg)
-    link_to(arg[:value][0], arg[:value][0])
-  end
-
   ##
   # Determine if the user is currently under a collection context
   # This is any record view (because it is either the collection or a component w/i a collection)
