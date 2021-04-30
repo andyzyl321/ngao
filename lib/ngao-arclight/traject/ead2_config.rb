@@ -277,7 +277,11 @@ to_field 'date_range_sim', extract_xpath('/ead/archdesc/did/unitdate/@normal', t
 end
 
 SEARCHABLE_NOTES_FIELDS.map do |selector|
-  to_field "#{selector}_ssm", extract_xpath("/ead/archdesc/#{selector}/*[local-name()!='head']", to_text: false)
+  if "#{selector}" == "scopecontent" then
+    to_field "#{selector}_tesim", extract_xpath("/ead/archdesc/#{selector}/*[local-name()!='head']", to_text: false)
+  else
+    to_field "#{selector}_ssm", extract_xpath("/ead/archdesc/#{selector}/*[local-name()!='head']", to_text: false)
+  end
   to_field "#{selector}_heading_ssm", extract_xpath("/ead/archdesc/#{selector}/head") unless selector == 'prefercite'
   to_field "#{selector}_teim", extract_xpath("/ead/archdesc/#{selector}/*[local-name()!='head']")
 end
@@ -461,7 +465,7 @@ compose 'components', ->(record, accumulator, _context) { accumulator.concat rec
       physdesc = []
       element.children.map do |child|
         next if child.class == Nokogiri::XML::Element
-  
+
         physdesc << child.text&.strip unless child.text&.strip.empty?
       end.flatten
       physdesc.join(' ') unless physdesc.empty?
@@ -473,7 +477,7 @@ compose 'components', ->(record, accumulator, _context) { accumulator.concat rec
       physdesc = []
       element.children.map do |child|
         next if child.class == Nokogiri::XML::Element
-  
+
         physdesc << child.text&.strip unless child.text&.strip.empty?
       end.flatten
       physdesc.join(' ') unless physdesc.empty?
@@ -621,7 +625,11 @@ compose 'components', ->(record, accumulator, _context) { accumulator.concat rec
   end
 
   SEARCHABLE_NOTES_FIELDS.map do |selector|
-    to_field "#{selector}_ssm", extract_xpath("./#{selector}/*[local-name()!='head']", to_text: false)
+    if "#{selector}" == "scopecontent" then
+      to_field "#{selector}_tesim", extract_xpath("./#{selector}/*[local-name()!='head']", to_text: false)
+    else
+      to_field "#{selector}_ssm", extract_xpath("./#{selector}/*[local-name()!='head']", to_text: false)
+    end
     to_field "#{selector}_heading_ssm", extract_xpath("./#{selector}/head")
     to_field "#{selector}_teim", extract_xpath("./#{selector}/*[local-name()!='head']")
   end
