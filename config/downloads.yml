@@ -19,5 +19,7 @@ sample_unitid:
     # size_accessor: 'level'
 default:
   disabled: false
+  html:
+    template: '/html/%{eadid}.html'
   ead:
     template: '/ead/%{eadid}.xml'
