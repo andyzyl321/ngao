@@ -4,7 +4,7 @@ require 'spec_helper'
 require 'pathname'
 
 RSpec.describe EadProcessor do
-  xit 'gets the client without args' do
+  it 'gets the client without args' do
     client = EadProcessor.client
     expect(client).to eq 'http://localhost/assets/ead_export/'
   end
