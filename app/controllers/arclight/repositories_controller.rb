@@ -8,7 +8,7 @@ module Arclight
   class RepositoriesController < ApplicationController
     def index
       @repositories = Arclight::Repository.all
-      @campuses = @repositories.sort_by{ |repository| repository.name }.group_by{ |campus| campus.campus }.sort_by{ |campus| campus.name}
+      @campuses = @repositories.sort_by{ |repository| repository.name }.group_by{ |campus| campus.campus }.sort_by{ |k, v| v }
       load_collection_counts
     end
 
