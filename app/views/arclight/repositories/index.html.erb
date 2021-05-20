@@ -13,9 +13,7 @@
     <%# ADD CAMPUS CARDS %>
     <div class="row">
       <%# adding sort by campus name at this point%>
-      <% @campuses = @campuses.sort_by{ |campus| convert_campus_id(campus) }
-      
-      @campuses.each do |campus| %>
+      <% @campuses.sort_by{ |key| convert_campus_id(key) }.each do |campus| %>
         <%= render partial: 'campus_card', locals: {campus: campus[0]} %>
       <% end %>
     </div>
