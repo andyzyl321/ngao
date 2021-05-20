@@ -8,7 +8,7 @@ module Arclight
   class RepositoriesController < ApplicationController
     def index
       @repositories = Arclight::Repository.all
-      @campuses = @repositories.sort_by{ |repository| repository.name }.group_by{ |campus| campus.campus }.sort
+      @campuses = @repositories.sort_by{ |repository| repository.name }.group_by{ |campus| campus.campus }
       #.sort_by{ |campus| convert_campus_id(campus) } this does not work because conver_campus_id cannot be called at this point
       #.sort { |k, v| k[1]<=>v[1] } this won't work since campus.name was actually returning repository name
       load_collection_counts
