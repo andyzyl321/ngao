@@ -69,6 +69,7 @@ group :test do
   gem 'capybara', '>= 2.15'
   gem 'webdrivers'
   gem 'shoulda-matchers'
+  gem 'database_cleaner-active_record'
 end
 
 
