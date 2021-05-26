@@ -91,6 +91,13 @@ class EadProcessor
     EadProcessor.delay.index_file(fpath, repository)
   end
 
+  # for deleting a single ead file
+  def self.delete_single_ead(args = {})
+    filename = args[:ead]
+    ENV['FILE'] = filename
+    `bundle exec rake ngao:delete_ead`
+  end
+
   # extract file
   def self.extract_file(file, directory)
     Zip::File.open(file) do |zip_file|
@@ -161,10 +168,32 @@ class EadProcessor
     return eads
   end
 
+  # get list of eads in solr and postgres but no longer on archive space
+  def self.get_delta_eads(args = {})
+    delta_eads = []
+    archive_space_eads = []
+    for ead in page(args).css('a')
+      name = ead.attributes['href'].value
+      ext = File.extname(name)
+      name = File.basename(name, File.extname(name))
+      next unless ext == '.xml'
+
+      ead_filename = name + ext
+      archive_space_eads << ead_filename
+    end
+    local_eads = Ead.all.collect.each { |e| e.filename }
+    delta_eads = local_eads - archive_space_eads
+    delta_eads.uniq.sort
+  end
+
   def self.add_ead_to_db(filename, repository_id)
     Ead.where(filename: filename).first_or_create do |ead|
       ead.repository = Repository.find_by(repository_id: repository_id)
     end
+  end
+
+  def self.remove_ead_from_db(filename)
+    Ead.find_by(filename: filename)&.destroy
   end
 
   def self.add_last_indexed(filename, indexed_at)

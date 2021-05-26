@@ -6,13 +6,19 @@ To setup the server:
 
 ```
 bundle install
-bundle exec rake db:migrate
 ```
 
 Then, in a separate console, run the Rails and Solr servers:
 
 ```
 bundle exec rake demo:server  # runs both Rails and Solr
+```
+
+Note: Only run the three commands below only if it is the first time spinning up the app locally.
+```
+bundle exec rake db:migrate
+bundle exec rake assets:precompile
+bundle exec rake db:test:prepare
 ```
 
 ## Indexing sample data
@@ -31,6 +37,20 @@ rake build_solr_suggest
 
 curl http://127.0.0.1:8983/solr/blacklight-core/suggest\?suggest.build\=true
 ```
+
+## Running tests
+
+To run tests use:
+```
+bundle exec rspec
+```
+
+There are a few very slow tests that involve the OmniAuth controller.  These have been excluded by default.  To run these tests specifically use:
+```
+bundle exec rspec --tag omni spec/
+```
+Edit `./.rspec` to change which tests are excluded by default.
+
 ## Updating the application
 
 See https://github.com/sul-dlss/arclight/wiki/Upgrading-your-ArcLight-application

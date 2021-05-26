@@ -18,6 +18,38 @@
             <div class="row col">
               <%= link_to "Index all EADs for all repositories", index_eads_url, class: "btn btn-lg btn-primary mt-4 mb-4" %>
             </div>
+            <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+              <div class="panel panel-default">
+                  <div class="panel-heading" role="tab" id="headingOne">
+                      <h4 class="panel-title">
+                          <a role="button" class="toggle-delete collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                              Delete EAD
+                          </a>
+                      </h4>
+                  </div>
+                  <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+                    <div class="panel-body">
+                      <p>EADs that are no longer present on ArchiveSpace but have not yet been purged from Archives Online.</p>
+                      <table class="table">
+                        <thead>
+                          <tr>
+                            <th>Ead</th>
+                            <th class="text-right">Action</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          <% @delta_eads.each do |d| %>
+                            <tr>
+                              <td><%= d %></td>                       
+                              <td class="text-right"><%= link_to "Delete", delete_ead_url(ead: d), class: 'btn btn-sm btn-primary', data: { confirm: "Are you sure?" } %></td>
+                            </tr>
+                          <% end %>
+                        </tbody>
+                      </table>
+                    </div>
+                  </div>
+              </div>
+            </div>
           <% end %>
         
           <div class="row mb-1">
@@ -39,7 +71,7 @@
                       <th>Eads in this Repository</th>
                       <th>Last Update</th>
                       <th>Last Index</th>
-                      <th></th>
+                      <th>Actions</th>
                     </tr>
                   </thead>
                   <tbody>
@@ -52,6 +84,7 @@
                         <td><%= ead.last_indexed_at&.strftime("%m/%d/%Y at %I:%M%p") %></td>
                         <td>
                           <%= link_to "Index", index_ead_url(repository: repo.repository_id, ead: ead.filename), class: 'btn btn-sm btn-primary' %>
+                          <%= link_to "Delete", delete_ead_url(ead: ead.filename), class: 'btn btn-sm btn-primary', data: { confirm: "Are you sure?" } %>
                         </td>
                       </tr>
                     <% end %>

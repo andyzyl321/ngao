@@ -158,3 +158,20 @@ li.al-collection-context .al-online-content-icon svg,
   background-color: $iu-white;
   color: $iu-grey;
 }
+
+// Collapse +/- indicators on admin delete dropdown
+.toggle-delete {
+  color: black;
+  &::before {
+    content: image-url('blacklight/plus.svg');
+    float: right;
+  }
+  &:not(.collapsed)::before {
+    content: image-url('blacklight/minus.svg');
+    float: right;
+  }
+}
+
+.toggle-delete:hover {
+  text-decoration: none;
+}

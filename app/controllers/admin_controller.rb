@@ -6,6 +6,7 @@ class AdminController < ApplicationController
     EadProcessor.get_updated_eads
     @users = User.all
     @repositories = current_user.admin? ? Repository.all : current_user.repositories
+    @delta_eads = EadProcessor.get_delta_eads
   end
 
   def index_eads
@@ -25,6 +26,14 @@ class AdminController < ApplicationController
     args = { ead: file, repository: repository }
     EadProcessor.delay.index_single_ead(args)
     redirect_to admin_path, notice: 'The file is being indexed in the background and will be ready soon.'
+  end
+
+  def delete_ead
+    # Ead format - VAD5800.xml
+    file = params[:ead]
+    args = { ead: file}
+    EadProcessor.delete_single_ead(args)
+    redirect_to admin_path, notice: 'The file is being deleted in the background and will be removed soon.'
   end
 
   def delete_user

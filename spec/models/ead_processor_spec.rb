@@ -3,7 +3,7 @@
 require 'spec_helper'
 require 'pathname'
 
-RSpec.describe EadProcessor do
+RSpec.describe EadProcessor, clean: true do
   it 'gets the client without args' do
     client = EadProcessor.client
     expect(client).to eq 'http://localhost/assets/ead_export/'
@@ -81,9 +81,9 @@ RSpec.describe EadProcessor do
 
   context 'eads' do
     let(:repository) { Repository.new }
+    let(:filename) { 'VAD3254.xml' }
 
     it 'adds the ead to the db' do
-      filename = 'VAD3254.xml'
       repository.repository_id = 'mix'
       ead = EadProcessor.add_ead_to_db(filename, repository.repository_id)
       expect(ead.filename).to eq(filename)
@@ -91,7 +91,6 @@ RSpec.describe EadProcessor do
 
     it 'adds the ead last_updated_at' do
       repository.repository_id = 'mix'
-      filename = 'VAD3254.xml'
       ead = EadProcessor.add_ead_to_db(filename, repository.repository_id)
       last_updated_at = Time.now
       updated_ead = EadProcessor.add_last_updated(filename, last_updated_at)
@@ -100,11 +99,20 @@ RSpec.describe EadProcessor do
 
     it 'adds the ead last_indexed_at' do
       repository.repository_id = 'mix'
-      filename = 'VAD3254.xml'
       ead = EadProcessor.add_ead_to_db(filename, repository.repository_id)
       last_indexed_at = Time.now
       updated_ead = EadProcessor.add_last_updated(filename, last_indexed_at)
       expect(updated_ead).to be true
+    end
+
+    it 'removes a single ead' do
+      repository.repository_id = 'mix'
+      ead = EadProcessor.add_ead_to_db(filename, repository.repository_id)
+      r = repository.save
+      existing_repo = Repository.find(1)
+      expect(Ead.count).to eq 1
+      EadProcessor.remove_ead_from_db(filename)
+      expect(Ead.count).to eq 0
     end
   end
 end
