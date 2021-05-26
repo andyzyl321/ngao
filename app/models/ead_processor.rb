@@ -63,6 +63,8 @@ class EadProcessor
         zip_file.extract(f, fpath)
         add_ead_to_db(filename, directory)
         add_last_indexed(filename, DateTime.now)
+        EadProcessor.save_ead_for_downloading(fpath)
+        EadProcessor.convert_ead_to_html(fpath)
         EadProcessor.delay.index_file(fpath, directory)
       end
     end
@@ -84,6 +86,8 @@ class EadProcessor
     IO.copy_stream(download, fpath)
     filename = File.basename(fpath)
     add_last_indexed(filename, DateTime.now)
+    EadProcessor.save_ead_for_downloading(fpath)
+    EadProcessor.convert_ead_to_html(fpath)
     EadProcessor.delay.index_file(fpath, repository)
   end
 
@@ -181,6 +185,26 @@ class EadProcessor
       ead_last_updated_at = DateTime.parse(ead.next_sibling.text)
       add_last_updated(ead_filename, ead_last_updated_at)
     end
+  end
+
+  # copies ead to public directory for downloading
+  def self.save_ead_for_downloading(file)
+    directory = './public/ead'
+    FileUtils.mkdir_p directory unless File.exist?(directory)
+    fpath = File.join(directory, file)
+    File.delete(fpath) if File.exist?(fpath)
+    FileUtils.cp(file, directory)
+  end
+
+  # converts the saved ead to html and saves in public directory for downloading
+  def self.convert_ead_to_html(file)
+    directory = './public/html'
+    FileUtils.mkdir_p directory unless File.exist?(directory)
+    filename = File.basename(file, '.xml')    
+    xslt = Nokogiri::XSLT(File.read('app/templates/template.xslt'))
+    doc = Nokogiri::XML(File.read(file))
+    doc.remove_namespaces!
+    File.write("public/html/#{filename}.html", xslt.transform(doc))
   end
 
   # check if should process file
