@@ -310,12 +310,11 @@ Devise.setup do |config|
   # up on your models and hooks.
   # config.omniauth :github, 'APP_ID', 'APP_SECRET', scope: 'user,public_repo'
   config.omniauth :cas,
-                  :host => 'cas.iu.edu',
-                  :login_url => '/cas/login',
-                  :service_validate_url => '/cas/serviceValidate',
-                  :logout_url => '/cas/logout',
-                  :cassvc => 'ANY',
-                  :ssl => true
+                  host: ENV['CAS_HOST'] || 'idp-stg.login.iu.edu',
+                  login_url: ENV['CAS_LOGIN_URL'] || '/idp/profile/cas/login',
+                  service_validate_url: ENV['CAS_VALIDATE_URL'] || '/idp/profile/cas/serviceValidate',
+                  logout_url: ENV['CAS_LOGOUT_URL'] || '/idp/profile/cas/logout',
+                  ssl: true
 
   # ==> Warden configuration
   # If you want to use other strategies, that are not supported by Devise, or

@@ -96,5 +96,5 @@ gem 'mysql2'
 gem 'whenever', require: false
 gem 'delayed_job_active_record'
 gem "delayed_job_web"
-gem 'omniauth-iu-cas'
+gem 'omniauth-cas'
 gem 'daemons'
